@@ -1,0 +1,17 @@
+{
+  "identity_key": "cro:dublin-001",
+  "target_name": "Dublin Facilities Group Limited",
+  "readiness": "ic_ready",
+  "score": 70.1,
+  "evidence_gap_count": 2,
+  "blockers": [],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex",
+    "pdf_candidate"
+  ]
+}

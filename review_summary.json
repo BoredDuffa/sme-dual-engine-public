@@ -1,0 +1,14 @@
+{
+  "queue_count": 4,
+  "status_counts": {
+    "researching": 4
+  },
+  "decision_counts": {
+    "contact": 2,
+    "research_more": 2
+  },
+  "priority_counts": {
+    "high": 4
+  },
+  "high_priority_count": 4
+}

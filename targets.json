@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Dublin Facilities Group Limited",
+    "normalized_name": "dublin facilities group",
+    "county": "Dublin",
+    "town": "Dublin 2 / Docklands",
+    "sector": "Facilities management / Commercial services",
+    "source": "cro_open_services",
+    "source_key": "dublin-001",
+    "source_section": "dublin_priority",
+    "source_url": "https://example.com/dublin-001",
+    "cro_number": "dublin-001",
+    "company_status": "Normal",
+    "company_age_years": 31.0,
+    "registered_at": null,
+    "registered_address": null,
+    "website": "https://example.com/dublin-facilities",
+    "phone": "+353 1 0000001",
+    "email": null,
+    "price_text": null,
+    "price_value": null,
+    "summary": "Founder-led facilities and compliance services provider for Dublin offices.",
+    "evidence_text": null,
+    "fit_score": null,
+    "fit_decision": null,
+    "is_franchise": false,
+    "is_business_opportunity": false,
+    "is_property_only": false,
+    "diligence_status": "new",
+    "manual_notes": null,
+    "metadata": {
+      "company_size": "medium",
+      "oldest_director_age": 67,
+      "derived_sector_family": "facilities",
+      "has_address_hint": true,
+      "website_domain": "example.com",
+      "entity_id": "entity-00003",
+      "member_count": 1
+    },
+    "provenance": {
+      "detail_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "oldest_director_age": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_size": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "category": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_section": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_status": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_age_years": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "phone": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "county": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_key": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "normalized_name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "summary": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "website": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "title": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "town": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "sector": {
+        "source_name": "local_enrichment",
+        "source_url": null,
+        "observed_at": null,
+        "confidence": 0.55,
+        "value_kind": "inferred"
+      }
+    }
+  },
+  {
+    "name": "Dublin Health Clinics Limited",
+    "normalized_name": "dublin health clinics",
+    "county": "Dublin",
+    "town": "Dublin 6 / Rathmines",
+    "sector": "Healthcare clinic services",
+    "source": "cro_open_services",
+    "source_key": "dublin-002",
+    "source_section": "dublin_priority",
+    "source_url": "https://example.com/dublin-002",
+    "cro_number": "dublin-002",
+    "company_status": "Normal",
+    "company_age_years": 19.0,
+    "registered_at": null,
+    "registered_address": null,
+    "website": "https://example.com/dublin-health",
+    "phone": "+353 1 0000002",
+    "email": null,
+    "price_text": null,
+    "price_value": null,
+    "summary": "Owner-operated private clinic group with repeat local demand.",
+    "evidence_text": null,
+    "fit_score": null,
+    "fit_decision": null,
+    "is_franchise": false,
+    "is_business_opportunity": false,
+    "is_property_only": false,
+    "diligence_status": "new",
+    "manual_notes": null,
+    "metadata": {
+      "company_size": "small",
+      "oldest_director_age": 54,
+      "derived_sector_family": "healthcare",
+      "has_address_hint": true,
+      "website_domain": "example.com",
+      "entity_id": "entity-00004",
+      "member_count": 1
+    },
+    "provenance": {
+      "detail_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "oldest_director_age": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_size": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "category": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_section": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_status": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_age_years": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "phone": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "county": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_key": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "normalized_name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "summary": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "website": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "title": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "town": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/dublin-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "sector": {
+        "source_name": "local_enrichment",
+        "source_url": null,
+        "observed_at": null,
+        "confidence": 0.55,
+        "value_kind": "inferred"
+      }
+    }
+  },
+  {
+    "name": "Galway Landscape Services Limited",
+    "normalized_name": "galway landscape services",
+    "county": "Galway",
+    "town": "Oranmore",
+    "sector": "Landscaping / Grounds Services",
+    "source": "cro_open_services",
+    "source_key": "galway-001",
+    "source_section": "galway_priority",
+    "source_url": "https://example.com/galway-001",
+    "cro_number": "galway-001",
+    "company_status": "Normal",
+    "company_age_years": 24.0,
+    "registered_at": null,
+    "registered_address": null,
+    "website": "https://example.com/galway-landscape",
+    "phone": "+353 91 000001",
+    "email": null,
+    "price_text": null,
+    "price_value": null,
+    "summary": "Established family-run landscaping contractor serving Galway commercial clients.",
+    "evidence_text": null,
+    "fit_score": null,
+    "fit_decision": null,
+    "is_franchise": false,
+    "is_business_opportunity": false,
+    "is_property_only": false,
+    "diligence_status": "new",
+    "manual_notes": null,
+    "metadata": {
+      "company_size": "small",
+      "oldest_director_age": 63,
+      "derived_sector_family": "facilities",
+      "has_address_hint": true,
+      "website_domain": "example.com",
+      "entity_id": "entity-00001",
+      "member_count": 1
+    },
+    "provenance": {
+      "detail_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "oldest_director_age": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_size": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "category": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_section": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_status": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_age_years": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "phone": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "county": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_key": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "normalized_name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "summary": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "website": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "title": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "town": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-001",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "sector": {
+        "source_name": "local_enrichment",
+        "source_url": null,
+        "observed_at": null,
+        "confidence": 0.55,
+        "value_kind": "inferred"
+      }
+    }
+  },
+  {
+    "name": "Galway Mechanical Services Limited",
+    "normalized_name": "galway mechanical services",
+    "county": "Galway",
+    "town": "Galway City",
+    "sector": "HVAC / Construction",
+    "source": "cro_open_services",
+    "source_key": "galway-002",
+    "source_section": "galway_priority",
+    "source_url": "https://example.com/galway-002",
+    "cro_number": "galway-002",
+    "company_status": "Normal",
+    "company_age_years": 28.0,
+    "registered_at": null,
+    "registered_address": null,
+    "website": "https://example.com/galway-mechanical",
+    "phone": "+353 91 000002",
+    "email": null,
+    "price_text": null,
+    "price_value": null,
+    "summary": "Established family-run commercial heat pump and facilities contractor.",
+    "evidence_text": null,
+    "fit_score": null,
+    "fit_decision": null,
+    "is_franchise": false,
+    "is_business_opportunity": false,
+    "is_property_only": false,
+    "diligence_status": "new",
+    "manual_notes": null,
+    "metadata": {
+      "company_size": "medium",
+      "oldest_director_age": 58,
+      "derived_sector_family": "construction",
+      "has_address_hint": true,
+      "website_domain": "example.com",
+      "entity_id": "entity-00002",
+      "member_count": 1
+    },
+    "provenance": {
+      "detail_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "oldest_director_age": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_size": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_url": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "category": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_section": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_status": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "company_age_years": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "phone": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "county": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "source_key": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "normalized_name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "summary": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "website": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "title": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "name": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "town": {
+        "source_name": "cro_open_services",
+        "source_url": "https://example.com/galway-002",
+        "observed_at": null,
+        "confidence": 1.0,
+        "value_kind": "observed"
+      },
+      "sector": {
+        "source_name": "local_enrichment",
+        "source_url": null,
+        "observed_at": null,
+        "confidence": 0.55,
+        "value_kind": "inferred"
+      }
+    }
+  }
+]

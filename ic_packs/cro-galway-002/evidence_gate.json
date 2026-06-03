@@ -1,0 +1,17 @@
+{
+  "identity_key": "cro:galway-002",
+  "target_name": "Galway Mechanical Services Limited",
+  "readiness": "ic_ready",
+  "score": 81.1,
+  "evidence_gap_count": 2,
+  "blockers": [],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex",
+    "pdf_candidate"
+  ]
+}

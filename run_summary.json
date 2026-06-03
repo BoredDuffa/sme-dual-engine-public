@@ -1,0 +1,3490 @@
+{
+  "input": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-sme-dashboard-sample.json",
+  "input_source": null,
+  "target_count": 4,
+  "entity_count": 4,
+  "assessment_count": 4,
+  "returned_count": 4,
+  "written": {
+    "sqlite": "/tmp/sme-dual-engine-public.sqlite",
+    "dashboard_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/index.html",
+    "targets_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/targets.json",
+    "rankings_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/rankings.json",
+    "engine_diagnostics_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/engine_diagnostics.json",
+    "engine_diagnostics_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/engine_diagnostics.md",
+    "review_queue_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/review_queue.json",
+    "review_summary_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/review_summary.json",
+    "market_intelligence_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/market_intelligence.json",
+    "data_readiness_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/data_readiness.json",
+    "ic_pack_summary_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_pack_summary.json",
+    "ic_packs_dir": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs",
+    "entity_clusters_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/entity_clusters.json",
+    "validation_report_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/validation_report.json",
+    "source_manifest_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/source_manifest.json",
+    "top_target_ic_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/top_target_ic.md",
+    "top_target_ic_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/top_target_ic.html",
+    "top_target_ic_tex": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/top_target_ic.tex"
+  },
+  "validation": {
+    "raw": {
+      "target_count": 4,
+      "issue_count": 0,
+      "error_count": 0,
+      "warning_count": 0,
+      "with_contact_evidence": 4,
+      "with_strong_identity": 4,
+      "source_counts": {
+        "cro_open_services": 4
+      },
+      "county_counts": {
+        "Galway": 2,
+        "Dublin": 2
+      },
+      "field_issue_counts": {},
+      "issues": []
+    },
+    "enriched": {
+      "target_count": 4,
+      "issue_count": 0,
+      "error_count": 0,
+      "warning_count": 0,
+      "with_contact_evidence": 4,
+      "with_strong_identity": 4,
+      "source_counts": {
+        "cro_open_services": 4
+      },
+      "county_counts": {
+        "Galway": 2,
+        "Dublin": 2
+      },
+      "field_issue_counts": {},
+      "issues": []
+    },
+    "canonical": {
+      "target_count": 4,
+      "issue_count": 0,
+      "error_count": 0,
+      "warning_count": 0,
+      "with_contact_evidence": 4,
+      "with_strong_identity": 4,
+      "source_counts": {
+        "cro_open_services": 4
+      },
+      "county_counts": {
+        "Dublin": 2,
+        "Galway": 2
+      },
+      "field_issue_counts": {},
+      "issues": []
+    }
+  },
+  "review_summary": {
+    "queue_count": 4,
+    "status_counts": {
+      "researching": 4
+    },
+    "decision_counts": {
+      "contact": 2,
+      "research_more": 2
+    },
+    "priority_counts": {
+      "high": 4
+    },
+    "high_priority_count": 4
+  },
+  "market_intelligence": {
+    "counties": [
+      "Galway",
+      "Dublin"
+    ],
+    "regions": [
+      {
+        "county": "Galway",
+        "local_area": "Galway City",
+        "label": "Galway / Galway City"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Salthill",
+        "label": "Galway / Salthill"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "label": "Galway / Oranmore"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Athenry",
+        "label": "Galway / Athenry"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Tuam",
+        "label": "Galway / Tuam"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Loughrea",
+        "label": "Galway / Loughrea"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Ballinasloe",
+        "label": "Galway / Ballinasloe"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Gort",
+        "label": "Galway / Gort"
+      },
+      {
+        "county": "Galway",
+        "local_area": "Clifden / Connemara",
+        "label": "Galway / Clifden / Connemara"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin City Centre",
+        "label": "Dublin / Dublin City Centre"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 2 / Docklands",
+        "label": "Dublin / Dublin 2 / Docklands"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 4 / Ballsbridge",
+        "label": "Dublin / Dublin 4 / Ballsbridge"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 6 / Rathmines",
+        "label": "Dublin / Dublin 6 / Rathmines"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 8 / Liberties",
+        "label": "Dublin / Dublin 8 / Liberties"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Swords / North County",
+        "label": "Dublin / Swords / North County"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Blanchardstown / West Dublin",
+        "label": "Dublin / Blanchardstown / West Dublin"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Tallaght / South West",
+        "label": "Dublin / Tallaght / South West"
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dun Laoghaire / South County",
+        "label": "Dublin / Dun Laoghaire / South County"
+      }
+    ],
+    "sector_spend": [
+      {
+        "county": "Galway",
+        "gics_sector": "Industrials",
+        "sme_label": "Construction, retrofit, facilities, logistics",
+        "spend_share_pct": 26.5,
+        "annual_spend_eur_m": 1420.0,
+        "tailwinds": [
+          "housing delivery",
+          "retrofit demand",
+          "public infrastructure spend"
+        ],
+        "headwinds": [
+          "planning delays",
+          "labour availability",
+          "input-cost volatility"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 1,
+        "company_count_source": "current target feed after deduplication"
+      },
+      {
+        "county": "Galway",
+        "gics_sector": "Consumer Discretionary",
+        "sme_label": "Hospitality, leisure, retail, local services",
+        "spend_share_pct": 19.5,
+        "annual_spend_eur_m": 1040.0,
+        "tailwinds": [
+          "tourism demand",
+          "city-centre footfall",
+          "events economy"
+        ],
+        "headwinds": [
+          "wage pressure",
+          "rates pressure",
+          "seasonality"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 0,
+        "company_count_source": "current target feed after deduplication"
+      },
+      {
+        "county": "Galway",
+        "gics_sector": "Consumer Staples",
+        "sme_label": "Food, agri, landscaping, local essentials",
+        "spend_share_pct": 13.0,
+        "annual_spend_eur_m": 695.0,
+        "tailwinds": [
+          "defensive demand",
+          "rural service base"
+        ],
+        "headwinds": [
+          "energy cost",
+          "weather exposure"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 1,
+        "company_count_source": "current target feed after deduplication"
+      },
+      {
+        "county": "Dublin",
+        "gics_sector": "Information Technology",
+        "sme_label": "Software, data, digital services",
+        "spend_share_pct": 23.0,
+        "annual_spend_eur_m": 5100.0,
+        "tailwinds": [
+          "enterprise software demand",
+          "large customer base",
+          "AI adoption"
+        ],
+        "headwinds": [
+          "talent cost",
+          "global tech-cycle risk"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 0,
+        "company_count_source": "current target feed after deduplication"
+      },
+      {
+        "county": "Dublin",
+        "gics_sector": "Financials",
+        "sme_label": "Professional and financial services",
+        "spend_share_pct": 18.0,
+        "annual_spend_eur_m": 3990.0,
+        "tailwinds": [
+          "international finance cluster",
+          "SME advisory demand"
+        ],
+        "headwinds": [
+          "regulatory load",
+          "cyclical deal volume"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 0,
+        "company_count_source": "current target feed after deduplication"
+      },
+      {
+        "county": "Dublin",
+        "gics_sector": "Industrials",
+        "sme_label": "Construction, retrofit, facilities, logistics",
+        "spend_share_pct": 17.0,
+        "annual_spend_eur_m": 3770.0,
+        "tailwinds": [
+          "housing delivery",
+          "transport infrastructure",
+          "retrofit demand"
+        ],
+        "headwinds": [
+          "planning delays",
+          "labour availability",
+          "margin pressure"
+        ],
+        "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null,
+        "company_count": 1,
+        "company_count_source": "current target feed after deduplication"
+      }
+    ],
+    "company_universe": [
+      {
+        "county": "Galway",
+        "local_area": "Galway City",
+        "region_label": "Galway / Galway City",
+        "gics_sector": "Industrials",
+        "gics_industry_group": "Capital Goods & Commercial Services",
+        "company_count": 84,
+        "director_50_plus_count": 49,
+        "director_55_plus_count": 37,
+        "director_60_plus_count": 24,
+        "director_65_plus_count": 13,
+        "director_70_plus_count": 6,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Galway",
+        "local_area": "Galway City",
+        "region_label": "Galway / Galway City",
+        "gics_sector": "Consumer Discretionary",
+        "gics_industry_group": "Consumer Services",
+        "company_count": 73,
+        "director_50_plus_count": 42,
+        "director_55_plus_count": 31,
+        "director_60_plus_count": 19,
+        "director_65_plus_count": 10,
+        "director_70_plus_count": 4,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "region_label": "Galway / Oranmore",
+        "gics_sector": "Consumer Staples",
+        "gics_industry_group": "Food, Beverage & Tobacco",
+        "company_count": 22,
+        "director_50_plus_count": 14,
+        "director_55_plus_count": 10,
+        "director_60_plus_count": 7,
+        "director_65_plus_count": 4,
+        "director_70_plus_count": 1,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "region_label": "Galway / Oranmore",
+        "gics_sector": "Industrials",
+        "gics_industry_group": "Capital Goods & Commercial Services",
+        "company_count": 31,
+        "director_50_plus_count": 18,
+        "director_55_plus_count": 13,
+        "director_60_plus_count": 9,
+        "director_65_plus_count": 5,
+        "director_70_plus_count": 2,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 2 / Docklands",
+        "region_label": "Dublin / Dublin 2 / Docklands",
+        "gics_sector": "Information Technology",
+        "gics_industry_group": "Software & Services",
+        "company_count": 126,
+        "director_50_plus_count": 63,
+        "director_55_plus_count": 45,
+        "director_60_plus_count": 27,
+        "director_65_plus_count": 14,
+        "director_70_plus_count": 5,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 2 / Docklands",
+        "region_label": "Dublin / Dublin 2 / Docklands",
+        "gics_sector": "Financials",
+        "gics_industry_group": "Financial Services",
+        "company_count": 108,
+        "director_50_plus_count": 61,
+        "director_55_plus_count": 46,
+        "director_60_plus_count": 29,
+        "director_65_plus_count": 16,
+        "director_70_plus_count": 7,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 6 / Rathmines",
+        "region_label": "Dublin / Dublin 6 / Rathmines",
+        "gics_sector": "Health Care",
+        "gics_industry_group": "Health Care Equipment & Services",
+        "company_count": 39,
+        "director_50_plus_count": 24,
+        "director_55_plus_count": 18,
+        "director_60_plus_count": 12,
+        "director_65_plus_count": 6,
+        "director_70_plus_count": 2,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      },
+      {
+        "county": "Dublin",
+        "local_area": "Dublin 6 / Rathmines",
+        "region_label": "Dublin / Dublin 6 / Rathmines",
+        "gics_sector": "Consumer Discretionary",
+        "gics_industry_group": "Consumer Services",
+        "company_count": 55,
+        "director_50_plus_count": 31,
+        "director_55_plus_count": 23,
+        "director_60_plus_count": 15,
+        "director_65_plus_count": 8,
+        "director_70_plus_count": 3,
+        "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+        "source_url": null,
+        "source_date": null,
+        "approved_by": null
+      }
+    ],
+    "data_readiness": {
+      "status": "sample_or_incomplete",
+      "score": 50,
+      "issues": [
+        "sector spend source notes still indicate sample or placeholder data",
+        "company universe source notes still indicate sample or placeholder data"
+      ],
+      "warnings": [
+        "some sector spend rows are missing source_url, source_date, or approved_by",
+        "some company universe rows are missing source_url, source_date, or approved_by"
+      ],
+      "coverage": {
+        "required_counties": [
+          "Dublin",
+          "Galway"
+        ],
+        "sector_spend_counties": [
+          "Dublin",
+          "Galway"
+        ],
+        "company_universe_counties": [
+          "Dublin",
+          "Galway"
+        ],
+        "sector_spend_rows": 6,
+        "company_universe_rows": 8,
+        "company_universe_total_companies": 538
+      }
+    },
+    "director_age": {
+      "known_count": 4,
+      "unknown_count": 0,
+      "supported_thresholds": [
+        50,
+        55,
+        60,
+        65,
+        70
+      ]
+    },
+    "notes": [
+      "Sector-spend shares loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv.",
+      "Company universe counts loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv.",
+      "Director-age filtering uses the oldest/minimum director age metadata when supplied by CRO/enrichment inputs."
+    ]
+  },
+  "policy_timeline": [
+    {
+      "title": "Commercial heat pump grant scheme",
+      "source_url": "https://api.oireachtas.ie/v1",
+      "stage": "Bill - committee stage",
+      "classification": {
+        "affected_sectors": [
+          "construction",
+          "hvac",
+          "logistics"
+        ],
+        "direction": "tailwind",
+        "confidence": 0.86,
+        "tailwind_terms": [
+          "scheme",
+          "investment",
+          "support",
+          "fund",
+          "grant"
+        ],
+        "headwind_terms": []
+      },
+      "scenario": {
+        "passage_probability": 0.66,
+        "expected_timing_months": 9,
+        "direction": "tailwind",
+        "affected_sectors": [
+          "construction",
+          "hvac",
+          "logistics"
+        ],
+        "rationale": [
+          "rules-based estimate; not a live legislative forecast",
+          "stage suggests advanced legislative progress"
+        ]
+      }
+    }
+  ],
+  "engine_diagnostics": {
+    "assessment_count": 4,
+    "component_stats": {
+      "succession_fit": {
+        "count": 4,
+        "mean": 87.8,
+        "median": 89.5,
+        "min": 80.0,
+        "max": 92.0
+      },
+      "business_quality": {
+        "count": 4,
+        "mean": 91.2,
+        "median": 92.0,
+        "min": 81.0,
+        "max": 100.0
+      },
+      "deal_readiness": {
+        "count": 4,
+        "mean": 58.0,
+        "median": 58.0,
+        "min": 58.0,
+        "max": 58.0
+      },
+      "macro_policy": {
+        "count": 4,
+        "mean": 55.8,
+        "median": 59.5,
+        "min": 37.0,
+        "max": 67.0
+      },
+      "combined": {
+        "count": 4,
+        "mean": 76.4,
+        "median": 77.2,
+        "min": 70.1,
+        "max": 81.1
+      }
+    },
+    "weakest_component_counts": {
+      "deal_readiness": 2,
+      "macro_policy": 2
+    },
+    "by_county": [
+      {
+        "county": "Dublin",
+        "count": 2,
+        "combined": {
+          "count": 2,
+          "mean": 72.5,
+          "median": 72.5,
+          "min": 70.1,
+          "max": 74.9
+        },
+        "succession_fit": {
+          "count": 2,
+          "mean": 83.5,
+          "median": 83.5,
+          "min": 80.0,
+          "max": 87.0
+        },
+        "macro_policy": {
+          "count": 2,
+          "mean": 52.0,
+          "median": 52.0,
+          "min": 37.0,
+          "max": 67.0
+        },
+        "top_target": "Dublin Health Clinics Limited"
+      },
+      {
+        "county": "Galway",
+        "count": 2,
+        "combined": {
+          "count": 2,
+          "mean": 80.2,
+          "median": 80.2,
+          "min": 79.4,
+          "max": 81.1
+        },
+        "succession_fit": {
+          "count": 2,
+          "mean": 92.0,
+          "median": 92.0,
+          "min": 92.0,
+          "max": 92.0
+        },
+        "macro_policy": {
+          "count": 2,
+          "mean": 59.5,
+          "median": 59.5,
+          "min": 52.0,
+          "max": 67.0
+        },
+        "top_target": "Galway Mechanical Services Limited"
+      }
+    ],
+    "by_sector": [
+      {
+        "sector": "Facilities management / Commercial services",
+        "count": 1,
+        "combined": {
+          "count": 1,
+          "mean": 70.1,
+          "median": 70.1,
+          "min": 70.1,
+          "max": 70.1
+        },
+        "succession_fit": {
+          "count": 1,
+          "mean": 87.0,
+          "median": 87.0,
+          "min": 87.0,
+          "max": 87.0
+        },
+        "macro_policy": {
+          "count": 1,
+          "mean": 37.0,
+          "median": 37.0,
+          "min": 37.0,
+          "max": 37.0
+        },
+        "top_target": "Dublin Facilities Group Limited"
+      },
+      {
+        "sector": "HVAC / Construction",
+        "count": 1,
+        "combined": {
+          "count": 1,
+          "mean": 81.1,
+          "median": 81.1,
+          "min": 81.1,
+          "max": 81.1
+        },
+        "succession_fit": {
+          "count": 1,
+          "mean": 92.0,
+          "median": 92.0,
+          "min": 92.0,
+          "max": 92.0
+        },
+        "macro_policy": {
+          "count": 1,
+          "mean": 67.0,
+          "median": 67.0,
+          "min": 67.0,
+          "max": 67.0
+        },
+        "top_target": "Galway Mechanical Services Limited"
+      },
+      {
+        "sector": "Healthcare clinic services",
+        "count": 1,
+        "combined": {
+          "count": 1,
+          "mean": 74.9,
+          "median": 74.9,
+          "min": 74.9,
+          "max": 74.9
+        },
+        "succession_fit": {
+          "count": 1,
+          "mean": 80.0,
+          "median": 80.0,
+          "min": 80.0,
+          "max": 80.0
+        },
+        "macro_policy": {
+          "count": 1,
+          "mean": 67.0,
+          "median": 67.0,
+          "min": 67.0,
+          "max": 67.0
+        },
+        "top_target": "Dublin Health Clinics Limited"
+      },
+      {
+        "sector": "Landscaping / Grounds Services",
+        "count": 1,
+        "combined": {
+          "count": 1,
+          "mean": 79.4,
+          "median": 79.4,
+          "min": 79.4,
+          "max": 79.4
+        },
+        "succession_fit": {
+          "count": 1,
+          "mean": 92.0,
+          "median": 92.0,
+          "min": 92.0,
+          "max": 92.0
+        },
+        "macro_policy": {
+          "count": 1,
+          "mean": 52.0,
+          "median": 52.0,
+          "min": 52.0,
+          "max": 52.0
+        },
+        "top_target": "Galway Landscape Services Limited"
+      }
+    ],
+    "top_targets": [
+      {
+        "name": "Galway Mechanical Services Limited",
+        "county": "Galway",
+        "local_area": "Galway City",
+        "sector": "HVAC / Construction",
+        "next_action": "prioritise_for_manual_origination_review",
+        "succession_fit": 92.0,
+        "business_quality": 96.0,
+        "deal_readiness": 58.0,
+        "macro_policy": 67.0,
+        "combined": 81.1,
+        "weakest_component": "deal_readiness"
+      },
+      {
+        "name": "Galway Landscape Services Limited",
+        "county": "Galway",
+        "local_area": "Oranmore",
+        "sector": "Landscaping / Grounds Services",
+        "next_action": "prioritise_for_manual_origination_review",
+        "succession_fit": 92.0,
+        "business_quality": 100.0,
+        "deal_readiness": 58.0,
+        "macro_policy": 52.0,
+        "combined": 79.4,
+        "weakest_component": "macro_policy"
+      },
+      {
+        "name": "Dublin Health Clinics Limited",
+        "county": "Dublin",
+        "local_area": "Dublin 6 / Rathmines",
+        "sector": "Healthcare clinic services",
+        "next_action": "research_and_enrich_before_outreach",
+        "succession_fit": 80.0,
+        "business_quality": 88.0,
+        "deal_readiness": 58.0,
+        "macro_policy": 67.0,
+        "combined": 74.9,
+        "weakest_component": "deal_readiness"
+      },
+      {
+        "name": "Dublin Facilities Group Limited",
+        "county": "Dublin",
+        "local_area": "Dublin 2 / Docklands",
+        "sector": "Facilities management / Commercial services",
+        "next_action": "research_and_enrich_before_outreach",
+        "succession_fit": 87.0,
+        "business_quality": 81.0,
+        "deal_readiness": 58.0,
+        "macro_policy": 37.0,
+        "combined": 70.1,
+        "weakest_component": "macro_policy"
+      }
+    ],
+    "low_confidence_targets": [],
+    "recommendations": [
+      "Add richer local macro/policy mappings for sectors with weak Macro policy scores.",
+      "Prioritise contact, website, price, and transaction-intent enrichment for weak Deal readiness rows."
+    ]
+  },
+  "market_data_path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv",
+  "company_data_path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv",
+  "entity_clusters": [
+    {
+      "entity_id": "entity-00003",
+      "canonical_name": "Dublin Facilities Group Limited",
+      "member_count": 1,
+      "match_reasons": [
+        "unique"
+      ]
+    },
+    {
+      "entity_id": "entity-00004",
+      "canonical_name": "Dublin Health Clinics Limited",
+      "member_count": 1,
+      "match_reasons": [
+        "unique"
+      ]
+    },
+    {
+      "entity_id": "entity-00001",
+      "canonical_name": "Galway Landscape Services Limited",
+      "member_count": 1,
+      "match_reasons": [
+        "unique"
+      ]
+    },
+    {
+      "entity_id": "entity-00002",
+      "canonical_name": "Galway Mechanical Services Limited",
+      "member_count": 1,
+      "match_reasons": [
+        "unique"
+      ]
+    }
+  ],
+  "workups": [
+    {
+      "assessment": {
+        "target": {
+          "name": "Galway Mechanical Services Limited",
+          "normalized_name": "galway mechanical services",
+          "county": "Galway",
+          "town": "Galway City",
+          "sector": "HVAC / Construction",
+          "source": "cro_open_services",
+          "source_key": "galway-002",
+          "source_section": "galway_priority",
+          "source_url": "https://example.com/galway-002",
+          "cro_number": "galway-002",
+          "company_status": "Normal",
+          "company_age_years": 28.0,
+          "registered_at": null,
+          "registered_address": null,
+          "website": "https://example.com/galway-mechanical",
+          "phone": "+353 91 000002",
+          "email": null,
+          "price_text": null,
+          "price_value": null,
+          "summary": "Established family-run commercial heat pump and facilities contractor.",
+          "evidence_text": null,
+          "fit_score": null,
+          "fit_decision": null,
+          "is_franchise": false,
+          "is_business_opportunity": false,
+          "is_property_only": false,
+          "diligence_status": "new",
+          "manual_notes": null,
+          "metadata": {
+            "company_size": "medium",
+            "oldest_director_age": 58,
+            "derived_sector_family": "construction",
+            "has_address_hint": true,
+            "website_domain": "example.com",
+            "entity_id": "entity-00002",
+            "member_count": 1
+          },
+          "provenance": {
+            "detail_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "oldest_director_age": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_size": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_section": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_status": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "phone": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "county": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "summary": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "website": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "town": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "sector": {
+              "source_name": "local_enrichment",
+              "source_url": null,
+              "observed_at": null,
+              "confidence": 0.55,
+              "value_kind": "inferred"
+            }
+          }
+        },
+        "succession_fit_score": {
+          "score": 92.0,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "watchouts": []
+        },
+        "business_quality_score": {
+          "score": 96.0,
+          "label": "high",
+          "reasons": [
+            "company status appears active",
+            "long operating history suggests durable business",
+            "sector resembles an operating SME rather than a passive asset",
+            "website supports trading proof and diligence",
+            "public contact details support verification"
+          ],
+          "watchouts": []
+        },
+        "deal_readiness_score": {
+          "score": 58.0,
+          "label": "medium",
+          "reasons": [
+            "CRO record is useful for origination prospecting",
+            "website enables quick trading proof check",
+            "phone number supports direct verification",
+            "text evidence supports manual diligence triage"
+          ],
+          "watchouts": []
+        },
+        "macro_policy_score": {
+          "score": 67.0,
+          "label": "medium",
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "policy scenario implies a positive cash-flow adjustment",
+            "cash-flow scenario indicates policy tailwind"
+          ],
+          "watchouts": []
+        },
+        "combined_origination_score": 81.1,
+        "next_action": "prioritise_for_manual_origination_review",
+        "micro": {
+          "score": 77,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach"
+          ],
+          "watchouts": [],
+          "signals": [
+            {
+              "name": "long_operating_history",
+              "strength": 0.85,
+              "evidence": "28 years old"
+            },
+            {
+              "name": "legacy_operating_sector",
+              "strength": 0.7,
+              "evidence": "sector fits local succession thesis"
+            },
+            {
+              "name": "succession_language",
+              "strength": 0.75,
+              "evidence": "metadata includes succession-style language"
+            },
+            {
+              "name": "active_company",
+              "strength": 0.55,
+              "evidence": "CRO status appears active"
+            }
+          ],
+          "deal_recommendation": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 28 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro": {
+          "score": 67,
+          "label": "medium",
+          "matched_sectors": [
+            "construction",
+            "hvac"
+          ],
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "policy scenario implies a positive cash-flow adjustment"
+          ],
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          }
+        },
+        "recommended_deal_posture": {
+          "terms": {
+            "entry_multiple": 3.5,
+            "cash_upfront_pct": 75,
+            "seller_note_pct": 15,
+            "earnout_pct": 10,
+            "founder_transition_months": 24,
+            "retain_brand_months": 36,
+            "employee_protection_months": 18
+          },
+          "seller_utility_score": 87.0,
+          "buyer_discipline_score": 100.0,
+          "combined_score": 93.3,
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 28 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "rationale": [
+            "balances founder legacy utility with buyer entry discipline",
+            "uses seller note/earnout to reduce upfront capital requirement"
+          ]
+        }
+      },
+      "diligence_plan": {
+        "target_identity": "Galway Mechanical Services Limited (CRO galway-002)",
+        "stage": "outreach_ready",
+        "decision_gate": "confirm owner/seller context before first contact",
+        "evidence_gaps": [
+          "registered address unavailable",
+          "no asking price or valuation anchor"
+        ],
+        "questions": [
+          {
+            "category": "valuation",
+            "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+            "priority": "medium",
+            "evidence_needed": [
+              "employee estimate",
+              "revenue proxy",
+              "asset base",
+              "sector multiple"
+            ],
+            "owner": "analyst"
+          }
+        ],
+        "recommended_next_actions": [
+          "prioritise_for_manual_origination_review",
+          "confirm owner/seller context before first contact",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "ic_report": {
+        "target_identity": "Galway Mechanical Services Limited (CRO galway-002)",
+        "diligence_status": "outreach_ready",
+        "company_overview": {
+          "name": "Galway Mechanical Services Limited",
+          "county": "Galway",
+          "town": "Galway City",
+          "sector": "HVAC / Construction",
+          "company_status": "Normal",
+          "company_age_years": 28.0,
+          "website": "https://example.com/galway-mechanical",
+          "contact_available": true,
+          "combined_origination_score": 81.1,
+          "next_action": "prioritise_for_manual_origination_review"
+        },
+        "source_evidence": [
+          {
+            "field": "company_age_years",
+            "value": 28.0,
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "company_status",
+            "value": "Normal",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "county",
+            "value": "Galway",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "name",
+            "value": "Galway Mechanical Services Limited",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "normalized_name",
+            "value": "galway mechanical services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "phone",
+            "value": "+353 91 000002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "sector",
+            "value": "HVAC / Construction",
+            "source": "local_enrichment",
+            "source_url": null,
+            "confidence": 0.55,
+            "value_kind": "inferred"
+          },
+          {
+            "field": "source",
+            "value": "cro_open_services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_key",
+            "value": "galway-002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_section",
+            "value": "galway_priority",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_url",
+            "value": "https://example.com/galway-002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "summary",
+            "value": "Established family-run commercial heat pump and facilities contractor.",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "town",
+            "value": "Galway City",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "website",
+            "value": "https://example.com/galway-mechanical",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          }
+        ],
+        "financial_snapshot": {
+          "price_text": null,
+          "price_value": null,
+          "known_financials": "not yet available",
+          "required_financials": [
+            "three years revenue and EBITDA",
+            "gross margin and customer concentration",
+            "working-capital seasonality",
+            "owner add-backs and normalised payroll"
+          ]
+        },
+        "seller_psychology_hypothesis": {
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 28 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "succession_reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "deal_posture": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 28 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro_exposure": {
+          "score": {
+            "score": 67.0,
+            "label": "medium",
+            "reasons": [
+              "sector can be mapped to public policy themes",
+              "policy scenario implies a positive cash-flow adjustment",
+              "cash-flow scenario indicates policy tailwind"
+            ],
+            "watchouts": []
+          },
+          "matched_sectors": [
+            "construction",
+            "hvac"
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          },
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ]
+        },
+        "risks": [],
+        "valuation_assumptions": {
+          "entry_multiple": 3.5,
+          "cash_upfront_pct": 75,
+          "seller_note_pct": 15,
+          "earnout_pct": 10,
+          "basis": "rules-first placeholder until financials are obtained",
+          "do_not_use_for_offer": true
+        },
+        "recommended_next_actions": [
+          "prioritise_for_manual_origination_review",
+          "confirm owner/seller context before first contact",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "financial_model": {
+        "currency": "EUR",
+        "ebitda_multiple_range": {
+          "low": 2.8,
+          "mid": 4.14,
+          "high": 4.2
+        },
+        "max_debt_ebitda_placeholder": 2.09,
+        "seller_note_recommended": 15,
+        "earnout_recommended": 10,
+        "required_inputs": [
+          "last three years revenue",
+          "last three years EBITDA",
+          "owner compensation and add-backs",
+          "customer concentration",
+          "net debt and working capital"
+        ],
+        "do_not_use_for_offer": true
+      }
+    },
+    {
+      "assessment": {
+        "target": {
+          "name": "Galway Landscape Services Limited",
+          "normalized_name": "galway landscape services",
+          "county": "Galway",
+          "town": "Oranmore",
+          "sector": "Landscaping / Grounds Services",
+          "source": "cro_open_services",
+          "source_key": "galway-001",
+          "source_section": "galway_priority",
+          "source_url": "https://example.com/galway-001",
+          "cro_number": "galway-001",
+          "company_status": "Normal",
+          "company_age_years": 24.0,
+          "registered_at": null,
+          "registered_address": null,
+          "website": "https://example.com/galway-landscape",
+          "phone": "+353 91 000001",
+          "email": null,
+          "price_text": null,
+          "price_value": null,
+          "summary": "Established family-run landscaping contractor serving Galway commercial clients.",
+          "evidence_text": null,
+          "fit_score": null,
+          "fit_decision": null,
+          "is_franchise": false,
+          "is_business_opportunity": false,
+          "is_property_only": false,
+          "diligence_status": "new",
+          "manual_notes": null,
+          "metadata": {
+            "company_size": "small",
+            "oldest_director_age": 63,
+            "derived_sector_family": "facilities",
+            "has_address_hint": true,
+            "website_domain": "example.com",
+            "entity_id": "entity-00001",
+            "member_count": 1
+          },
+          "provenance": {
+            "detail_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "oldest_director_age": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_size": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_section": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_status": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "phone": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "county": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "summary": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "website": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "town": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "sector": {
+              "source_name": "local_enrichment",
+              "source_url": null,
+              "observed_at": null,
+              "confidence": 0.55,
+              "value_kind": "inferred"
+            }
+          }
+        },
+        "succession_fit_score": {
+          "score": 92.0,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "watchouts": []
+        },
+        "business_quality_score": {
+          "score": 100.0,
+          "label": "high",
+          "reasons": [
+            "company status appears active",
+            "long operating history suggests durable business",
+            "sector resembles an operating SME rather than a passive asset",
+            "available description supports early qualitative review",
+            "website supports trading proof and diligence",
+            "public contact details support verification"
+          ],
+          "watchouts": []
+        },
+        "deal_readiness_score": {
+          "score": 58.0,
+          "label": "medium",
+          "reasons": [
+            "CRO record is useful for origination prospecting",
+            "website enables quick trading proof check",
+            "phone number supports direct verification",
+            "text evidence supports manual diligence triage"
+          ],
+          "watchouts": []
+        },
+        "macro_policy_score": {
+          "score": 52.0,
+          "label": "medium",
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "policy scenario implies a positive cash-flow adjustment",
+            "cash-flow scenario indicates policy tailwind"
+          ],
+          "watchouts": []
+        },
+        "combined_origination_score": 79.4,
+        "next_action": "prioritise_for_manual_origination_review",
+        "micro": {
+          "score": 77,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach"
+          ],
+          "watchouts": [],
+          "signals": [
+            {
+              "name": "long_operating_history",
+              "strength": 0.85,
+              "evidence": "24 years old"
+            },
+            {
+              "name": "legacy_operating_sector",
+              "strength": 0.7,
+              "evidence": "sector fits local succession thesis"
+            },
+            {
+              "name": "succession_language",
+              "strength": 0.75,
+              "evidence": "metadata includes succession-style language"
+            },
+            {
+              "name": "active_company",
+              "strength": 0.55,
+              "evidence": "CRO status appears active"
+            }
+          ],
+          "deal_recommendation": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 24 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro": {
+          "score": 52,
+          "label": "medium",
+          "matched_sectors": [
+            "landscaping"
+          ],
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "policy scenario implies a positive cash-flow adjustment"
+          ],
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          }
+        },
+        "recommended_deal_posture": {
+          "terms": {
+            "entry_multiple": 3.5,
+            "cash_upfront_pct": 75,
+            "seller_note_pct": 15,
+            "earnout_pct": 10,
+            "founder_transition_months": 24,
+            "retain_brand_months": 36,
+            "employee_protection_months": 18
+          },
+          "seller_utility_score": 87.0,
+          "buyer_discipline_score": 100.0,
+          "combined_score": 93.3,
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 24 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "rationale": [
+            "balances founder legacy utility with buyer entry discipline",
+            "uses seller note/earnout to reduce upfront capital requirement"
+          ]
+        }
+      },
+      "diligence_plan": {
+        "target_identity": "Galway Landscape Services Limited (CRO galway-001)",
+        "stage": "outreach_ready",
+        "decision_gate": "confirm owner/seller context before first contact",
+        "evidence_gaps": [
+          "registered address unavailable",
+          "no asking price or valuation anchor"
+        ],
+        "questions": [
+          {
+            "category": "valuation",
+            "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+            "priority": "medium",
+            "evidence_needed": [
+              "employee estimate",
+              "revenue proxy",
+              "asset base",
+              "sector multiple"
+            ],
+            "owner": "analyst"
+          }
+        ],
+        "recommended_next_actions": [
+          "prioritise_for_manual_origination_review",
+          "confirm owner/seller context before first contact",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "ic_report": {
+        "target_identity": "Galway Landscape Services Limited (CRO galway-001)",
+        "diligence_status": "outreach_ready",
+        "company_overview": {
+          "name": "Galway Landscape Services Limited",
+          "county": "Galway",
+          "town": "Oranmore",
+          "sector": "Landscaping / Grounds Services",
+          "company_status": "Normal",
+          "company_age_years": 24.0,
+          "website": "https://example.com/galway-landscape",
+          "contact_available": true,
+          "combined_origination_score": 79.4,
+          "next_action": "prioritise_for_manual_origination_review"
+        },
+        "source_evidence": [
+          {
+            "field": "company_age_years",
+            "value": 24.0,
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "company_status",
+            "value": "Normal",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "county",
+            "value": "Galway",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "name",
+            "value": "Galway Landscape Services Limited",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "normalized_name",
+            "value": "galway landscape services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "phone",
+            "value": "+353 91 000001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "sector",
+            "value": "Landscaping / Grounds Services",
+            "source": "local_enrichment",
+            "source_url": null,
+            "confidence": 0.55,
+            "value_kind": "inferred"
+          },
+          {
+            "field": "source",
+            "value": "cro_open_services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_key",
+            "value": "galway-001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_section",
+            "value": "galway_priority",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_url",
+            "value": "https://example.com/galway-001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "summary",
+            "value": "Established family-run landscaping contractor serving Galway commercial clients.",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "town",
+            "value": "Oranmore",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "website",
+            "value": "https://example.com/galway-landscape",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/galway-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          }
+        ],
+        "financial_snapshot": {
+          "price_text": null,
+          "price_value": null,
+          "known_financials": "not yet available",
+          "required_financials": [
+            "three years revenue and EBITDA",
+            "gross margin and customer concentration",
+            "working-capital seasonality",
+            "owner add-backs and normalised payroll"
+          ]
+        },
+        "seller_psychology_hypothesis": {
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 24 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "succession_reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "deal_posture": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 24 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro_exposure": {
+          "score": {
+            "score": 52.0,
+            "label": "medium",
+            "reasons": [
+              "sector can be mapped to public policy themes",
+              "policy scenario implies a positive cash-flow adjustment",
+              "cash-flow scenario indicates policy tailwind"
+            ],
+            "watchouts": []
+          },
+          "matched_sectors": [
+            "landscaping"
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          },
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ]
+        },
+        "risks": [],
+        "valuation_assumptions": {
+          "entry_multiple": 3.5,
+          "cash_upfront_pct": 75,
+          "seller_note_pct": 15,
+          "earnout_pct": 10,
+          "basis": "rules-first placeholder until financials are obtained",
+          "do_not_use_for_offer": true
+        },
+        "recommended_next_actions": [
+          "prioritise_for_manual_origination_review",
+          "confirm owner/seller context before first contact",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "financial_model": {
+        "currency": "EUR",
+        "ebitda_multiple_range": {
+          "low": 2.2,
+          "mid": 3.8,
+          "high": 3.8
+        },
+        "max_debt_ebitda_placeholder": 1.94,
+        "seller_note_recommended": 15,
+        "earnout_recommended": 10,
+        "required_inputs": [
+          "last three years revenue",
+          "last three years EBITDA",
+          "owner compensation and add-backs",
+          "customer concentration",
+          "net debt and working capital"
+        ],
+        "do_not_use_for_offer": true
+      }
+    },
+    {
+      "assessment": {
+        "target": {
+          "name": "Dublin Health Clinics Limited",
+          "normalized_name": "dublin health clinics",
+          "county": "Dublin",
+          "town": "Dublin 6 / Rathmines",
+          "sector": "Healthcare clinic services",
+          "source": "cro_open_services",
+          "source_key": "dublin-002",
+          "source_section": "dublin_priority",
+          "source_url": "https://example.com/dublin-002",
+          "cro_number": "dublin-002",
+          "company_status": "Normal",
+          "company_age_years": 19.0,
+          "registered_at": null,
+          "registered_address": null,
+          "website": "https://example.com/dublin-health",
+          "phone": "+353 1 0000002",
+          "email": null,
+          "price_text": null,
+          "price_value": null,
+          "summary": "Owner-operated private clinic group with repeat local demand.",
+          "evidence_text": null,
+          "fit_score": null,
+          "fit_decision": null,
+          "is_franchise": false,
+          "is_business_opportunity": false,
+          "is_property_only": false,
+          "diligence_status": "new",
+          "manual_notes": null,
+          "metadata": {
+            "company_size": "small",
+            "oldest_director_age": 54,
+            "derived_sector_family": "healthcare",
+            "has_address_hint": true,
+            "website_domain": "example.com",
+            "entity_id": "entity-00004",
+            "member_count": 1
+          },
+          "provenance": {
+            "detail_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "oldest_director_age": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_size": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_section": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_status": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "phone": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "county": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "summary": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "website": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "town": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "sector": {
+              "source_name": "local_enrichment",
+              "source_url": null,
+              "observed_at": null,
+              "confidence": 0.55,
+              "value_kind": "inferred"
+            }
+          }
+        },
+        "succession_fit_score": {
+          "score": 80.0,
+          "label": "high",
+          "reasons": [
+            "established company age supports succession screening",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "watchouts": []
+        },
+        "business_quality_score": {
+          "score": 88.0,
+          "label": "high",
+          "reasons": [
+            "company status appears active",
+            "established operating history",
+            "sector resembles an operating SME rather than a passive asset",
+            "website supports trading proof and diligence",
+            "public contact details support verification"
+          ],
+          "watchouts": []
+        },
+        "deal_readiness_score": {
+          "score": 58.0,
+          "label": "medium",
+          "reasons": [
+            "CRO record is useful for origination prospecting",
+            "website enables quick trading proof check",
+            "phone number supports direct verification",
+            "text evidence supports manual diligence triage"
+          ],
+          "watchouts": []
+        },
+        "macro_policy_score": {
+          "score": 67.0,
+          "label": "medium",
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "metadata suggests public-policy sensitivity",
+            "policy scenario implies a positive cash-flow adjustment",
+            "cash-flow scenario indicates policy tailwind"
+          ],
+          "watchouts": []
+        },
+        "combined_origination_score": 74.9,
+        "next_action": "research_and_enrich_before_outreach",
+        "micro": {
+          "score": 65,
+          "label": "medium",
+          "reasons": [
+            "established company age supports succession screening",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach"
+          ],
+          "watchouts": [],
+          "signals": [
+            {
+              "name": "established_company",
+              "strength": 0.6,
+              "evidence": "19 years old"
+            },
+            {
+              "name": "legacy_operating_sector",
+              "strength": 0.7,
+              "evidence": "sector fits local succession thesis"
+            },
+            {
+              "name": "succession_language",
+              "strength": 0.75,
+              "evidence": "metadata includes succession-style language"
+            },
+            {
+              "name": "active_company",
+              "strength": 0.55,
+              "evidence": "CRO status appears active"
+            }
+          ],
+          "deal_recommendation": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 84.2,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 91.8,
+            "preference_estimate": {
+              "price": 0.11409395973154364,
+              "cash_upfront": 0.14914243102162567,
+              "legacy": 0.2639821029082774,
+              "employee_retention": 0.19090231170768085,
+              "continuity": 0.17598806860551827,
+              "certainty": 0.1058911260253542,
+              "evidence": [
+                "established_company: 19 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro": {
+          "score": 67,
+          "label": "medium",
+          "matched_sectors": [
+            "healthcare"
+          ],
+          "reasons": [
+            "sector can be mapped to public policy themes",
+            "metadata suggests public-policy sensitivity",
+            "policy scenario implies a positive cash-flow adjustment"
+          ],
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 4.0,
+            "policy_adjusted_growth_pct": 5.7,
+            "volatility_pct": 16.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth",
+              "sector metadata suggests more resilient demand"
+            ]
+          }
+        },
+        "recommended_deal_posture": {
+          "terms": {
+            "entry_multiple": 3.5,
+            "cash_upfront_pct": 75,
+            "seller_note_pct": 15,
+            "earnout_pct": 10,
+            "founder_transition_months": 24,
+            "retain_brand_months": 36,
+            "employee_protection_months": 18
+          },
+          "seller_utility_score": 84.2,
+          "buyer_discipline_score": 100.0,
+          "combined_score": 91.8,
+          "preference_estimate": {
+            "price": 0.11409395973154364,
+            "cash_upfront": 0.14914243102162567,
+            "legacy": 0.2639821029082774,
+            "employee_retention": 0.19090231170768085,
+            "continuity": 0.17598806860551827,
+            "certainty": 0.1058911260253542,
+            "evidence": [
+              "established_company: 19 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "rationale": [
+            "balances founder legacy utility with buyer entry discipline",
+            "uses seller note/earnout to reduce upfront capital requirement"
+          ]
+        }
+      },
+      "diligence_plan": {
+        "target_identity": "Dublin Health Clinics Limited (CRO dublin-002)",
+        "stage": "enrichment_required",
+        "decision_gate": "fill high-priority evidence gaps before outreach",
+        "evidence_gaps": [
+          "registered address unavailable",
+          "no asking price or valuation anchor"
+        ],
+        "questions": [
+          {
+            "category": "valuation",
+            "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+            "priority": "medium",
+            "evidence_needed": [
+              "employee estimate",
+              "revenue proxy",
+              "asset base",
+              "sector multiple"
+            ],
+            "owner": "analyst"
+          }
+        ],
+        "recommended_next_actions": [
+          "research_and_enrich_before_outreach",
+          "fill high-priority evidence gaps before outreach",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "ic_report": {
+        "target_identity": "Dublin Health Clinics Limited (CRO dublin-002)",
+        "diligence_status": "enrichment_required",
+        "company_overview": {
+          "name": "Dublin Health Clinics Limited",
+          "county": "Dublin",
+          "town": "Dublin 6 / Rathmines",
+          "sector": "Healthcare clinic services",
+          "company_status": "Normal",
+          "company_age_years": 19.0,
+          "website": "https://example.com/dublin-health",
+          "contact_available": true,
+          "combined_origination_score": 74.9,
+          "next_action": "research_and_enrich_before_outreach"
+        },
+        "source_evidence": [
+          {
+            "field": "company_age_years",
+            "value": 19.0,
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "company_status",
+            "value": "Normal",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "county",
+            "value": "Dublin",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "name",
+            "value": "Dublin Health Clinics Limited",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "normalized_name",
+            "value": "dublin health clinics",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "phone",
+            "value": "+353 1 0000002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "sector",
+            "value": "Healthcare clinic services",
+            "source": "local_enrichment",
+            "source_url": null,
+            "confidence": 0.55,
+            "value_kind": "inferred"
+          },
+          {
+            "field": "source",
+            "value": "cro_open_services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_key",
+            "value": "dublin-002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_section",
+            "value": "dublin_priority",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_url",
+            "value": "https://example.com/dublin-002",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "summary",
+            "value": "Owner-operated private clinic group with repeat local demand.",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "town",
+            "value": "Dublin 6 / Rathmines",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "website",
+            "value": "https://example.com/dublin-health",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-002",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          }
+        ],
+        "financial_snapshot": {
+          "price_text": null,
+          "price_value": null,
+          "known_financials": "not yet available",
+          "required_financials": [
+            "three years revenue and EBITDA",
+            "gross margin and customer concentration",
+            "working-capital seasonality",
+            "owner add-backs and normalised payroll"
+          ]
+        },
+        "seller_psychology_hypothesis": {
+          "preference_estimate": {
+            "price": 0.11409395973154364,
+            "cash_upfront": 0.14914243102162567,
+            "legacy": 0.2639821029082774,
+            "employee_retention": 0.19090231170768085,
+            "continuity": 0.17598806860551827,
+            "certainty": 0.1058911260253542,
+            "evidence": [
+              "established_company: 19 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "succession_reasons": [
+            "established company age supports succession screening",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language",
+            "local/community language supports compassionate-capital fit"
+          ],
+          "deal_posture": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 84.2,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 91.8,
+            "preference_estimate": {
+              "price": 0.11409395973154364,
+              "cash_upfront": 0.14914243102162567,
+              "legacy": 0.2639821029082774,
+              "employee_retention": 0.19090231170768085,
+              "continuity": 0.17598806860551827,
+              "certainty": 0.1058911260253542,
+              "evidence": [
+                "established_company: 19 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro_exposure": {
+          "score": {
+            "score": 67.0,
+            "label": "medium",
+            "reasons": [
+              "sector can be mapped to public policy themes",
+              "metadata suggests public-policy sensitivity",
+              "policy scenario implies a positive cash-flow adjustment",
+              "cash-flow scenario indicates policy tailwind"
+            ],
+            "watchouts": []
+          },
+          "matched_sectors": [
+            "healthcare"
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 4.0,
+            "policy_adjusted_growth_pct": 5.7,
+            "volatility_pct": 16.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth",
+              "sector metadata suggests more resilient demand"
+            ]
+          },
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ]
+        },
+        "risks": [],
+        "valuation_assumptions": {
+          "entry_multiple": 3.5,
+          "cash_upfront_pct": 75,
+          "seller_note_pct": 15,
+          "earnout_pct": 10,
+          "basis": "rules-first placeholder until financials are obtained",
+          "do_not_use_for_offer": true
+        },
+        "recommended_next_actions": [
+          "research_and_enrich_before_outreach",
+          "fill high-priority evidence gaps before outreach",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "financial_model": {
+        "currency": "EUR",
+        "ebitda_multiple_range": {
+          "low": 2.5,
+          "mid": 3.82,
+          "high": 4.0
+        },
+        "max_debt_ebitda_placeholder": 1.95,
+        "seller_note_recommended": 15,
+        "earnout_recommended": 10,
+        "required_inputs": [
+          "last three years revenue",
+          "last three years EBITDA",
+          "owner compensation and add-backs",
+          "customer concentration",
+          "net debt and working capital"
+        ],
+        "do_not_use_for_offer": true
+      }
+    },
+    {
+      "assessment": {
+        "target": {
+          "name": "Dublin Facilities Group Limited",
+          "normalized_name": "dublin facilities group",
+          "county": "Dublin",
+          "town": "Dublin 2 / Docklands",
+          "sector": "Facilities management / Commercial services",
+          "source": "cro_open_services",
+          "source_key": "dublin-001",
+          "source_section": "dublin_priority",
+          "source_url": "https://example.com/dublin-001",
+          "cro_number": "dublin-001",
+          "company_status": "Normal",
+          "company_age_years": 31.0,
+          "registered_at": null,
+          "registered_address": null,
+          "website": "https://example.com/dublin-facilities",
+          "phone": "+353 1 0000001",
+          "email": null,
+          "price_text": null,
+          "price_value": null,
+          "summary": "Founder-led facilities and compliance services provider for Dublin offices.",
+          "evidence_text": null,
+          "fit_score": null,
+          "fit_decision": null,
+          "is_franchise": false,
+          "is_business_opportunity": false,
+          "is_property_only": false,
+          "diligence_status": "new",
+          "manual_notes": null,
+          "metadata": {
+            "company_size": "medium",
+            "oldest_director_age": 67,
+            "derived_sector_family": "facilities",
+            "has_address_hint": true,
+            "website_domain": "example.com",
+            "entity_id": "entity-00003",
+            "member_count": 1
+          },
+          "provenance": {
+            "detail_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "oldest_director_age": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_size": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_section": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_status": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "phone": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "county": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "summary": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "website": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "town": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "sector": {
+              "source_name": "local_enrichment",
+              "source_url": null,
+              "observed_at": null,
+              "confidence": 0.55,
+              "value_kind": "inferred"
+            }
+          }
+        },
+        "succession_fit_score": {
+          "score": 87.0,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language"
+          ],
+          "watchouts": []
+        },
+        "business_quality_score": {
+          "score": 81.0,
+          "label": "high",
+          "reasons": [
+            "company status appears active",
+            "long operating history suggests durable business",
+            "website supports trading proof and diligence",
+            "public contact details support verification"
+          ],
+          "watchouts": []
+        },
+        "deal_readiness_score": {
+          "score": 58.0,
+          "label": "medium",
+          "reasons": [
+            "CRO record is useful for origination prospecting",
+            "website enables quick trading proof check",
+            "phone number supports direct verification",
+            "text evidence supports manual diligence triage"
+          ],
+          "watchouts": []
+        },
+        "macro_policy_score": {
+          "score": 37.0,
+          "label": "low",
+          "reasons": [
+            "policy scenario implies a positive cash-flow adjustment",
+            "cash-flow scenario indicates policy tailwind"
+          ],
+          "watchouts": [
+            "sector not yet mapped to a policy theme"
+          ]
+        },
+        "combined_origination_score": 70.1,
+        "next_action": "research_and_enrich_before_outreach",
+        "micro": {
+          "score": 77,
+          "label": "high",
+          "reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach"
+          ],
+          "watchouts": [],
+          "signals": [
+            {
+              "name": "long_operating_history",
+              "strength": 0.85,
+              "evidence": "31 years old"
+            },
+            {
+              "name": "legacy_operating_sector",
+              "strength": 0.7,
+              "evidence": "sector fits local succession thesis"
+            },
+            {
+              "name": "succession_language",
+              "strength": 0.75,
+              "evidence": "metadata includes succession-style language"
+            },
+            {
+              "name": "active_company",
+              "strength": 0.55,
+              "evidence": "CRO status appears active"
+            }
+          ],
+          "deal_recommendation": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 31 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro": {
+          "score": 37,
+          "label": "low",
+          "matched_sectors": [],
+          "reasons": [
+            "policy scenario implies a positive cash-flow adjustment"
+          ],
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          }
+        },
+        "recommended_deal_posture": {
+          "terms": {
+            "entry_multiple": 3.5,
+            "cash_upfront_pct": 75,
+            "seller_note_pct": 15,
+            "earnout_pct": 10,
+            "founder_transition_months": 24,
+            "retain_brand_months": 36,
+            "employee_protection_months": 18
+          },
+          "seller_utility_score": 87.0,
+          "buyer_discipline_score": 100.0,
+          "combined_score": 93.3,
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 31 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "rationale": [
+            "balances founder legacy utility with buyer entry discipline",
+            "uses seller note/earnout to reduce upfront capital requirement"
+          ]
+        }
+      },
+      "diligence_plan": {
+        "target_identity": "Dublin Facilities Group Limited (CRO dublin-001)",
+        "stage": "enrichment_required",
+        "decision_gate": "fill high-priority evidence gaps before outreach",
+        "evidence_gaps": [
+          "registered address unavailable",
+          "no asking price or valuation anchor"
+        ],
+        "questions": [
+          {
+            "category": "valuation",
+            "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+            "priority": "medium",
+            "evidence_needed": [
+              "employee estimate",
+              "revenue proxy",
+              "asset base",
+              "sector multiple"
+            ],
+            "owner": "analyst"
+          }
+        ],
+        "recommended_next_actions": [
+          "research_and_enrich_before_outreach",
+          "fill high-priority evidence gaps before outreach",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "ic_report": {
+        "target_identity": "Dublin Facilities Group Limited (CRO dublin-001)",
+        "diligence_status": "enrichment_required",
+        "company_overview": {
+          "name": "Dublin Facilities Group Limited",
+          "county": "Dublin",
+          "town": "Dublin 2 / Docklands",
+          "sector": "Facilities management / Commercial services",
+          "company_status": "Normal",
+          "company_age_years": 31.0,
+          "website": "https://example.com/dublin-facilities",
+          "contact_available": true,
+          "combined_origination_score": 70.1,
+          "next_action": "research_and_enrich_before_outreach"
+        },
+        "source_evidence": [
+          {
+            "field": "company_age_years",
+            "value": 31.0,
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "company_status",
+            "value": "Normal",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "county",
+            "value": "Dublin",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "name",
+            "value": "Dublin Facilities Group Limited",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "normalized_name",
+            "value": "dublin facilities group",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "phone",
+            "value": "+353 1 0000001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "sector",
+            "value": "Facilities management / Commercial services",
+            "source": "local_enrichment",
+            "source_url": null,
+            "confidence": 0.55,
+            "value_kind": "inferred"
+          },
+          {
+            "field": "source",
+            "value": "cro_open_services",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_key",
+            "value": "dublin-001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_section",
+            "value": "dublin_priority",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "source_url",
+            "value": "https://example.com/dublin-001",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "summary",
+            "value": "Founder-led facilities and compliance services provider for Dublin offices.",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "town",
+            "value": "Dublin 2 / Docklands",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          },
+          {
+            "field": "website",
+            "value": "https://example.com/dublin-facilities",
+            "source": "cro_open_services",
+            "source_url": "https://example.com/dublin-001",
+            "confidence": 1.0,
+            "value_kind": "observed"
+          }
+        ],
+        "financial_snapshot": {
+          "price_text": null,
+          "price_value": null,
+          "known_financials": "not yet available",
+          "required_financials": [
+            "three years revenue and EBITDA",
+            "gross margin and customer concentration",
+            "working-capital seasonality",
+            "owner add-backs and normalised payroll"
+          ]
+        },
+        "seller_psychology_hypothesis": {
+          "preference_estimate": {
+            "price": 0.0667539267015707,
+            "cash_upfront": 0.13089005235602094,
+            "legacy": 0.29842931937172773,
+            "employee_retention": 0.21204188481675393,
+            "continuity": 0.19895287958115182,
+            "certainty": 0.09293193717277486,
+            "evidence": [
+              "long_operating_history: 31 years old",
+              "legacy_operating_sector: sector fits local succession thesis",
+              "succession_language: metadata includes succession-style language",
+              "active_company: CRO status appears active"
+            ]
+          },
+          "succession_reasons": [
+            "long operating history suggests founder legacy may matter",
+            "CRO status appears active",
+            "sector is compatible with local owner-managed succession",
+            "public contact details support founder outreach",
+            "public text contains founder/succession-style language"
+          ],
+          "deal_posture": {
+            "terms": {
+              "entry_multiple": 3.5,
+              "cash_upfront_pct": 75,
+              "seller_note_pct": 15,
+              "earnout_pct": 10,
+              "founder_transition_months": 24,
+              "retain_brand_months": 36,
+              "employee_protection_months": 18
+            },
+            "seller_utility_score": 87.0,
+            "buyer_discipline_score": 100.0,
+            "combined_score": 93.3,
+            "preference_estimate": {
+              "price": 0.0667539267015707,
+              "cash_upfront": 0.13089005235602094,
+              "legacy": 0.29842931937172773,
+              "employee_retention": 0.21204188481675393,
+              "continuity": 0.19895287958115182,
+              "certainty": 0.09293193717277486,
+              "evidence": [
+                "long_operating_history: 31 years old",
+                "legacy_operating_sector: sector fits local succession thesis",
+                "succession_language: metadata includes succession-style language",
+                "active_company: CRO status appears active"
+              ]
+            },
+            "rationale": [
+              "balances founder legacy utility with buyer entry discipline",
+              "uses seller note/earnout to reduce upfront capital requirement"
+            ]
+          }
+        },
+        "macro_exposure": {
+          "score": {
+            "score": 37.0,
+            "label": "low",
+            "reasons": [
+              "policy scenario implies a positive cash-flow adjustment",
+              "cash-flow scenario indicates policy tailwind"
+            ],
+            "watchouts": [
+              "sector not yet mapped to a policy theme"
+            ]
+          },
+          "matched_sectors": [],
+          "cashflow_scenario": {
+            "base_growth_pct": 3.0,
+            "policy_adjusted_growth_pct": 4.7,
+            "volatility_pct": 18.0,
+            "valuation_bias": "policy_tailwind",
+            "rationale": [
+              "base case assumes steady lower-middle-market SME growth"
+            ]
+          },
+          "policy_scenarios": [
+            {
+              "passage_probability": 0.66,
+              "expected_timing_months": 9,
+              "direction": "tailwind",
+              "affected_sectors": [
+                "construction",
+                "hvac",
+                "logistics"
+              ],
+              "rationale": [
+                "rules-based estimate; not a live legislative forecast",
+                "stage suggests advanced legislative progress"
+              ]
+            }
+          ]
+        },
+        "risks": [
+          "sector not yet mapped to a policy theme"
+        ],
+        "valuation_assumptions": {
+          "entry_multiple": 3.5,
+          "cash_upfront_pct": 75,
+          "seller_note_pct": 15,
+          "earnout_pct": 10,
+          "basis": "rules-first placeholder until financials are obtained",
+          "do_not_use_for_offer": true
+        },
+        "recommended_next_actions": [
+          "research_and_enrich_before_outreach",
+          "fill high-priority evidence gaps before outreach",
+          "close evidence gap: registered address unavailable",
+          "close evidence gap: no asking price or valuation anchor"
+        ]
+      },
+      "financial_model": {
+        "currency": "EUR",
+        "ebitda_multiple_range": {
+          "low": 2.5,
+          "mid": 3.71,
+          "high": 4.0
+        },
+        "max_debt_ebitda_placeholder": 1.9,
+        "seller_note_recommended": 15,
+        "earnout_recommended": 10,
+        "required_inputs": [
+          "last three years revenue",
+          "last three years EBITDA",
+          "owner compensation and add-backs",
+          "customer concentration",
+          "net debt and working capital"
+        ],
+        "do_not_use_for_offer": true
+      }
+    }
+  ]
+}

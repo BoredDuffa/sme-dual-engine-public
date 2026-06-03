@@ -1,0 +1,416 @@
+{
+  "counties": [
+    "Galway",
+    "Dublin"
+  ],
+  "regions": [
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "label": "Galway / Galway City"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Salthill",
+      "label": "Galway / Salthill"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Oranmore",
+      "label": "Galway / Oranmore"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Athenry",
+      "label": "Galway / Athenry"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Tuam",
+      "label": "Galway / Tuam"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Loughrea",
+      "label": "Galway / Loughrea"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Ballinasloe",
+      "label": "Galway / Ballinasloe"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Gort",
+      "label": "Galway / Gort"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Clifden / Connemara",
+      "label": "Galway / Clifden / Connemara"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin City Centre",
+      "label": "Dublin / Dublin City Centre"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 2 / Docklands",
+      "label": "Dublin / Dublin 2 / Docklands"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 4 / Ballsbridge",
+      "label": "Dublin / Dublin 4 / Ballsbridge"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 6 / Rathmines",
+      "label": "Dublin / Dublin 6 / Rathmines"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 8 / Liberties",
+      "label": "Dublin / Dublin 8 / Liberties"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Swords / North County",
+      "label": "Dublin / Swords / North County"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Blanchardstown / West Dublin",
+      "label": "Dublin / Blanchardstown / West Dublin"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Tallaght / South West",
+      "label": "Dublin / Tallaght / South West"
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dun Laoghaire / South County",
+      "label": "Dublin / Dun Laoghaire / South County"
+    }
+  ],
+  "sector_spend": [
+    {
+      "county": "Galway",
+      "gics_sector": "Industrials",
+      "sme_label": "Construction, retrofit, facilities, logistics",
+      "spend_share_pct": 26.5,
+      "annual_spend_eur_m": 1420.0,
+      "tailwinds": [
+        "housing delivery",
+        "retrofit demand",
+        "public infrastructure spend"
+      ],
+      "headwinds": [
+        "planning delays",
+        "labour availability",
+        "input-cost volatility"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 1,
+      "company_count_source": "current target feed after deduplication"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Consumer Discretionary",
+      "sme_label": "Hospitality, leisure, retail, local services",
+      "spend_share_pct": 19.5,
+      "annual_spend_eur_m": 1040.0,
+      "tailwinds": [
+        "tourism demand",
+        "city-centre footfall",
+        "events economy"
+      ],
+      "headwinds": [
+        "wage pressure",
+        "rates pressure",
+        "seasonality"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 0,
+      "company_count_source": "current target feed after deduplication"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Consumer Staples",
+      "sme_label": "Food, agri, landscaping, local essentials",
+      "spend_share_pct": 13.0,
+      "annual_spend_eur_m": 695.0,
+      "tailwinds": [
+        "defensive demand",
+        "rural service base"
+      ],
+      "headwinds": [
+        "energy cost",
+        "weather exposure"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Galway source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 1,
+      "company_count_source": "current target feed after deduplication"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Information Technology",
+      "sme_label": "Software, data, digital services",
+      "spend_share_pct": 23.0,
+      "annual_spend_eur_m": 5100.0,
+      "tailwinds": [
+        "enterprise software demand",
+        "large customer base",
+        "AI adoption"
+      ],
+      "headwinds": [
+        "talent cost",
+        "global tech-cycle risk"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 0,
+      "company_count_source": "current target feed after deduplication"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Financials",
+      "sme_label": "Professional and financial services",
+      "spend_share_pct": 18.0,
+      "annual_spend_eur_m": 3990.0,
+      "tailwinds": [
+        "international finance cluster",
+        "SME advisory demand"
+      ],
+      "headwinds": [
+        "regulatory load",
+        "cyclical deal volume"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 0,
+      "company_count_source": "current target feed after deduplication"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Industrials",
+      "sme_label": "Construction, retrofit, facilities, logistics",
+      "spend_share_pct": 17.0,
+      "annual_spend_eur_m": 3770.0,
+      "tailwinds": [
+        "housing delivery",
+        "transport infrastructure",
+        "retrofit demand"
+      ],
+      "headwinds": [
+        "planning delays",
+        "labour availability",
+        "margin pressure"
+      ],
+      "source_note": "Sample Chamber-style data; replace with approved Dublin source.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null,
+      "company_count": 1,
+      "company_count_source": "current target feed after deduplication"
+    }
+  ],
+  "company_universe": [
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Capital Goods & Commercial Services",
+      "company_count": 84,
+      "director_50_plus_count": 49,
+      "director_55_plus_count": 37,
+      "director_60_plus_count": 24,
+      "director_65_plus_count": 13,
+      "director_70_plus_count": 6,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Consumer Discretionary",
+      "gics_industry_group": "Consumer Services",
+      "company_count": 73,
+      "director_50_plus_count": 42,
+      "director_55_plus_count": 31,
+      "director_60_plus_count": 19,
+      "director_65_plus_count": 10,
+      "director_70_plus_count": 4,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Galway",
+      "local_area": "Oranmore",
+      "region_label": "Galway / Oranmore",
+      "gics_sector": "Consumer Staples",
+      "gics_industry_group": "Food, Beverage & Tobacco",
+      "company_count": 22,
+      "director_50_plus_count": 14,
+      "director_55_plus_count": 10,
+      "director_60_plus_count": 7,
+      "director_65_plus_count": 4,
+      "director_70_plus_count": 1,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Galway",
+      "local_area": "Oranmore",
+      "region_label": "Galway / Oranmore",
+      "gics_sector": "Industrials",
+      "gics_industry_group": "Capital Goods & Commercial Services",
+      "company_count": 31,
+      "director_50_plus_count": 18,
+      "director_55_plus_count": 13,
+      "director_60_plus_count": 9,
+      "director_65_plus_count": 5,
+      "director_70_plus_count": 2,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 2 / Docklands",
+      "region_label": "Dublin / Dublin 2 / Docklands",
+      "gics_sector": "Information Technology",
+      "gics_industry_group": "Software & Services",
+      "company_count": 126,
+      "director_50_plus_count": 63,
+      "director_55_plus_count": 45,
+      "director_60_plus_count": 27,
+      "director_65_plus_count": 14,
+      "director_70_plus_count": 5,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 2 / Docklands",
+      "region_label": "Dublin / Dublin 2 / Docklands",
+      "gics_sector": "Financials",
+      "gics_industry_group": "Financial Services",
+      "company_count": 108,
+      "director_50_plus_count": 61,
+      "director_55_plus_count": 46,
+      "director_60_plus_count": 29,
+      "director_65_plus_count": 16,
+      "director_70_plus_count": 7,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 6 / Rathmines",
+      "region_label": "Dublin / Dublin 6 / Rathmines",
+      "gics_sector": "Health Care",
+      "gics_industry_group": "Health Care Equipment & Services",
+      "company_count": 39,
+      "director_50_plus_count": 24,
+      "director_55_plus_count": 18,
+      "director_60_plus_count": 12,
+      "director_65_plus_count": 6,
+      "director_70_plus_count": 2,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    },
+    {
+      "county": "Dublin",
+      "local_area": "Dublin 6 / Rathmines",
+      "region_label": "Dublin / Dublin 6 / Rathmines",
+      "gics_sector": "Consumer Discretionary",
+      "gics_industry_group": "Consumer Services",
+      "company_count": 55,
+      "director_50_plus_count": 31,
+      "director_55_plus_count": 23,
+      "director_60_plus_count": 15,
+      "director_65_plus_count": 8,
+      "director_70_plus_count": 3,
+      "source_note": "Sample CRO/directory-style count; replace with approved source extract.",
+      "source_url": null,
+      "source_date": null,
+      "approved_by": null
+    }
+  ],
+  "data_readiness": {
+    "status": "sample_or_incomplete",
+    "score": 50,
+    "issues": [
+      "sector spend source notes still indicate sample or placeholder data",
+      "company universe source notes still indicate sample or placeholder data"
+    ],
+    "warnings": [
+      "some sector spend rows are missing source_url, source_date, or approved_by",
+      "some company universe rows are missing source_url, source_date, or approved_by"
+    ],
+    "coverage": {
+      "required_counties": [
+        "Dublin",
+        "Galway"
+      ],
+      "sector_spend_counties": [
+        "Dublin",
+        "Galway"
+      ],
+      "company_universe_counties": [
+        "Dublin",
+        "Galway"
+      ],
+      "sector_spend_rows": 6,
+      "company_universe_rows": 8,
+      "company_universe_total_companies": 538
+    }
+  },
+  "director_age": {
+    "known_count": 4,
+    "unknown_count": 0,
+    "supported_thresholds": [
+      50,
+      55,
+      60,
+      65,
+      70
+    ]
+  },
+  "notes": [
+    "Sector-spend shares loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv.",
+    "Company universe counts loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv.",
+    "Director-age filtering uses the oldest/minimum director age metadata when supplied by CRO/enrichment inputs."
+  ]
+}

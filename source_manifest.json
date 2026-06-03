@@ -1,0 +1,34 @@
+[
+  {
+    "name": "live_galway_sme_dashboard",
+    "path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/dashboards/webscrapper/public/data/galway-sme-dashboard.json",
+    "source_type": "dashboard_json",
+    "priority": 10,
+    "description": "Current local Galway SME dashboard export from the dashboards repo.",
+    "exists": true
+  },
+  {
+    "name": "render_galway_sme_dashboard",
+    "path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/dashboards/render-webscrapper/public/data/galway-sme-dashboard.json",
+    "source_type": "dashboard_json",
+    "priority": 20,
+    "description": "Render-ready Galway SME dashboard export, if present.",
+    "exists": true
+  },
+  {
+    "name": "sample_galway_dublin_sme_dashboard",
+    "path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-sme-dashboard-sample.json",
+    "source_type": "sample_json",
+    "priority": 90,
+    "description": "Committed Galway/Dublin sample used for county-filter and market-intelligence checks.",
+    "exists": true
+  },
+  {
+    "name": "sample_galway_sme_dashboard",
+    "path": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-sme-dashboard-sample.json",
+    "source_type": "sample_json",
+    "priority": 100,
+    "description": "Small committed sample used for tests and offline smoke checks.",
+    "exists": true
+  }
+]

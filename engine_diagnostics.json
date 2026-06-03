@@ -1,0 +1,263 @@
+{
+  "assessment_count": 4,
+  "component_stats": {
+    "succession_fit": {
+      "count": 4,
+      "mean": 87.8,
+      "median": 89.5,
+      "min": 80.0,
+      "max": 92.0
+    },
+    "business_quality": {
+      "count": 4,
+      "mean": 91.2,
+      "median": 92.0,
+      "min": 81.0,
+      "max": 100.0
+    },
+    "deal_readiness": {
+      "count": 4,
+      "mean": 58.0,
+      "median": 58.0,
+      "min": 58.0,
+      "max": 58.0
+    },
+    "macro_policy": {
+      "count": 4,
+      "mean": 55.8,
+      "median": 59.5,
+      "min": 37.0,
+      "max": 67.0
+    },
+    "combined": {
+      "count": 4,
+      "mean": 76.4,
+      "median": 77.2,
+      "min": 70.1,
+      "max": 81.1
+    }
+  },
+  "weakest_component_counts": {
+    "deal_readiness": 2,
+    "macro_policy": 2
+  },
+  "by_county": [
+    {
+      "county": "Dublin",
+      "count": 2,
+      "combined": {
+        "count": 2,
+        "mean": 72.5,
+        "median": 72.5,
+        "min": 70.1,
+        "max": 74.9
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 83.5,
+        "median": 83.5,
+        "min": 80.0,
+        "max": 87.0
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 37.0,
+        "max": 67.0
+      },
+      "top_target": "Dublin Health Clinics Limited"
+    },
+    {
+      "county": "Galway",
+      "count": 2,
+      "combined": {
+        "count": 2,
+        "mean": 80.2,
+        "median": 80.2,
+        "min": 79.4,
+        "max": 81.1
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 92.0,
+        "median": 92.0,
+        "min": 92.0,
+        "max": 92.0
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 59.5,
+        "median": 59.5,
+        "min": 52.0,
+        "max": 67.0
+      },
+      "top_target": "Galway Mechanical Services Limited"
+    }
+  ],
+  "by_sector": [
+    {
+      "sector": "Facilities management / Commercial services",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 70.1,
+        "median": 70.1,
+        "min": 70.1,
+        "max": 70.1
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 87.0,
+        "median": 87.0,
+        "min": 87.0,
+        "max": 87.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 37.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 37.0
+      },
+      "top_target": "Dublin Facilities Group Limited"
+    },
+    {
+      "sector": "HVAC / Construction",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 81.1,
+        "median": 81.1,
+        "min": 81.1,
+        "max": 81.1
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 92.0,
+        "median": 92.0,
+        "min": 92.0,
+        "max": 92.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Galway Mechanical Services Limited"
+    },
+    {
+      "sector": "Healthcare clinic services",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 74.9,
+        "median": 74.9,
+        "min": 74.9,
+        "max": 74.9
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 80.0,
+        "median": 80.0,
+        "min": 80.0,
+        "max": 80.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Dublin Health Clinics Limited"
+    },
+    {
+      "sector": "Landscaping / Grounds Services",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 79.4,
+        "median": 79.4,
+        "min": 79.4,
+        "max": 79.4
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 92.0,
+        "median": 92.0,
+        "min": 92.0,
+        "max": 92.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 52.0,
+        "max": 52.0
+      },
+      "top_target": "Galway Landscape Services Limited"
+    }
+  ],
+  "top_targets": [
+    {
+      "name": "Galway Mechanical Services Limited",
+      "county": "Galway",
+      "local_area": "Galway City",
+      "sector": "HVAC / Construction",
+      "next_action": "prioritise_for_manual_origination_review",
+      "succession_fit": 92.0,
+      "business_quality": 96.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 81.1,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Galway Landscape Services Limited",
+      "county": "Galway",
+      "local_area": "Oranmore",
+      "sector": "Landscaping / Grounds Services",
+      "next_action": "prioritise_for_manual_origination_review",
+      "succession_fit": 92.0,
+      "business_quality": 100.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 52.0,
+      "combined": 79.4,
+      "weakest_component": "macro_policy"
+    },
+    {
+      "name": "Dublin Health Clinics Limited",
+      "county": "Dublin",
+      "local_area": "Dublin 6 / Rathmines",
+      "sector": "Healthcare clinic services",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 80.0,
+      "business_quality": 88.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 67.0,
+      "combined": 74.9,
+      "weakest_component": "deal_readiness"
+    },
+    {
+      "name": "Dublin Facilities Group Limited",
+      "county": "Dublin",
+      "local_area": "Dublin 2 / Docklands",
+      "sector": "Facilities management / Commercial services",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 87.0,
+      "business_quality": 81.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 37.0,
+      "combined": 70.1,
+      "weakest_component": "macro_policy"
+    }
+  ],
+  "low_confidence_targets": [],
+  "recommendations": [
+    "Add richer local macro/policy mappings for sectors with weak Macro policy scores.",
+    "Prioritise contact, website, price, and transaction-intent enrichment for weak Deal readiness rows."
+  ]
+}

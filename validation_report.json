@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "target_count": 4,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0,
+    "with_contact_evidence": 4,
+    "with_strong_identity": 4,
+    "source_counts": {
+      "cro_open_services": 4
+    },
+    "county_counts": {
+      "Galway": 2,
+      "Dublin": 2
+    },
+    "field_issue_counts": {},
+    "issues": []
+  },
+  "enriched": {
+    "target_count": 4,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0,
+    "with_contact_evidence": 4,
+    "with_strong_identity": 4,
+    "source_counts": {
+      "cro_open_services": 4
+    },
+    "county_counts": {
+      "Galway": 2,
+      "Dublin": 2
+    },
+    "field_issue_counts": {},
+    "issues": []
+  },
+  "canonical": {
+    "target_count": 4,
+    "issue_count": 0,
+    "error_count": 0,
+    "warning_count": 0,
+    "with_contact_evidence": 4,
+    "with_strong_identity": 4,
+    "source_counts": {
+      "cro_open_services": 4
+    },
+    "county_counts": {
+      "Dublin": 2,
+      "Galway": 2
+    },
+    "field_issue_counts": {},
+    "issues": []
+  }
+}

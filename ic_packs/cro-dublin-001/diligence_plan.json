@@ -1,0 +1,29 @@
+{
+  "target_identity": "Dublin Facilities Group Limited (CRO dublin-001)",
+  "stage": "enrichment_required",
+  "decision_gate": "fill high-priority evidence gaps before outreach",
+  "evidence_gaps": [
+    "registered address unavailable",
+    "no asking price or valuation anchor"
+  ],
+  "questions": [
+    {
+      "category": "valuation",
+      "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+      "priority": "medium",
+      "evidence_needed": [
+        "employee estimate",
+        "revenue proxy",
+        "asset base",
+        "sector multiple"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "research_and_enrich_before_outreach",
+    "fill high-priority evidence gaps before outreach",
+    "close evidence gap: registered address unavailable",
+    "close evidence gap: no asking price or valuation anchor"
+  ]
+}
