@@ -16,5 +16,9 @@
   ],
   "dashboard": "index.html",
   "county_coverage": "county_coverage.json",
-  "public_repo": "."
+  "source_acquisition_matrix": "source_acquisition_matrix.json",
+  "source_acquisition_matrix_report": "source_acquisition_matrix.md",
+  "source_acquisition_matrix_csv": "source_acquisition_matrix.csv",
+  "public_repo": ".",
+  "source_acquisition_matrix_status": "source_rows_needed"
 }
