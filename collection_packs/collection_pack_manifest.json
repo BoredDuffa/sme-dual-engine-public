@@ -1,15 +1,15 @@
 {
   "status": "ready",
   "counts": {
-    "market_rows": 12,
+    "market_rows": 0,
     "company_rows": 108,
-    "total_rows": 120
+    "total_rows": 108
   },
   "files": [
     {
       "county": "Galway",
       "kind": "market",
-      "rows": 6,
+      "rows": 0,
       "csv": "tmp/public-dashboard-build/collection_packs/galway-market.csv",
       "markdown": "tmp/public-dashboard-build/collection_packs/galway-market.md"
     },
@@ -23,7 +23,7 @@
     {
       "county": "Dublin",
       "kind": "market",
-      "rows": 6,
+      "rows": 0,
       "csv": "tmp/public-dashboard-build/collection_packs/dublin-market.csv",
       "markdown": "tmp/public-dashboard-build/collection_packs/dublin-market.md"
     },

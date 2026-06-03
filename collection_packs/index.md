@@ -1,17 +1,17 @@
 # Galway/Dublin Collection Pack
 
 - Status: `ready`
-- Market rows: 12
+- Market rows: 0
 - Company-universe rows: 108
-- Total rows: 120
+- Total rows: 108
 
 ## Files
 
 | County | Kind | Rows | CSV | Notes |
 | --- | --- | ---: | --- | --- |
-| Galway | market | 6 | `galway-market.csv` | `galway-market.md` |
+| Galway | market | 0 | `galway-market.csv` | `galway-market.md` |
 | Galway | company | 54 | `galway-company.csv` | `galway-company.md` |
-| Dublin | market | 6 | `dublin-market.csv` | `dublin-market.md` |
+| Dublin | market | 0 | `dublin-market.csv` | `dublin-market.md` |
 | Dublin | company | 54 | `dublin-company.csv` | `dublin-company.md` |
 
 ## How To Use

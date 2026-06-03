@@ -1,12 +1,10 @@
 {
   "status": "sample_or_incomplete",
-  "score": 50,
+  "score": 75,
   "issues": [
-    "sector spend source notes still indicate sample or placeholder data",
     "company universe source notes still indicate sample or placeholder data"
   ],
   "warnings": [
-    "some sector spend rows are missing source_url, source_date, or approved_by",
     "some company universe rows are missing source_url, source_date, or approved_by"
   ],
   "coverage": {
@@ -22,7 +20,7 @@
       "Dublin",
       "Galway"
     ],
-    "sector_spend_rows": 6,
+    "sector_spend_rows": 12,
     "company_universe_rows": 8,
     "company_universe_total_companies": 538
   }

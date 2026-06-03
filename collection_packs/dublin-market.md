@@ -1,11 +1,11 @@
 # Galway/Dublin Collection Batch
 
-- Status: `ready`
+- Status: `empty`
 - County: `Dublin`
 - Kind: `market`
-- Market rows: 6
+- Market rows: 0
 - Company-universe rows: 0
-- Total rows: 6
+- Total rows: 0
 
 ## How To Use
 

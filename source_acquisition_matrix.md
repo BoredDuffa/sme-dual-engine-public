@@ -7,32 +7,21 @@
 
 | Status | Rows |
 | --- | --- |
-| missing_row | 106 |
-| needs_approved_source | 14 |
+| approved | 12 |
+| missing_row | 100 |
+| needs_approved_source | 8 |
 
 ## By County
 
 | County | Total | Approved | Needs approved source | Missing row |
 | --- | --- | --- | --- | --- |
-| Dublin | 60 | 0 | 7 | 53 |
-| Galway | 60 | 0 | 7 | 53 |
+| Dublin | 60 | 6 | 4 | 50 |
+| Galway | 60 | 6 | 4 | 50 |
 
 ## Next Rows To Source
 
 | Kind | County | Area | Sector | Status | Missing fields | Primary source |
 | --- | --- | --- | --- | --- | --- | --- |
-| market | Galway |  | Industrials | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Galway Chamber / local economic extract |
-| market | Galway |  | Consumer Discretionary | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Galway Chamber / local economic extract |
-| market | Galway |  | Consumer Staples | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Galway Chamber / local economic extract |
-| market | Galway |  | Health Care | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Galway Chamber / local economic extract |
-| market | Galway |  | Information Technology | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Galway Chamber / local economic extract |
-| market | Galway |  | Financials | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Galway Chamber / local economic extract |
-| market | Dublin |  | Industrials | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Dublin Chamber / local economic extract |
-| market | Dublin |  | Consumer Discretionary | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Dublin Chamber / local economic extract |
-| market | Dublin |  | Consumer Staples | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Dublin Chamber / local economic extract |
-| market | Dublin |  | Health Care | missing_row | sme_label, spend_share_pct, annual_spend_eur_m, tailwinds, headwinds, source_note, source_url, source_date, approved_by | Dublin Chamber / local economic extract |
-| market | Dublin |  | Information Technology | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Dublin Chamber / local economic extract |
-| market | Dublin |  | Financials | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | Dublin Chamber / local economic extract |
 | company_universe | Galway | Galway City | Industrials | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | CRO Open Services |
 | company_universe | Galway | Galway City | Consumer Discretionary | needs_approved_source | source_url, source_date, approved_by, approved_non_placeholder_source_note | CRO Open Services |
 | company_universe | Galway | Galway City | Consumer Staples | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
@@ -61,6 +50,18 @@
 | company_universe | Galway | Tuam | Consumer Discretionary | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Tuam | Consumer Staples | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Tuam | Health Care | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Tuam | Information Technology | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Tuam | Financials | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Industrials | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Consumer Discretionary | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Consumer Staples | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Health Care | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Information Technology | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Loughrea | Financials | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Ballinasloe | Industrials | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Ballinasloe | Consumer Discretionary | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Ballinasloe | Consumer Staples | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Ballinasloe | Health Care | missing_row | gics_industry_group, company_count, director_50_plus_count, director_55_plus_count, director_60_plus_count, director_65_plus_count, director_70_plus_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 
 ## Operator Notes
 
