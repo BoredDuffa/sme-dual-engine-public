@@ -14,12 +14,12 @@
       "relative_html": "ic_packs/cro-galway-002/ic_draft.html",
       "relative_markdown": "ic_packs/cro-galway-002/ic_draft.md",
       "written": {
-        "evidence_gate_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/evidence_gate.json",
-        "diligence_plan_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/diligence_plan.json",
-        "review_context_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/review_context.json",
-        "ic_draft_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/ic_draft.md",
-        "ic_draft_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/ic_draft.html",
-        "ic_draft_tex": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-002/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-galway-002/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-galway-002/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-galway-002/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-galway-002/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-galway-002/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/cro-galway-002/ic_draft.tex"
       }
     },
     {
@@ -32,12 +32,12 @@
       "relative_html": "ic_packs/cro-galway-001/ic_draft.html",
       "relative_markdown": "ic_packs/cro-galway-001/ic_draft.md",
       "written": {
-        "evidence_gate_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/evidence_gate.json",
-        "diligence_plan_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/diligence_plan.json",
-        "review_context_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/review_context.json",
-        "ic_draft_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/ic_draft.md",
-        "ic_draft_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/ic_draft.html",
-        "ic_draft_tex": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-galway-001/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-galway-001/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-galway-001/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-galway-001/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-galway-001/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-galway-001/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/cro-galway-001/ic_draft.tex"
       }
     },
     {
@@ -50,12 +50,12 @@
       "relative_html": "ic_packs/cro-dublin-002/ic_draft.html",
       "relative_markdown": "ic_packs/cro-dublin-002/ic_draft.md",
       "written": {
-        "evidence_gate_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/evidence_gate.json",
-        "diligence_plan_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/diligence_plan.json",
-        "review_context_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/review_context.json",
-        "ic_draft_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/ic_draft.md",
-        "ic_draft_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/ic_draft.html",
-        "ic_draft_tex": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-002/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/cro-dublin-002/ic_draft.tex"
       }
     },
     {
@@ -68,12 +68,12 @@
       "relative_html": "ic_packs/cro-dublin-001/ic_draft.html",
       "relative_markdown": "ic_packs/cro-dublin-001/ic_draft.md",
       "written": {
-        "evidence_gate_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/evidence_gate.json",
-        "diligence_plan_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/diligence_plan.json",
-        "review_context_json": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/review_context.json",
-        "ic_draft_md": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/ic_draft.md",
-        "ic_draft_html": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/ic_draft.html",
-        "ic_draft_tex": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/ic_packs/cro-dublin-001/ic_draft.tex"
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/cro-dublin-001/ic_draft.tex"
       }
     }
   ]

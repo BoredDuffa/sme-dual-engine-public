@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "mode": "galway_dublin_pilot",
-  "input": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-sme-dashboard-sample.json",
-  "market_data": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv",
-  "company_data": "/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv",
+  "mode": "public_galway_dublin_dashboard",
+  "input": "samples/galway-dublin-sme-dashboard-sample.json",
+  "market_data": "samples/galway-dublin-market-data-sample.csv",
+  "company_data": "samples/galway-dublin-company-universe-sample.csv",
   "target_count": 4,
   "entity_count": 4,
   "assessment_count": 4,
@@ -14,9 +14,6 @@
     "sector spend source notes still indicate sample or placeholder data",
     "company universe source notes still indicate sample or placeholder data"
   ],
-  "output_dir": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public",
-  "sqlite": "/tmp/sme-dual-engine-public.sqlite",
-  "dashboard": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/index.html",
-  "data_readiness": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/data_readiness.json",
-  "pilot_evidence_report": "/Users/benjaminfalkenburg/repo-reorg/public-sites/sme-dual-engine-public/pilot_evidence_report.md"
+  "dashboard": "index.html",
+  "public_repo": "."
 }

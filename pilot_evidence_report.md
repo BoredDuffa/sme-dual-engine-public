@@ -2,9 +2,9 @@
 
 ## Run Summary
 
-- Input: `/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-sme-dashboard-sample.json`
-- Market data: `/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv`
-- Company universe data: `/Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv`
+- Input: `samples/galway-dublin-sme-dashboard-sample.json`
+- Market data: `samples/galway-dublin-market-data-sample.csv`
+- Company universe data: `samples/galway-dublin-company-universe-sample.csv`
 - Target rows loaded: 4
 - Deduplicated entities: 4
 - Ranked assessments: 4

@@ -409,8 +409,8 @@
     ]
   },
   "notes": [
-    "Sector-spend shares loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-market-data-sample.csv.",
-    "Company universe counts loaded from /Users/benjaminfalkenburg/repo-reorg/principia-split/SME-Dual_Engine/samples/galway-dublin-company-universe-sample.csv.",
+    "Sector-spend shares loaded from samples/galway-dublin-market-data-sample.csv.",
+    "Company universe counts loaded from samples/galway-dublin-company-universe-sample.csv.",
     "Director-age filtering uses the oldest/minimum director age metadata when supplied by CRO/enrichment inputs."
   ]
 }
