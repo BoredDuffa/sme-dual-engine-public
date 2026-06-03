@@ -654,11 +654,11 @@
         "direction": "tailwind",
         "confidence": 0.86,
         "tailwind_terms": [
-          "grant",
           "investment",
           "fund",
+          "support",
           "scheme",
-          "support"
+          "grant"
         ],
         "headwind_terms": []
       },
@@ -1019,7 +1019,7 @@
             "member_count": 1
           },
           "provenance": {
-            "name": {
+            "oldest_director_age": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
@@ -1033,35 +1033,7 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "summary": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "town": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "oldest_director_age": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "category": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "source": {
+            "county": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
@@ -1075,14 +1047,14 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "normalized_name": {
+            "phone": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_size": {
+            "summary": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
@@ -1096,28 +1068,42 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "county": {
+            "source": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "phone": {
+            "company_size": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "title": {
+            "town": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_age_years": {
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
@@ -1131,14 +1117,28 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_url": {
+            "name": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_key": {
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-002",
               "observed_at": null,
@@ -1680,7 +1680,7 @@
             "member_count": 1
           },
           "provenance": {
-            "name": {
+            "oldest_director_age": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
@@ -1694,35 +1694,7 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "summary": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "town": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "oldest_director_age": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "category": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/galway-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "source": {
+            "county": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
@@ -1736,14 +1708,14 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "normalized_name": {
+            "phone": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_size": {
+            "summary": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
@@ -1757,28 +1729,42 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "county": {
+            "source": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "phone": {
+            "company_size": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "title": {
+            "town": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_age_years": {
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
@@ -1792,14 +1778,28 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_url": {
+            "name": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_key": {
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/galway-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/galway-001",
               "observed_at": null,
@@ -2340,7 +2340,7 @@
             "member_count": 1
           },
           "provenance": {
-            "name": {
+            "oldest_director_age": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
@@ -2354,35 +2354,7 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "summary": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "town": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "oldest_director_age": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "category": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-002",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "source": {
+            "county": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
@@ -2396,14 +2368,14 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "normalized_name": {
+            "phone": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_size": {
+            "summary": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
@@ -2417,28 +2389,42 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "county": {
+            "source": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "phone": {
+            "company_size": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "title": {
+            "town": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_age_years": {
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
@@ -2452,14 +2438,28 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_url": {
+            "name": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_key": {
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-002",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-002",
               "observed_at": null,
@@ -3004,7 +3004,7 @@
             "member_count": 1
           },
           "provenance": {
-            "name": {
+            "oldest_director_age": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
@@ -3018,35 +3018,7 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "summary": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "town": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "oldest_director_age": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "category": {
-              "source_name": "cro_open_services",
-              "source_url": "https://example.com/dublin-001",
-              "observed_at": null,
-              "confidence": 1.0,
-              "value_kind": "observed"
-            },
-            "source": {
+            "county": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
@@ -3060,14 +3032,14 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "normalized_name": {
+            "phone": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_size": {
+            "summary": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
@@ -3081,28 +3053,42 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "county": {
+            "source": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "phone": {
+            "company_size": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "title": {
+            "town": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "company_age_years": {
+            "category": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "normalized_name": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_key": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
@@ -3116,14 +3102,28 @@
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_url": {
+            "name": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
               "confidence": 1.0,
               "value_kind": "observed"
             },
-            "source_key": {
+            "company_age_years": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "title": {
+              "source_name": "cro_open_services",
+              "source_url": "https://example.com/dublin-001",
+              "observed_at": null,
+              "confidence": 1.0,
+              "value_kind": "observed"
+            },
+            "source_url": {
               "source_name": "cro_open_services",
               "source_url": "https://example.com/dublin-001",
               "observed_at": null,
