@@ -20,6 +20,9 @@
   "source_acquisition_matrix_csv": "source_acquisition_matrix.csv",
   "collection_pack": "collection_packs/collection_pack_manifest.json",
   "collection_pack_index": "collection_packs/index.md",
+  "company_universe_export_request_csv": "company_universe_request/company-universe-export-request.csv",
+  "company_universe_export_request_json": "company_universe_request/company-universe-export-request.json",
+  "company_universe_export_request_report": "company_universe_request/company-universe-export-request.md",
   "collection_progress": "collection_progress.json",
   "collection_progress_report": "collection_progress.md",
   "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
@@ -31,6 +34,14 @@
     "market_rows": 0,
     "company_rows": 108,
     "total_rows": 108
+  },
+  "company_universe_export_request_status": "ready",
+  "company_universe_export_request_counts": {
+    "request_rows": 108,
+    "by_county": {
+      "Dublin": 54,
+      "Galway": 54
+    }
   },
   "collection_progress_status": "collection_in_progress",
   "collection_progress_pct": 10.0
