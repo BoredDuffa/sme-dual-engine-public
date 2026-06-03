@@ -1,0 +1,203 @@
+{
+  "status": "ready",
+  "source": {
+    "table": "BRA34",
+    "label": "Business Demography",
+    "url": "https://data.cso.ie/table/BRA34",
+    "jsonstat_url": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/BRA34/JSON-stat/2.0/en",
+    "updated": "2025-12-15T11:00:00.000Z",
+    "year": "2023",
+    "note": [
+      "This data contains revisions for Business Demography 2020 and Business Demography 2019. Please see the [url=https://www.cso.ie/en/releasesandpublications/ep/p-bd/businessdemography2021/]Business Demography 2021[/url] release for more details.\r\n\r\nFrom 2022 non-market producers are excluded from Business Demography. This methodology was applied to 2021 in a revision.",
+      "For more information, please go to the [url=https://www.cso.ie/en/statistics/enterprisestatistics/businessdemography/]statistical release page[/url] on our website."
+    ]
+  },
+  "counts": {
+    "rows": 12,
+    "counties": [
+      "Galway",
+      "Dublin"
+    ],
+    "sectors": [
+      "Industrials",
+      "Consumer Discretionary",
+      "Consumer Staples",
+      "Health Care",
+      "Information Technology",
+      "Financials"
+    ],
+    "total_active_enterprises": 139318,
+    "total_persons_engaged": 1136064,
+    "total_employees": 1066286
+  },
+  "benchmark_rows": [
+    {
+      "county": "Galway",
+      "gics_sector": "Industrials",
+      "sme_label": "Construction, manufacturing, logistics, utilities, and support services",
+      "nace_mapping": "B=Mining and Quarrying (B); C=Manufacturing (C); D=Electricity, Gas, Steam and Air Conditioning Supply (D); E=Water Supply; Sewerage, Waste Management and Remediation Activities (E); F=Construction (F); H=Transportation and Storage (H); N=Administrative and Support Service Activities (N)",
+      "active_enterprises": 7698,
+      "persons_engaged": 42423,
+      "employees": 37400,
+      "active_enterprise_share_pct": "42.81",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Consumer Discretionary",
+      "sme_label": "Non-staple retail, hospitality, leisure, and local services",
+      "nace_mapping": "G=WholeSale and Retail Trade; Repair of Motor Vehicles and Motorcycles (G); I=Accommodation and Food Service Activities (I); R=Arts, Entertainment and Recreation (R); less G471=Retail Sale in Non-Specialised Stores (G471); less G472=Retail Sale of Food, Beverages and Tobacco in Specialised Stores (G472); less G473=Retail Sale of Automotive Fuel in Specialised Stores (G473)",
+      "active_enterprises": 4331,
+      "persons_engaged": 29170,
+      "employees": 26789,
+      "active_enterprise_share_pct": "24.09",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Consumer Staples",
+      "sme_label": "Food, fuel, and non-specialised essential retail",
+      "nace_mapping": "G471=Retail Sale in Non-Specialised Stores (G471); G472=Retail Sale of Food, Beverages and Tobacco in Specialised Stores (G472); G473=Retail Sale of Automotive Fuel in Specialised Stores (G473)",
+      "active_enterprises": 501,
+      "persons_engaged": 5719,
+      "employees": 5487,
+      "active_enterprise_share_pct": "2.79",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Health Care",
+      "sme_label": "Healthcare and social work enterprises",
+      "nace_mapping": "Q=Human Health and Social Work Activities (Q)",
+      "active_enterprises": 1518,
+      "persons_engaged": 8224,
+      "employees": 7008,
+      "active_enterprise_share_pct": "8.44",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Information Technology",
+      "sme_label": "Information and communication enterprises",
+      "nace_mapping": "J=Information and Communication (J)",
+      "active_enterprises": 903,
+      "persons_engaged": 3584,
+      "employees": 3243,
+      "active_enterprise_share_pct": "5.02",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Galway",
+      "gics_sector": "Financials",
+      "sme_label": "Financial, insurance, and professional services enterprises",
+      "nace_mapping": "K=Financial and Insurance Activities (K); M=Professional, Scientific and Technical Activities (M)",
+      "active_enterprises": 3029,
+      "persons_engaged": 9503,
+      "employees": 8015,
+      "active_enterprise_share_pct": "16.85",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Industrials",
+      "sme_label": "Construction, manufacturing, logistics, utilities, and support services",
+      "nace_mapping": "B=Mining and Quarrying (B); C=Manufacturing (C); D=Electricity, Gas, Steam and Air Conditioning Supply (D); E=Water Supply; Sewerage, Waste Management and Remediation Activities (E); F=Construction (F); H=Transportation and Storage (H); N=Administrative and Support Service Activities (N)",
+      "active_enterprises": 48140,
+      "persons_engaged": 319950,
+      "employees": 288950,
+      "active_enterprise_share_pct": "39.67",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Consumer Discretionary",
+      "sme_label": "Non-staple retail, hospitality, leisure, and local services",
+      "nace_mapping": "G=WholeSale and Retail Trade; Repair of Motor Vehicles and Motorcycles (G); I=Accommodation and Food Service Activities (I); R=Arts, Entertainment and Recreation (R); less G471=Retail Sale in Non-Specialised Stores (G471); less G472=Retail Sale of Food, Beverages and Tobacco in Specialised Stores (G472); less G473=Retail Sale of Automotive Fuel in Specialised Stores (G473)",
+      "active_enterprises": 21204,
+      "persons_engaged": 237945,
+      "employees": 229610,
+      "active_enterprise_share_pct": "17.48",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Consumer Staples",
+      "sme_label": "Food, fuel, and non-specialised essential retail",
+      "nace_mapping": "G471=Retail Sale in Non-Specialised Stores (G471); G472=Retail Sale of Food, Beverages and Tobacco in Specialised Stores (G472); G473=Retail Sale of Automotive Fuel in Specialised Stores (G473)",
+      "active_enterprises": 1772,
+      "persons_engaged": 65901,
+      "employees": 65252,
+      "active_enterprise_share_pct": "1.46",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Health Care",
+      "sme_label": "Healthcare and social work enterprises",
+      "nace_mapping": "Q=Human Health and Social Work Activities (Q)",
+      "active_enterprises": 8008,
+      "persons_engaged": 67446,
+      "employees": 61720,
+      "active_enterprise_share_pct": "6.60",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Information Technology",
+      "sme_label": "Information and communication enterprises",
+      "nace_mapping": "J=Information and Communication (J)",
+      "active_enterprises": 10163,
+      "persons_engaged": 116833,
+      "employees": 114424,
+      "active_enterprise_share_pct": "8.38",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    },
+    {
+      "county": "Dublin",
+      "gics_sector": "Financials",
+      "sme_label": "Financial, insurance, and professional services enterprises",
+      "nace_mapping": "K=Financial and Insurance Activities (K); M=Professional, Scientific and Technical Activities (M)",
+      "active_enterprises": 32051,
+      "persons_engaged": 229366,
+      "employees": 218388,
+      "active_enterprise_share_pct": "26.41",
+      "source_note": "CSO Business Demography BRA34 2023 active enterprises by county and NACE activity; mapped to SME Dual Engine starter GICS sectors.",
+      "source_url": "https://data.cso.ie/table/BRA34",
+      "source_date": "2023",
+      "extracted_at": "2026-06-03"
+    }
+  ]
+}

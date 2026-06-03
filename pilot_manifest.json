@@ -23,6 +23,8 @@
   "collection_pack_index": "collection_packs/index.md",
   "collection_progress": "collection_progress.json",
   "collection_progress_report": "collection_progress.md",
+  "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
+  "cso_business_demography_benchmark_json": "benchmarks/cso-business-demography-benchmark-2023.json",
   "public_repo": ".",
   "source_acquisition_matrix_status": "source_rows_needed",
   "collection_pack_status": "ready",
