@@ -1,0 +1,17 @@
+{
+  "identity_key": "cro:217915",
+  "target_name": "A.M. & D. HOLDINGS LIMITED",
+  "readiness": "blocked",
+  "score": 33.9,
+  "evidence_gap_count": 3,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

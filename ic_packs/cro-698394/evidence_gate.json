@@ -1,0 +1,15 @@
+{
+  "identity_key": "cro:698394",
+  "target_name": "126 ARTIST-RUN GALLERY & STUDIOS COMPANY LIMITED BY GUARANTEE",
+  "readiness": "watch_memo_only",
+  "score": 48.8,
+  "evidence_gap_count": 2,
+  "blockers": [],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

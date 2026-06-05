@@ -1,14 +1,20 @@
 {
-  "queue_count": 4,
+  "queue_count": 62,
   "status_counts": {
-    "researching": 4
+    "researching": 9,
+    "watchlist": 23,
+    "new": 30
   },
   "decision_counts": {
-    "contact": 2,
-    "research_more": 2
+    "contact": 1,
+    "research_more": 8,
+    "watch": 23,
+    "unreviewed": 30
   },
   "priority_counts": {
-    "high": 4
+    "high": 1,
+    "medium": 11,
+    "low": 50
   },
-  "high_priority_count": 4
+  "high_priority_count": 1
 }

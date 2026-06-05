@@ -1,0 +1,16 @@
+{
+  "identity_key": "cro:462330",
+  "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
+  "readiness": "blocked",
+  "score": 34.8,
+  "evidence_gap_count": 2,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

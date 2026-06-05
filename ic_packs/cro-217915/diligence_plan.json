@@ -1,0 +1,43 @@
+{
+  "target_identity": "A.M. & D. HOLDINGS LIMITED (CRO 217915)",
+  "stage": "defer",
+  "decision_gate": "do not spend partner time without materially better evidence",
+  "evidence_gaps": [
+    "direct contact route missing",
+    "registered address unavailable",
+    "no asking price or valuation anchor"
+  ],
+  "questions": [
+    {
+      "category": "seller_access",
+      "question": "Find a verified phone, email, owner/director contact, or advisor route.",
+      "priority": "high",
+      "evidence_needed": [
+        "phone",
+        "email",
+        "director LinkedIn",
+        "advisor/listing page"
+      ],
+      "owner": "analyst"
+    },
+    {
+      "category": "valuation",
+      "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+      "priority": "medium",
+      "evidence_needed": [
+        "employee estimate",
+        "revenue proxy",
+        "asset base",
+        "sector multiple"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "defer_until_new_evidence",
+    "do not spend partner time without materially better evidence",
+    "close evidence gap: direct contact route missing",
+    "close evidence gap: registered address unavailable",
+    "close evidence gap: no asking price or valuation anchor"
+  ]
+}

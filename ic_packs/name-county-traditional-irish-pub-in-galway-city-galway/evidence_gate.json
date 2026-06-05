@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:traditional irish pub in galway city:galway",
+  "target_name": "Traditional Irish Pub in Galway City",
+  "readiness": "watch_memo_only",
+  "score": 58.5,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

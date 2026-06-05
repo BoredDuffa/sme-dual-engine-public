@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:mortons of galway salthill galway salthill galway city:galway",
+  "target_name": "Mortons of Galway, Salthill, Galway., Salthill, Galway City",
+  "readiness": "research_memo_ready",
+  "score": 67.0,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:luxury b&b business prestigious west of ireland:galway",
+  "target_name": "Luxury B&B Business – Prestigious West Of Ireland",
+  "readiness": "watch_memo_only",
+  "score": 53.6,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

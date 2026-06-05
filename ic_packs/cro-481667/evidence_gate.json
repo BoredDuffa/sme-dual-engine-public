@@ -1,0 +1,16 @@
+{
+  "identity_key": "cro:481667",
+  "target_name": "A LEONARD MANAGEMENT & CONSULTING LIMITED",
+  "readiness": "blocked",
+  "score": 44.6,
+  "evidence_gap_count": 2,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

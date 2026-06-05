@@ -1,0 +1,29 @@
+{
+  "target_identity": "36 O'CONNELL STREET MANAGEMENT LIMITED (CRO 360393)",
+  "stage": "defer",
+  "decision_gate": "do not spend partner time without materially better evidence",
+  "evidence_gaps": [
+    "registered address unavailable",
+    "no asking price or valuation anchor"
+  ],
+  "questions": [
+    {
+      "category": "valuation",
+      "question": "Create a first-pass valuation range from sector multiples and public size proxies.",
+      "priority": "medium",
+      "evidence_needed": [
+        "employee estimate",
+        "revenue proxy",
+        "asset base",
+        "sector multiple"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "defer_until_new_evidence",
+    "do not spend partner time without materially better evidence",
+    "close evidence gap: registered address unavailable",
+    "close evidence gap: no asking price or valuation anchor"
+  ]
+}

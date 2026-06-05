@@ -1,0 +1,16 @@
+{
+  "identity_key": "cro:240545",
+  "target_name": "A.E.R. LIMITED",
+  "readiness": "blocked",
+  "score": 39.9,
+  "evidence_gap_count": 2,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

@@ -2,13 +2,13 @@
 
 ## Run Summary
 
-- Input: `samples/galway-dublin-sme-dashboard-sample.json`
+- Input: `samples/galway-sme-dashboard-expanded-public.json`
 - Market data: `docs/approved-data/cso-allocated-market-data-2022.csv`
 - Company universe data: `samples/galway-dublin-company-universe-sample.csv`
-- Target rows loaded: 4
-- Deduplicated entities: 4
-- Ranked assessments: 4
-- Review queue rows: 4
+- Target rows loaded: 75
+- Deduplicated entities: 62
+- Ranked assessments: 62
+- Review queue rows: 62
 
 ## Data Readiness
 

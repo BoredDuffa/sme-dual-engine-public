@@ -1,0 +1,30 @@
+{
+  "target_identity": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
+  "stage": "outreach_ready",
+  "decision_gate": "confirm owner/seller context before first contact",
+  "evidence_gaps": [
+    "CRO/company number not linked",
+    "company age unavailable",
+    "registered address unavailable"
+  ],
+  "questions": [
+    {
+      "category": "corporate_identity",
+      "question": "Confirm legal entity, CRO number, status, directors, filings, and group structure.",
+      "priority": "high",
+      "evidence_needed": [
+        "CRO profile",
+        "latest annual return",
+        "director list"
+      ],
+      "owner": "analyst"
+    }
+  ],
+  "recommended_next_actions": [
+    "prioritise_for_manual_origination_review",
+    "confirm owner/seller context before first contact",
+    "close evidence gap: CRO/company number not linked",
+    "close evidence gap: company age unavailable",
+    "close evidence gap: registered address unavailable"
+  ]
+}

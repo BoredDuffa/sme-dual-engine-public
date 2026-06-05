@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:cp contracts:galway",
+  "target_name": "CP CONTRACTS",
+  "readiness": "research_memo_ready",
+  "score": 62.5,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

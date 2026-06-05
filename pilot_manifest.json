@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "public_galway_dublin_dashboard",
-  "input": "samples/galway-dublin-sme-dashboard-sample.json",
+  "input": "samples/galway-sme-dashboard-expanded-public.json",
   "market_data": "docs/approved-data/cso-allocated-market-data-2022.csv",
   "company_data": "samples/galway-dublin-company-universe-sample.csv",
-  "target_count": 4,
-  "entity_count": 4,
-  "assessment_count": 4,
-  "review_queue_count": 4,
+  "target_count": 75,
+  "entity_count": 62,
+  "assessment_count": 62,
+  "review_queue_count": 62,
   "readiness_status": "sample_or_incomplete",
   "readiness_score": 75,
   "readiness_issues": [

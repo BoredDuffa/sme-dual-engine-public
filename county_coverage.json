@@ -10,18 +10,20 @@
   ],
   "counties": {
     "Galway": {
-      "status": "sample_data_only",
-      "missing": [],
-      "target_count": 2,
-      "review_queue_count": 2,
+      "status": "missing_inputs",
+      "missing": [
+        "director_age"
+      ],
+      "target_count": 62,
+      "review_queue_count": 62,
       "sector_spend_rows": 6,
       "company_universe_rows": 4,
       "company_universe_total_companies": 210,
-      "director_age_known_count": 2,
+      "director_age_known_count": 0,
       "director_age_thresholds": {
-        "50_plus": 2,
-        "55_plus": 2,
-        "60_plus": 1,
+        "50_plus": 0,
+        "55_plus": 0,
+        "60_plus": 0,
         "65_plus": 0,
         "70_plus": 0
       },
@@ -29,19 +31,22 @@
       "company_universe_source_status": "sample_or_placeholder"
     },
     "Dublin": {
-      "status": "sample_data_only",
-      "missing": [],
-      "target_count": 2,
-      "review_queue_count": 2,
+      "status": "missing_inputs",
+      "missing": [
+        "targets",
+        "director_age"
+      ],
+      "target_count": 0,
+      "review_queue_count": 0,
       "sector_spend_rows": 6,
       "company_universe_rows": 4,
       "company_universe_total_companies": 328,
-      "director_age_known_count": 2,
+      "director_age_known_count": 0,
       "director_age_thresholds": {
-        "50_plus": 2,
-        "55_plus": 1,
-        "60_plus": 1,
-        "65_plus": 1,
+        "50_plus": 0,
+        "55_plus": 0,
+        "60_plus": 0,
+        "65_plus": 0,
         "70_plus": 0
       },
       "sector_spend_source_status": "approved_or_unspecified",

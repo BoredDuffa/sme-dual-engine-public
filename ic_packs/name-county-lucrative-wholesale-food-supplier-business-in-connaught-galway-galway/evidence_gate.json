@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:lucrative wholesale food supplier business in connaught galway:galway",
+  "target_name": "Lucrative Wholesale Food Supplier Business In Connaught Galway",
+  "readiness": "research_memo_ready",
+  "score": 62.4,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

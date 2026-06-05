@@ -1,0 +1,16 @@
+{
+  "identity_key": "cro:470032",
+  "target_name": "3D VENTURES LIMITED",
+  "readiness": "blocked",
+  "score": 34.8,
+  "evidence_gap_count": 2,
+  "blockers": [
+    "combined score below review threshold"
+  ],
+  "required_before_ic": [
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "watch_note"
+  ]
+}

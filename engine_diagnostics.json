@@ -1,117 +1,170 @@
 {
-  "assessment_count": 4,
+  "assessment_count": 62,
   "component_stats": {
     "succession_fit": {
-      "count": 4,
-      "mean": 87.8,
-      "median": 89.5,
-      "min": 80.0,
-      "max": 92.0
+      "count": 62,
+      "mean": 41.7,
+      "median": 36.0,
+      "min": 26.8,
+      "max": 67.5
     },
     "business_quality": {
-      "count": 4,
-      "mean": 91.2,
-      "median": 92.0,
-      "min": 81.0,
-      "max": 100.0
+      "count": 62,
+      "mean": 41.2,
+      "median": 37.0,
+      "min": 24.0,
+      "max": 87.0
     },
     "deal_readiness": {
-      "count": 4,
-      "mean": 58.0,
+      "count": 62,
+      "mean": 65.3,
       "median": 58.0,
-      "min": 58.0,
-      "max": 58.0
+      "min": 46.0,
+      "max": 98.0
     },
     "macro_policy": {
-      "count": 4,
-      "mean": 55.8,
-      "median": 59.5,
+      "count": 62,
+      "mean": 44.0,
+      "median": 37.0,
       "min": 37.0,
-      "max": 67.0
+      "max": 97.0
     },
     "combined": {
-      "count": 4,
-      "mean": 76.4,
-      "median": 77.2,
-      "min": 70.1,
-      "max": 81.1
+      "count": 62,
+      "mean": 47.2,
+      "median": 46.0,
+      "min": 33.9,
+      "max": 76.8
     }
   },
   "weakest_component_counts": {
-    "deal_readiness": 2,
-    "macro_policy": 2
+    "business_quality": 39,
+    "macro_policy": 8,
+    "succession_fit": 15
   },
   "by_county": [
     {
-      "county": "Dublin",
+      "county": "Galway",
+      "count": 62,
+      "combined": {
+        "count": 62,
+        "mean": 47.2,
+        "median": 46.0,
+        "min": 33.9,
+        "max": 76.8
+      },
+      "succession_fit": {
+        "count": 62,
+        "mean": 41.7,
+        "median": 36.0,
+        "min": 26.8,
+        "max": 67.5
+      },
+      "macro_policy": {
+        "count": 62,
+        "mean": 44.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 97.0
+      },
+      "top_target": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway"
+    }
+  ],
+  "by_sector": [
+    {
+      "sector": "Businesses",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 76.8,
+        "median": 76.8,
+        "min": 76.8,
+        "max": 76.8
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 67.5,
+        "median": 67.5,
+        "min": 67.5,
+        "max": 67.5
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 97.0,
+        "median": 97.0,
+        "min": 97.0,
+        "max": 97.0
+      },
+      "top_target": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway"
+    },
+    {
+      "sector": "Commercial Nurseries",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 66.8,
+        "median": 66.8,
+        "min": 66.8,
+        "max": 66.8
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 57.5,
+        "median": 57.5,
+        "min": 57.5,
+        "max": 57.5
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 82.0,
+        "median": 82.0,
+        "min": 82.0,
+        "max": 82.0
+      },
+      "top_target": "Profitable Commercial Nurseries Company for Sale in Galway, Ireland"
+    },
+    {
+      "sector": "Construction Services",
       "count": 2,
       "combined": {
         "count": 2,
-        "mean": 72.5,
-        "median": 72.5,
-        "min": 70.1,
-        "max": 74.9
+        "mean": 51.8,
+        "median": 51.8,
+        "min": 49.8,
+        "max": 53.8
       },
       "succession_fit": {
         "count": 2,
-        "mean": 83.5,
-        "median": 83.5,
-        "min": 80.0,
-        "max": 87.0
+        "mean": 57.2,
+        "median": 57.2,
+        "min": 57.2,
+        "max": 57.2
       },
       "macro_policy": {
         "count": 2,
         "mean": 52.0,
         "median": 52.0,
-        "min": 37.0,
-        "max": 67.0
+        "min": 52.0,
+        "max": 52.0
       },
-      "top_target": "Dublin Health Clinics Limited"
+      "top_target": "A.1. BUILDERS LIMITED"
     },
     {
-      "county": "Galway",
-      "count": 2,
-      "combined": {
-        "count": 2,
-        "mean": 80.2,
-        "median": 80.2,
-        "min": 79.4,
-        "max": 81.1
-      },
-      "succession_fit": {
-        "count": 2,
-        "mean": 92.0,
-        "median": 92.0,
-        "min": 92.0,
-        "max": 92.0
-      },
-      "macro_policy": {
-        "count": 2,
-        "mean": 59.5,
-        "median": 59.5,
-        "min": 52.0,
-        "max": 67.0
-      },
-      "top_target": "Galway Mechanical Services Limited"
-    }
-  ],
-  "by_sector": [
-    {
-      "sector": "Facilities management / Commercial services",
+      "sector": "Engineering",
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 70.1,
-        "median": 70.1,
-        "min": 70.1,
-        "max": 70.1
+        "mean": 47.1,
+        "median": 47.1,
+        "min": 47.1,
+        "max": 47.1
       },
       "succession_fit": {
         "count": 1,
-        "mean": 87.0,
-        "median": 87.0,
-        "min": 87.0,
-        "max": 87.0
+        "mean": 57.2,
+        "median": 57.2,
+        "min": 57.2,
+        "max": 57.2
       },
       "macro_policy": {
         "count": 1,
@@ -120,24 +173,50 @@
         "min": 37.0,
         "max": 37.0
       },
-      "top_target": "Dublin Facilities Group Limited"
+      "top_target": "A. M. S. ENGINEERING COMPANY LIMITED"
     },
     {
-      "sector": "HVAC / Construction",
+      "sector": "Facilities Services",
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 81.1,
-        "median": 81.1,
-        "min": 81.1,
-        "max": 81.1
+        "mean": 47.2,
+        "median": 47.2,
+        "min": 47.2,
+        "max": 47.2
       },
       "succession_fit": {
         "count": 1,
-        "mean": 92.0,
-        "median": 92.0,
-        "min": 92.0,
-        "max": 92.0
+        "mean": 57.2,
+        "median": 57.2,
+        "min": 57.2,
+        "max": 57.2
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 37.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 37.0
+      },
+      "top_target": "A.E.D. SECURITY INSTALLATIONS LIMITED"
+    },
+    {
+      "sector": "Food & Beverage",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 58.5,
+        "median": 58.5,
+        "min": 58.5,
+        "max": 58.5
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 52.5,
+        "median": 52.5,
+        "min": 52.5,
+        "max": 52.5
       },
       "macro_policy": {
         "count": 1,
@@ -146,50 +225,50 @@
         "min": 67.0,
         "max": 67.0
       },
-      "top_target": "Galway Mechanical Services Limited"
-    },
-    {
-      "sector": "Healthcare clinic services",
-      "count": 1,
-      "combined": {
-        "count": 1,
-        "mean": 74.9,
-        "median": 74.9,
-        "min": 74.9,
-        "max": 74.9
-      },
-      "succession_fit": {
-        "count": 1,
-        "mean": 80.0,
-        "median": 80.0,
-        "min": 80.0,
-        "max": 80.0
-      },
-      "macro_policy": {
-        "count": 1,
-        "mean": 67.0,
-        "median": 67.0,
-        "min": 67.0,
-        "max": 67.0
-      },
-      "top_target": "Dublin Health Clinics Limited"
+      "top_target": "Traditional Irish Pub in Galway City"
     },
     {
       "sector": "Landscaping / Grounds Services",
+      "count": 3,
+      "combined": {
+        "count": 3,
+        "mean": 63.6,
+        "median": 64.2,
+        "min": 62.5,
+        "max": 64.2
+      },
+      "succession_fit": {
+        "count": 3,
+        "mean": 55.8,
+        "median": 57.5,
+        "min": 52.5,
+        "max": 57.5
+      },
+      "macro_policy": {
+        "count": 3,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 52.0,
+        "max": 52.0
+      },
+      "top_target": "Cara Landscapes"
+    },
+    {
+      "sector": "Manufacturing",
       "count": 1,
       "combined": {
         "count": 1,
-        "mean": 79.4,
-        "median": 79.4,
-        "min": 79.4,
-        "max": 79.4
+        "mean": 48.6,
+        "median": 48.6,
+        "min": 48.6,
+        "max": 48.6
       },
       "succession_fit": {
         "count": 1,
-        "mean": 92.0,
-        "median": 92.0,
-        "min": 92.0,
-        "max": 92.0
+        "mean": 48.2,
+        "median": 48.2,
+        "min": 48.2,
+        "max": 48.2
       },
       "macro_policy": {
         "count": 1,
@@ -198,66 +277,406 @@
         "min": 52.0,
         "max": 52.0
       },
-      "top_target": "Galway Landscape Services Limited"
+      "top_target": "A B P MANUFACTURING MACHINERY LIMITED"
+    },
+    {
+      "sector": "Playschools",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 52.4,
+        "median": 52.4,
+        "min": 52.4,
+        "max": 52.4
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 42.5,
+        "median": 42.5,
+        "min": 42.5,
+        "max": 42.5
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 52.0,
+        "max": 52.0
+      },
+      "top_target": "Playschool for Sale in Galway, Ireland"
+    },
+    {
+      "sector": "Professional Services",
+      "count": 3,
+      "combined": {
+        "count": 3,
+        "mean": 48.9,
+        "median": 49.7,
+        "min": 44.6,
+        "max": 52.4
+      },
+      "succession_fit": {
+        "count": 3,
+        "mean": 50.2,
+        "median": 53.2,
+        "min": 44.2,
+        "max": 53.2
+      },
+      "macro_policy": {
+        "count": 3,
+        "mean": 42.0,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 52.0
+      },
+      "top_target": "A.P. MCCARTHY PLANNING CONSULTANTS LIMITED"
+    },
+    {
+      "sector": "Unknown",
+      "count": 42,
+      "combined": {
+        "count": 42,
+        "mean": 42.5,
+        "median": 39.9,
+        "min": 33.9,
+        "max": 60.1
+      },
+      "succession_fit": {
+        "count": 42,
+        "mean": 35.7,
+        "median": 35.8,
+        "min": 26.8,
+        "max": 53.2
+      },
+      "macro_policy": {
+        "count": 42,
+        "mean": 38.4,
+        "median": 37.0,
+        "min": 37.0,
+        "max": 52.0
+      },
+      "top_target": "A. HARTMANN & SON LIMITED"
+    },
+    {
+      "sector": "agri_food",
+      "count": 3,
+      "combined": {
+        "count": 3,
+        "mean": 62.1,
+        "median": 62.4,
+        "min": 59.2,
+        "max": 64.6
+      },
+      "succession_fit": {
+        "count": 3,
+        "mean": 51.6,
+        "median": 51.2,
+        "min": 51.2,
+        "max": 52.5
+      },
+      "macro_policy": {
+        "count": 3,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 52.0,
+        "max": 82.0
+      },
+      "top_target": "O'Connor Fuels, 2 St Endas Avenue, Tuam, Galway"
+    },
+    {
+      "sector": "facilities",
+      "count": 2,
+      "combined": {
+        "count": 2,
+        "mean": 58.0,
+        "median": 58.0,
+        "min": 48.9,
+        "max": 67.0
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 58.5,
+        "median": 58.5,
+        "min": 50.8,
+        "max": 66.2
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 52.0,
+        "median": 52.0,
+        "min": 37.0,
+        "max": 67.0
+      },
+      "top_target": "Mortons of Galway, Salthill, Galway., Salthill, Galway City"
     }
   ],
   "top_targets": [
     {
-      "name": "Galway Mechanical Services Limited",
+      "name": "Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, County Galway",
       "county": "Galway",
-      "local_area": "Galway City",
-      "sector": "HVAC / Construction",
+      "local_area": "Ahascragh",
+      "sector": "Businesses",
       "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 92.0,
-      "business_quality": 96.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 81.1,
-      "weakest_component": "deal_readiness"
+      "succession_fit": 67.5,
+      "business_quality": 57.0,
+      "deal_readiness": 98.0,
+      "macro_policy": 97.0,
+      "combined": 76.8,
+      "weakest_component": "business_quality"
     },
     {
-      "name": "Galway Landscape Services Limited",
+      "name": "Mortons of Galway, Salthill, Galway., Salthill, Galway City",
       "county": "Galway",
-      "local_area": "Oranmore",
+      "local_area": "Salthill",
+      "sector": "facilities",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 66.2,
+      "business_quality": 42.0,
+      "deal_readiness": 98.0,
+      "macro_policy": 67.0,
+      "combined": 67.0,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "Profitable Commercial Nurseries Company for Sale in Galway, Ireland",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Commercial Nurseries",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 57.5,
+      "business_quality": 52.0,
+      "deal_readiness": 86.0,
+      "macro_policy": 82.0,
+      "combined": 66.8,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "O'Connor Fuels, 2 St Endas Avenue, Tuam, Galway",
+      "county": "Galway",
+      "local_area": "Tuam",
+      "sector": "agri_food",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 51.2,
+      "business_quality": 52.0,
+      "deal_readiness": 86.0,
+      "macro_policy": 82.0,
+      "combined": 64.6,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "Cara Landscapes",
+      "county": "Galway",
+      "local_area": "Unknown",
       "sector": "Landscaping / Grounds Services",
-      "next_action": "prioritise_for_manual_origination_review",
-      "succession_fit": 92.0,
-      "business_quality": 100.0,
-      "deal_readiness": 58.0,
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 57.5,
+      "business_quality": 57.0,
+      "deal_readiness": 93.0,
       "macro_policy": 52.0,
-      "combined": 79.4,
+      "combined": 64.2,
       "weakest_component": "macro_policy"
     },
     {
-      "name": "Dublin Health Clinics Limited",
-      "county": "Dublin",
-      "local_area": "Dublin 6 / Rathmines",
-      "sector": "Healthcare clinic services",
+      "name": "Landscaping Galway",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Landscaping / Grounds Services",
       "next_action": "research_and_enrich_before_outreach",
-      "succession_fit": 80.0,
-      "business_quality": 88.0,
-      "deal_readiness": 58.0,
-      "macro_policy": 67.0,
-      "combined": 74.9,
-      "weakest_component": "deal_readiness"
+      "succession_fit": 57.5,
+      "business_quality": 57.0,
+      "deal_readiness": 93.0,
+      "macro_policy": 52.0,
+      "combined": 64.2,
+      "weakest_component": "macro_policy"
     },
     {
-      "name": "Dublin Facilities Group Limited",
-      "county": "Dublin",
-      "local_area": "Dublin 2 / Docklands",
-      "sector": "Facilities management / Commercial services",
+      "name": "CP CONTRACTS",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "Landscaping / Grounds Services",
       "next_action": "research_and_enrich_before_outreach",
-      "succession_fit": 87.0,
-      "business_quality": 81.0,
+      "succession_fit": 52.5,
+      "business_quality": 57.0,
+      "deal_readiness": 93.0,
+      "macro_policy": 52.0,
+      "combined": 62.5,
+      "weakest_component": "macro_policy"
+    },
+    {
+      "name": "Lucrative Wholesale Food Supplier Business In Connaught Galway",
+      "county": "Galway",
+      "local_area": "Unknown",
+      "sector": "agri_food",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 52.5,
+      "business_quality": 52.0,
+      "deal_readiness": 86.0,
+      "macro_policy": 67.0,
+      "combined": 62.4,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "A. HARTMANN & SON LIMITED",
+      "county": "Galway",
+      "local_area": "29 WILLIAM STREET",
+      "sector": "Unknown",
+      "next_action": "research_and_enrich_before_outreach",
+      "succession_fit": 53.2,
+      "business_quality": 87.0,
       "deal_readiness": 58.0,
       "macro_policy": 37.0,
-      "combined": 70.1,
+      "combined": 60.1,
       "weakest_component": "macro_policy"
+    },
+    {
+      "name": "Successful Agricultural Consultancy Business In Galway City",
+      "county": "Galway",
+      "local_area": "Galway City",
+      "sector": "agri_food",
+      "next_action": "keep_on_watchlist",
+      "succession_fit": 51.2,
+      "business_quality": 52.0,
+      "deal_readiness": 86.0,
+      "macro_policy": 52.0,
+      "combined": 59.2,
+      "weakest_component": "succession_fit"
     }
   ],
-  "low_confidence_targets": [],
+  "low_confidence_targets": [
+    {
+      "name": "A.M. & D. HOLDINGS LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 29.8,
+      "business_quality": 27.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 33.9,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
+      "county": "Galway",
+      "local_area": "UNIT 204",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 26.8,
+      "business_quality": 24.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 37.0,
+      "combined": 34.8,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "3D VENTURES LIMITED",
+      "county": "Galway",
+      "local_area": "TRUSKEY WEST",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 26.8,
+      "business_quality": 24.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 37.0,
+      "combined": 34.8,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
+      "county": "Galway",
+      "local_area": "18 FORSTER PLACE",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 26.8,
+      "business_quality": 24.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 37.0,
+      "combined": 34.8,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 35.8,
+      "business_quality": 27.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 36.0,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "A. B. C. CUISINES LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 35.8,
+      "business_quality": 27.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 36.0,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "A. K. D. LIMITED",
+      "county": "Galway",
+      "local_area": "GALWAY",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 35.8,
+      "business_quality": 27.0,
+      "deal_readiness": 46.0,
+      "macro_policy": 37.0,
+      "combined": 36.0,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "Bonordic in Galway",
+      "county": "Galway",
+      "local_area": "Galway",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 30.2,
+      "business_quality": 31.0,
+      "deal_readiness": 55.0,
+      "macro_policy": 37.0,
+      "combined": 37.1,
+      "weakest_component": "succession_fit"
+    },
+    {
+      "name": "GARDEN GREEN ENERGY LIMITED",
+      "county": "Galway",
+      "local_area": "MICHAEL MANNION",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 26.8,
+      "business_quality": 24.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 52.0,
+      "combined": 37.5,
+      "weakest_component": "business_quality"
+    },
+    {
+      "name": "3RD MILLENIUM TECHNICAL COMMUNICATION LIMITED",
+      "county": "Galway",
+      "local_area": "75 MONIVEA PARK",
+      "sector": "Unknown",
+      "next_action": "defer_until_new_evidence",
+      "succession_fit": 29.8,
+      "business_quality": 32.0,
+      "deal_readiness": 58.0,
+      "macro_policy": 37.0,
+      "combined": 37.9,
+      "weakest_component": "succession_fit"
+    }
+  ],
   "recommendations": [
     "Add richer local macro/policy mappings for sectors with weak Macro policy scores.",
-    "Prioritise contact, website, price, and transaction-intent enrichment for weak Deal readiness rows."
+    "Improve director-age, founder, family, retirement, and succession-language evidence capture.",
+    "Fill company status, age, trading proof, and operating-sector evidence before outreach."
   ]
 }

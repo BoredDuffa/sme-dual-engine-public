@@ -1,0 +1,16 @@
+{
+  "identity_key": "cro:28525",
+  "target_name": "A. M. S. ENGINEERING COMPANY LIMITED",
+  "readiness": "watch_memo_only",
+  "score": 47.1,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
+    "add valuation anchor before investment discussion"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

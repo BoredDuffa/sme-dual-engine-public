@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:o connor fuels 2 st endas avenue tuam galway:galway",
+  "target_name": "O'Connor Fuels, 2 St Endas Avenue, Tuam, Galway",
+  "readiness": "research_memo_ready",
+  "score": 64.6,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}
