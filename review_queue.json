@@ -19,6 +19,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00061",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -41,6 +46,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00065",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -63,6 +73,11 @@
     "employee_band": "50-249",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00066",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -85,6 +100,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00074",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -107,6 +127,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00069",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -129,6 +154,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00070",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -151,6 +181,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00062",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -173,6 +208,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00095",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -195,6 +235,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00077",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -217,6 +262,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00047",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -239,6 +289,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00098",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -261,6 +316,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00063",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -283,6 +343,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00064",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -305,6 +370,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00067",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -327,6 +397,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00082",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -349,6 +424,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00072",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -371,6 +451,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00256",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -393,6 +478,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00068",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -415,6 +505,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00071",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -437,6 +532,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00073",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -459,6 +559,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00193",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -481,6 +586,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00076",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -503,6 +613,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00053",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -525,6 +640,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00211",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -547,6 +667,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00200",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -569,6 +694,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00214",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -591,6 +721,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00210",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -613,6 +748,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00049",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -635,6 +775,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00286",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -657,6 +802,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00079",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -679,6 +829,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00084",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -701,6 +856,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00075",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -723,6 +883,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00054",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -745,6 +910,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00194",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -767,6 +937,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00042",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -789,6 +964,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00044",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -811,6 +991,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00097",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -833,6 +1018,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00172",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -855,6 +1045,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00233",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -877,6 +1072,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00228",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -899,6 +1099,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00217",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -921,6 +1126,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00274",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -943,6 +1153,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00231",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -965,6 +1180,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00173",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -987,6 +1207,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00249",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1009,6 +1234,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00285",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1031,6 +1261,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00242",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1053,6 +1288,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00220",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1075,6 +1315,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00252",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1097,6 +1342,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00201",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1119,6 +1369,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00253",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1141,6 +1396,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00262",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1163,6 +1423,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00180",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1185,6 +1450,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00268",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1207,6 +1477,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00212",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1229,6 +1504,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00271",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1251,6 +1531,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00043",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1273,6 +1558,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00080",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1295,6 +1585,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00081",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1317,6 +1612,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00046",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1339,6 +1639,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00085",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1361,6 +1666,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00086",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1383,6 +1693,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00088",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1405,6 +1720,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00090",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1427,6 +1747,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00093",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1449,6 +1774,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00078",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1471,6 +1801,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00176",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1493,6 +1828,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00203",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1515,6 +1855,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00261",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1537,6 +1882,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00259",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1559,6 +1909,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00177",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1581,6 +1936,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00281",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1603,6 +1963,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00123",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1625,6 +1990,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00051",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1647,6 +2017,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00213",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1669,6 +2044,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00266",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1691,6 +2071,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00222",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1713,6 +2098,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00257",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1735,6 +2125,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00280",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1757,6 +2152,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00092",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1779,6 +2179,11 @@
     "employee_band": "1-9",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00083",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1801,6 +2206,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00055",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1823,6 +2233,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00147",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1845,6 +2260,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00163",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1867,6 +2287,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00270",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1889,6 +2314,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00263",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1911,6 +2341,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00260",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1933,6 +2368,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00247",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1955,6 +2395,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00276",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1977,6 +2422,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00216",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -1999,6 +2449,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00273",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2021,6 +2476,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00155",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2043,6 +2503,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00101",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2065,6 +2530,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00278",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2087,6 +2557,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00011",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2109,6 +2584,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00013",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2131,6 +2611,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00205",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2153,6 +2638,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00126",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2175,6 +2665,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00185",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2197,6 +2692,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00056",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2219,6 +2719,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00250",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2241,6 +2746,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00246",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2263,6 +2773,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00218",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2285,6 +2800,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00279",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2307,6 +2827,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00052",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2329,6 +2854,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00140",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2351,6 +2881,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00219",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2373,6 +2908,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00094",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2395,6 +2935,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00045",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2417,6 +2962,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00272",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2439,6 +2989,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00048",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2461,6 +3016,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00199",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2483,6 +3043,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00202",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2505,6 +3070,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00110",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2527,6 +3097,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00119",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2549,6 +3124,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00050",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2571,6 +3151,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00282",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2593,6 +3178,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00248",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2615,6 +3205,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00258",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2637,6 +3232,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00223",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2659,6 +3259,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00174",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2681,6 +3286,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00204",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2703,6 +3313,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00236",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2725,6 +3340,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00224",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2747,6 +3367,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00269",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2769,6 +3394,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00209",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2791,6 +3421,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00234",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2813,6 +3448,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00244",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2835,6 +3475,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00229",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2857,6 +3502,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00240",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2879,6 +3529,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00237",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2901,6 +3556,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00267",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2923,6 +3583,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00264",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2945,6 +3610,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00251",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2967,6 +3637,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00221",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -2989,6 +3664,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00227",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3011,6 +3691,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00208",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3033,6 +3718,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00198",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3055,6 +3745,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00206",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3077,6 +3772,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00255",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3099,6 +3799,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00265",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3121,6 +3826,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00230",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3143,6 +3853,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00087",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3165,6 +3880,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00089",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3187,6 +3907,11 @@
     "employee_band": "10-49",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00091",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "public profile",
+    "source_confidence_reason": "Public profile has contact/trading evidence but no explicit sale signal.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3209,6 +3934,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00254",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3231,6 +3961,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00001",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3253,6 +3988,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00004",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3275,6 +4015,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00104",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3297,6 +4042,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00178",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3319,6 +4069,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00130",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3341,6 +4096,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00016",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3363,6 +4123,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00012",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3385,6 +4150,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00039",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3407,6 +4177,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00116",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3429,6 +4204,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00139",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3451,6 +4231,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00141",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3473,6 +4258,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00181",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3495,6 +4285,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00170",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3517,6 +4312,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00121",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3539,6 +4339,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00149",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3561,6 +4366,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00188",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3583,6 +4393,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00148",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3605,6 +4420,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00171",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3627,6 +4447,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00190",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3649,6 +4474,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00118",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3671,6 +4501,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00124",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3693,6 +4528,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00143",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3715,6 +4555,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00196",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3737,6 +4582,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00195",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3759,6 +4609,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00192",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3781,6 +4636,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00197",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3803,6 +4663,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00238",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3825,6 +4690,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00215",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3847,6 +4717,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00241",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3869,6 +4744,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00235",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3891,6 +4771,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00225",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3913,6 +4798,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00277",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3935,6 +4825,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00232",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3957,6 +4852,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00226",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -3979,6 +4879,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00245",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4001,6 +4906,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00207",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4023,6 +4933,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00239",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4045,6 +4960,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00283",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4067,6 +4987,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00275",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4089,6 +5014,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00243",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4111,6 +5041,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00284",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4133,6 +5068,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00003",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4155,6 +5095,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00100",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4177,6 +5122,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00167",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4199,6 +5149,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00125",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4221,6 +5176,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00183",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4243,6 +5203,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00150",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4265,6 +5230,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00007",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4287,6 +5257,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00057",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4309,6 +5284,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00009",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4331,6 +5311,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00060",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4353,6 +5338,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00144",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4375,6 +5365,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00166",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4397,6 +5392,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00169",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4419,6 +5419,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00179",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4441,6 +5446,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00189",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4463,6 +5473,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00175",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4485,6 +5500,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00165",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4507,6 +5527,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00120",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4529,6 +5554,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00168",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4551,6 +5581,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00033",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4573,6 +5608,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00015",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4595,6 +5635,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00002",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4617,6 +5662,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00111",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4639,6 +5689,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00153",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4661,6 +5716,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00187",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4683,6 +5743,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00105",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4705,6 +5770,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00146",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4727,6 +5797,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00058",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4749,6 +5824,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00112",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4771,6 +5851,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00102",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4793,6 +5878,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00182",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4815,6 +5905,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00005",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4837,6 +5932,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00113",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4859,6 +5959,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00038",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4881,6 +5986,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00164",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4903,6 +6013,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00161",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4925,6 +6040,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00191",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4947,6 +6067,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00145",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4969,6 +6094,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00162",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -4991,6 +6121,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00142",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5013,6 +6148,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00006",
+    "entity_member_count": 16,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5035,6 +6175,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00117",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5057,6 +6202,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00010",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5079,6 +6229,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00059",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5101,6 +6256,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00157",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5123,6 +6283,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00160",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5145,6 +6310,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00114",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5167,6 +6337,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00122",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5189,6 +6364,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00128",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5211,6 +6391,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00133",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5233,6 +6418,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00186",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5255,6 +6445,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00152",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5277,6 +6472,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00115",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5299,6 +6499,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00008",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5321,6 +6526,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00014",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5343,6 +6553,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00018",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5365,6 +6580,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00020",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5387,6 +6607,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00021",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5409,6 +6634,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00022",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5431,6 +6661,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00023",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5453,6 +6688,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00024",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5475,6 +6715,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00025",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5497,6 +6742,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00026",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5519,6 +6769,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00028",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5541,6 +6796,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00029",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5563,6 +6823,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00035",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5585,6 +6850,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00031",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5607,6 +6877,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00032",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5629,6 +6904,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00034",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5651,6 +6931,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00184",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5673,6 +6958,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00138",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5695,6 +6985,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00096",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5717,6 +7012,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00099",
+    "entity_member_count": 1,
+    "source_confidence_score": 86.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5739,6 +7039,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00036",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5761,6 +7066,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00037",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5783,6 +7093,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00040",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5805,6 +7120,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00041",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5827,6 +7147,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00030",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5849,6 +7174,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00127",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5871,6 +7201,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00106",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5893,6 +7228,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00017",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5915,6 +7255,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00019",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5937,6 +7282,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00027",
+    "entity_member_count": 1,
+    "source_confidence_score": 92.0,
+    "source_confidence_label": "verified profile",
+    "source_confidence_reason": "CRO/profile evidence includes legal identity and trading status.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5959,6 +7309,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00151",
+    "entity_member_count": 1,
+    "source_confidence_score": 78.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent and asking-price evidence.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -5981,6 +7336,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00132",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6003,6 +7363,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00103",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6025,6 +7390,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00107",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6047,6 +7417,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00134",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6069,6 +7444,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00131",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6091,6 +7471,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00136",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6113,6 +7498,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00108",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6135,6 +7525,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00135",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6157,6 +7552,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00129",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6179,6 +7579,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00156",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6201,6 +7606,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00109",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6223,6 +7633,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00154",
+    "entity_member_count": 2,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6245,6 +7660,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00159",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6267,6 +7687,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00158",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   },
   {
@@ -6289,6 +7714,11 @@
     "employee_band": "Unknown",
     "min_director_age": null,
     "director_age_band": "Unknown",
+    "entity_id": "entity-00137",
+    "entity_member_count": 1,
+    "source_confidence_score": 72.0,
+    "source_confidence_label": "live listing",
+    "source_confidence_reason": "Broker/listing source shows transaction intent; price may still need manual confirmation.",
     "notes_template": "Decision, evidence checked, next owner, and next date."
   }
 ]
