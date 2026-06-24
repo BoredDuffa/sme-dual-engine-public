@@ -9,7 +9,7 @@
 - Sector: Professional Services
 - Company status: Dissolved
 - Company age: 25.0
-- Origination score: 52.4
+- Origination score: 48.5
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -52,6 +52,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -64,7 +65,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 42.0
 - `name` from cro_open_services (observed, confidence 1.0): A.P. MCCARTHY PLANNING CONSULTANTS LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): a p mccarthy planning consultants
-- `phone` from local_enrichment (inferred, confidence 0.55): 000-06-09
 - `registered_at` from cro_open_services (observed, confidence 1.0): 2000-06-09
 - `sector` from local_enrichment (inferred, confidence 0.55): Professional Services
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
@@ -73,3 +73,4 @@
 - `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/328511/C?format=json
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Dissolved, Registered: 2000-06-09, Last annual return: 2009-03-03
 - `town` from cro_open_services (observed, confidence 1.0): Block 1
+- `website` from local_enrichment (inferred, confidence 0.55): https://services.cro.ie/cws/company/328511/C?format=json

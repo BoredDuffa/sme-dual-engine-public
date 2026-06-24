@@ -1,6 +1,6 @@
 # IC Draft: A. HARTMANN & SON LIMITED (CRO 59625)
 
-**Diligence status:** enrichment_required
+**Diligence status:** watchlist
 
 ## Company Overview
 
@@ -9,8 +9,8 @@
 - Sector: unknown
 - Company status: Normal
 - Company age: 48.0
-- Origination score: 60.1
-- Next action: research_and_enrich_before_outreach
+- Origination score: 56.2
+- Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
 
@@ -49,8 +49,9 @@
 
 ## Recommended Next Actions
 
-- research_and_enrich_before_outreach
-- fill high-priority evidence gaps before outreach
+- keep_on_watchlist
+- monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -63,7 +64,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 42.0
 - `name` from cro_open_services (observed, confidence 1.0): A. HARTMANN & SON LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): a hartmann & son
-- `phone` from local_enrichment (inferred, confidence 0.55): 025-07-31
 - `registered_at` from cro_open_services (observed, confidence 1.0): 1977-08-16
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 59625

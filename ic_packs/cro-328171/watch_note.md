@@ -1,10 +1,11 @@
 # Watch Note: A J D DEVELOPMENTS LIMITED
 
 Readiness: blocked
-Score: 37.9
+Score: 33.9
 
 ## Required Before IC
 
+- verify phone, email, advisor, or owner route
 - add valuation anchor before investment discussion
 
 ## Blockers

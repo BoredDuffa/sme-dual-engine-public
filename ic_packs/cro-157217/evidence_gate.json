@@ -2,12 +2,13 @@
   "identity_key": "cro:157217",
   "target_name": "GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA",
   "readiness": "blocked",
-  "score": 39.9,
-  "evidence_gap_count": 2,
+  "score": 36.0,
+  "evidence_gap_count": 3,
   "blockers": [
     "combined score below review threshold"
   ],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [

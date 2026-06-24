@@ -9,7 +9,7 @@
 - Sector: unknown
 - Company status: Normal
 - Company age: 1.0
-- Origination score: 50.1
+- Origination score: 46.2
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -52,6 +52,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -64,7 +65,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 48.0
 - `name` from cro_open_services (observed, confidence 1.0): A & M RESTAURANT LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): a & m restaurant
-- `phone` from local_enrichment (inferred, confidence 0.55): 025-04-11
 - `registered_at` from cro_open_services (observed, confidence 1.0): 2025-04-11
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 786116

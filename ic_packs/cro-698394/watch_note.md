@@ -1,10 +1,11 @@
-# Watch Note: 3RD MILLENIUM TECHNICAL COMMUNICATION LIMITED
+# Watch Note: 126 ARTIST-RUN GALLERY & STUDIOS COMPANY LIMITED BY GUARANTEE
 
 Readiness: blocked
-Score: 37.9
+Score: 44.8
 
 ## Required Before IC
 
+- verify phone, email, advisor, or owner route
 - add valuation anchor before investment discussion
 
 ## Blockers

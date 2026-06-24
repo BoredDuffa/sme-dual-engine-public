@@ -1,11 +1,12 @@
 {
-  "identity_key": "cro:792648",
-  "target_name": "21 ELDDIM STREET LIMITED",
+  "identity_key": "cro:222180",
+  "target_name": "LAWN-KING LIMITED",
   "readiness": "watch_memo_only",
-  "score": 48.8,
-  "evidence_gap_count": 2,
+  "score": 56.2,
+  "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [

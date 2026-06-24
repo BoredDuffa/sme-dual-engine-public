@@ -9,7 +9,7 @@
 - Sector: Construction Services
 - Company status: Dissolved
 - Company age: 38.0
-- Origination score: 53.8
+- Origination score: 49.8
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -52,6 +52,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -64,7 +65,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 58.0
 - `name` from cro_open_services (observed, confidence 1.0): A.1. BUILDERS LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): a 1 builders
-- `phone` from local_enrichment (inferred, confidence 0.55): 008-11-28
 - `registered_at` from cro_open_services (observed, confidence 1.0): 1988-03-10
 - `sector` from local_enrichment (inferred, confidence 0.55): Construction Services
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
@@ -73,3 +73,4 @@
 - `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/129924/C?format=json
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Dissolved, Registered: 1988-03-10, Last annual return: 2008-11-28
 - `town` from cro_open_services (observed, confidence 1.0): GALWAY
+- `website` from local_enrichment (inferred, confidence 0.55): https://services.cro.ie/cws/company/129924/C?format=json

@@ -9,7 +9,7 @@
 - Sector: unknown
 - Company status: Normal
 - Company age: 11.0
-- Origination score: 52.1
+- Origination score: 48.2
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -51,6 +51,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -63,7 +64,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 8.0
 - `name` from cro_open_services (observed, confidence 1.0): 9TH IMPACT LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): 9th impact
-- `phone` from local_enrichment (inferred, confidence 0.55): 014-11-07
 - `registered_at` from cro_open_services (observed, confidence 1.0): 2014-11-07
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 552335

@@ -1,6 +1,6 @@
 {
   "raw": {
-    "target_count": 110,
+    "target_count": 116,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
@@ -9,58 +9,58 @@
     "source_counts": {
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 10,
+      "businessesforsale_ie": 12,
+      "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
-      "smergers": 2,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 110
+      "Galway": 116
     },
     "field_issue_counts": {},
     "issues": []
   },
   "enriched": {
-    "target_count": 110,
+    "target_count": 116,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 110,
-    "with_strong_identity": 110,
+    "with_contact_evidence": 116,
+    "with_strong_identity": 116,
     "source_counts": {
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 10,
+      "businessesforsale_ie": 12,
+      "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
-      "smergers": 2,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 110
+      "Galway": 116
     },
     "field_issue_counts": {},
     "issues": []
   },
   "canonical": {
-    "target_count": 97,
+    "target_count": 101,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 97,
-    "with_strong_identity": 97,
+    "with_contact_evidence": 101,
+    "with_strong_identity": 101,
     "source_counts": {
-      "cro_open_services": 43,
+      "cro_open_services": 41,
       "solocheck_public_profile": 35,
-      "businessesforsale_ie": 10,
+      "businessesforsale_ie": 12,
+      "smergers": 6,
       "web_landscaping_directory": 3,
       "myhome_ie_commercial": 3,
-      "smergers": 2,
       "bizbuy_ie": 1
     },
     "county_counts": {
-      "Galway": 97
+      "Galway": 101
     },
     "field_issue_counts": {},
     "issues": []

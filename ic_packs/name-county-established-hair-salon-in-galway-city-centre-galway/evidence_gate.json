@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:established hair salon in galway city centre:galway",
+  "target_name": "Established Hair Salon In Galway City Centre",
+  "readiness": "watch_memo_only",
+  "score": 59.0,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

@@ -2,10 +2,11 @@
   "identity_key": "cro:129924",
   "target_name": "A.1. BUILDERS LIMITED",
   "readiness": "watch_memo_only",
-  "score": 53.8,
-  "evidence_gap_count": 2,
+  "score": 49.8,
+  "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [

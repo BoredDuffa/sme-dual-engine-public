@@ -9,7 +9,7 @@
 - Sector: Professional Services
 - Company status: Dissolved
 - Company age: 30.0
-- Origination score: 49.7
+- Origination score: 45.8
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -53,6 +53,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -65,7 +66,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 42.0
 - `name` from cro_open_services (observed, confidence 1.0): A & D; ADVERTISING AND DESIGN CONSULTANTS LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): a & d advertising and design consultants
-- `phone` from local_enrichment (inferred, confidence 0.55): 013-09-30
 - `registered_at` from cro_open_services (observed, confidence 1.0): 1995-06-22
 - `sector` from local_enrichment (inferred, confidence 0.55): Professional Services
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
@@ -74,3 +74,4 @@
 - `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/234849/C?format=json
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Dissolved, Registered: 1995-06-22, Last annual return: 2013-09-30
 - `town` from cro_open_services (observed, confidence 1.0): GALWAY
+- `website` from local_enrichment (inferred, confidence 0.55): https://services.cro.ie/cws/company/234849/C?format=json

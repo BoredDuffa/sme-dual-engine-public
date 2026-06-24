@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:fully equipped gelato business eyre square galway:galway",
+  "target_name": "Fully Equipped Gelato Business Eyre Square Galway",
+  "readiness": "watch_memo_only",
+  "score": 55.6,
+  "evidence_gap_count": 3,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

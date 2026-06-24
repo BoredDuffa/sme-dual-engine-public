@@ -9,7 +9,7 @@
 - Sector: unknown
 - Company status: Normal
 - Company age: 4.0
-- Origination score: 53.2
+- Origination score: 49.2
 - Next action: keep_on_watchlist
 
 ## Seller Psychology Hypothesis
@@ -52,6 +52,7 @@
 
 - keep_on_watchlist
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -64,7 +65,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 32.0
 - `name` from cro_open_services (observed, confidence 1.0): 1ST PORT OF GALWAY SEA SCOUTS COMPANY LIMITED BY GUARANTEE
 - `normalized_name` from cro_open_services (observed, confidence 1.0): 1st port of galway sea scouts by guarantee
-- `phone` from local_enrichment (inferred, confidence 0.55): 022-01-20
 - `registered_at` from cro_open_services (observed, confidence 1.0): 2022-01-20
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 711992

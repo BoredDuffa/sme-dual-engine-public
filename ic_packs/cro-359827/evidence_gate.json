@@ -1,15 +1,17 @@
 {
   "identity_key": "cro:359827",
   "target_name": "A.E.D. SECURITY INSTALLATIONS LIMITED",
-  "readiness": "watch_memo_only",
-  "score": 47.2,
-  "evidence_gap_count": 2,
-  "blockers": [],
+  "readiness": "blocked",
+  "score": 43.2,
+  "evidence_gap_count": 3,
+  "blockers": [
+    "combined score below review threshold"
+  ],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [
-    "markdown",
-    "html"
+    "watch_note"
   ]
 }

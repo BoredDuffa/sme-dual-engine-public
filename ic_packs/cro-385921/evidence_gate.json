@@ -2,10 +2,11 @@
   "identity_key": "cro:385921",
   "target_name": "GROUNDSOURCE LIMITED",
   "readiness": "watch_memo_only",
-  "score": 48.9,
-  "evidence_gap_count": 2,
+  "score": 45.0,
+  "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [

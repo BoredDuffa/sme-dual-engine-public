@@ -9,8 +9,8 @@
 - Sector: facilities
 - Company status: Liquidation
 - Company age: 21.0
-- Origination score: 48.9
-- Next action: keep_on_watchlist
+- Origination score: 45.0
+- Next action: defer_until_new_evidence
 
 ## Seller Psychology Hypothesis
 
@@ -51,8 +51,9 @@
 
 ## Recommended Next Actions
 
-- keep_on_watchlist
+- defer_until_new_evidence
 - monitor until new transaction or company evidence appears
+- close evidence gap: direct contact route missing
 - close evidence gap: registered address unavailable
 - close evidence gap: no asking price or valuation anchor
 
@@ -66,7 +67,6 @@
 - `fit_score` from cro_open_services (inferred, confidence 0.7): 32.0
 - `name` from cro_open_services (observed, confidence 1.0): GROUNDSOURCE LIMITED
 - `normalized_name` from cro_open_services (observed, confidence 1.0): groundsource
-- `phone` from local_enrichment (inferred, confidence 0.55): 004-05-11
 - `registered_at` from cro_open_services (observed, confidence 1.0): 2004-05-11
 - `sector` from local_enrichment (inferred, confidence 0.55): facilities
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
@@ -74,3 +74,4 @@
 - `source_section` from cro_open_services (observed, confidence 1.0): cro_targets
 - `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/385921/C?format=json
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Liquidation, Registered: 2004-05-11, Last annual return: 2009-12-31
+- `town` from cro_open_services (observed, confidence 1.0): 7 D'OLIER STREET

@@ -2,10 +2,11 @@
   "identity_key": "cro:328511",
   "target_name": "A.P. MCCARTHY PLANNING CONSULTANTS LIMITED",
   "readiness": "watch_memo_only",
-  "score": 52.4,
-  "evidence_gap_count": 2,
+  "score": 48.5,
+  "evidence_gap_count": 3,
   "blockers": [],
   "required_before_ic": [
+    "verify phone, email, advisor, or owner route",
     "add valuation anchor before investment discussion"
   ],
   "allowed_exports": [
