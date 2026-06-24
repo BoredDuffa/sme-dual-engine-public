@@ -46,6 +46,10 @@
     "by_county": {
       "Dublin": 54,
       "Galway": 54
+    },
+    "by_gap_type": {
+      "incomplete_row": 15,
+      "missing_row": 93
     }
   },
   "collection_progress_status": "collection_in_progress",
