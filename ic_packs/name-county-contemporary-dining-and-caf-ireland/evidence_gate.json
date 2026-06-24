@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:contemporary dining and café:ireland",
+  "target_name": "Contemporary Dining and Café",
+  "readiness": "watch_memo_only",
+  "score": 47.3,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

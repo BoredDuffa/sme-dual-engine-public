@@ -139,7 +139,7 @@
       "source_url": "https://data.cso.ie/table/AIA30; https://data.cso.ie/table/ANA13; https://data.cso.ie/table/BAA14; https://data.cso.ie/table/BRA34",
       "source_date": "2022 turnover; 2023 allocation",
       "approved_by": "Benjamin",
-      "company_count": 10,
+      "company_count": 11,
       "company_count_source": "current target feed after deduplication"
     },
     {
@@ -653,8 +653,8 @@
         "missing": [
           "director_age"
         ],
-        "target_count": 112,
-        "review_queue_count": 112,
+        "target_count": 113,
+        "review_queue_count": 113,
         "sector_spend_rows": 6,
         "company_universe_rows": 6,
         "company_universe_total_companies": 44,
@@ -694,7 +694,7 @@
   },
   "director_age": {
     "known_count": 0,
-    "unknown_count": 197,
+    "unknown_count": 286,
     "supported_thresholds": [
       50,
       55,
@@ -782,9 +782,9 @@
   "sale_listing_refresh": {
     "status": "ok",
     "observed_at": "2026-06-24",
-    "row_count": 111,
-    "refreshed_row_count": 110,
-    "kept_existing_rows": 104,
+    "row_count": 200,
+    "refreshed_row_count": 200,
+    "kept_existing_rows": 111,
     "sources": [
       {
         "source": "businessesforsale_ie",
@@ -828,6 +828,46 @@
         "status": "ok",
         "rows": 7,
         "pages": []
+      },
+      {
+        "source": "business_sale_report",
+        "url": "https://www.business-sale.com/region-businesses-for-sale-ireland",
+        "status": "ok",
+        "rows": 61,
+        "pages": [
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-ireland",
+            "rows": 20
+          },
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=2",
+            "rows": 20
+          },
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=3",
+            "rows": 20
+          },
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-ireland?region=Ireland&is_new_search=1&page=4",
+            "rows": 1
+          }
+        ]
+      },
+      {
+        "source": "business_sale_report",
+        "url": "https://www.business-sale.com/region-businesses-for-sale-northern-ireland",
+        "status": "ok",
+        "rows": 29,
+        "pages": [
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-northern-ireland",
+            "rows": 20
+          },
+          {
+            "url": "https://www.business-sale.com/region-businesses-for-sale-northern-ireland?region=northern_ireland&is_new_search=1&page=2",
+            "rows": 9
+          }
+        ]
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "raw": {
-    "target_count": 213,
+    "target_count": 302,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
@@ -8,6 +8,7 @@
     "with_strong_identity": 66,
     "source_counts": {
       "businessesforsale_ie": 103,
+      "business_sale_report": 89,
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
       "bizbuy_ie": 7,
@@ -16,24 +17,30 @@
       "myhome_ie_commercial": 3
     },
     "county_counts": {
-      "Galway": 127,
+      "Galway": 128,
       "Dublin": 82,
-      "Cork": 2,
+      "Ireland": 58,
+      "Northern Ireland": 25,
+      "Cork": 3,
+      "Down": 2,
       "Limerick": 1,
-      "Kerry": 1
+      "Kerry": 1,
+      "Antrim": 1,
+      "Tyrone": 1
     },
     "field_issue_counts": {},
     "issues": []
   },
   "enriched": {
-    "target_count": 213,
+    "target_count": 302,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 213,
-    "with_strong_identity": 213,
+    "with_contact_evidence": 302,
+    "with_strong_identity": 302,
     "source_counts": {
       "businessesforsale_ie": 103,
+      "business_sale_report": 89,
       "cro_open_services": 56,
       "solocheck_public_profile": 35,
       "bizbuy_ie": 7,
@@ -42,24 +49,30 @@
       "myhome_ie_commercial": 3
     },
     "county_counts": {
-      "Galway": 127,
+      "Galway": 128,
       "Dublin": 82,
-      "Cork": 2,
+      "Ireland": 58,
+      "Northern Ireland": 25,
+      "Cork": 3,
+      "Down": 2,
       "Limerick": 1,
-      "Kerry": 1
+      "Kerry": 1,
+      "Antrim": 1,
+      "Tyrone": 1
     },
     "field_issue_counts": {},
     "issues": []
   },
   "canonical": {
-    "target_count": 197,
+    "target_count": 286,
     "issue_count": 0,
     "error_count": 0,
     "warning_count": 0,
-    "with_contact_evidence": 197,
-    "with_strong_identity": 197,
+    "with_contact_evidence": 286,
+    "with_strong_identity": 286,
     "source_counts": {
       "businessesforsale_ie": 102,
+      "business_sale_report": 89,
       "cro_open_services": 41,
       "solocheck_public_profile": 35,
       "bizbuy_ie": 7,
@@ -68,11 +81,16 @@
       "myhome_ie_commercial": 3
     },
     "county_counts": {
-      "Galway": 112,
+      "Galway": 113,
       "Dublin": 81,
-      "Cork": 2,
+      "Ireland": 58,
+      "Northern Ireland": 25,
+      "Cork": 3,
+      "Down": 2,
       "Kerry": 1,
-      "Limerick": 1
+      "Limerick": 1,
+      "Tyrone": 1,
+      "Antrim": 1
     },
     "field_issue_counts": {},
     "issues": []

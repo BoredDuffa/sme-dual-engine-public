@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:luxury beauty spa and retail:ireland",
+  "target_name": "Luxury Beauty Spa and Retail",
+  "readiness": "watch_memo_only",
+  "score": 47.3,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

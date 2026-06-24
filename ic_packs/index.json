@@ -1,10 +1,10 @@
 {
-  "pack_count": 197,
+  "pack_count": 286,
   "readiness_counts": {
     "blocked": 79,
     "ic_ready": 9,
-    "research_memo_ready": 40,
-    "watch_memo_only": 69
+    "research_memo_ready": 71,
+    "watch_memo_only": 127
   },
   "packs": [
     {
@@ -296,6 +296,24 @@
       }
     },
     {
+      "identity_key": "name_county:logistics and warehousing solutions provider:ireland",
+      "target_name": "Logistics and Warehousing Solutions Provider",
+      "slug": "name-county-logistics-and-warehousing-solutions-provider-ireland",
+      "readiness": "research_memo_ready",
+      "score": 68.5,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-logistics-and-warehousing-solutions-provider-ireland/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:james cunningham heating contractors galway:galway",
       "target_name": "James Cunningham Heating Contractors (Galway) Limited",
       "slug": "name-county-james-cunningham-heating-contractors-galway-galway",
@@ -404,6 +422,78 @@
       }
     },
     {
+      "identity_key": "name_county:highly regarded building and civil engineering:ireland",
+      "target_name": "Highly-Regarded Building and Civil Engineering",
+      "slug": "name-county-highly-regarded-building-and-civil-engineering-ireland",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-highly-regarded-building-and-civil-engineering-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:innovative hvac solutions:ireland",
+      "target_name": "Innovative HVAC Solutions",
+      "slug": "name-county-innovative-hvac-solutions-ireland",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-innovative-hvac-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-innovative-hvac-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-innovative-hvac-solutions-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:integrated building support and safety solutions:ireland",
+      "target_name": "Integrated Building Support and Safety Solutions",
+      "slug": "name-county-integrated-building-support-and-safety-solutions-ireland",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-integrated-building-support-and-safety-solutions-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:plant and machinery leasing:ireland",
+      "target_name": "Plant and Machinery Leasing",
+      "slug": "name-county-plant-and-machinery-leasing-ireland",
+      "readiness": "research_memo_ready",
+      "score": 66.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-plant-and-machinery-leasing-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-plant-and-machinery-leasing-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-plant-and-machinery-leasing-ireland/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:profitable commercial nurseries for sale in galway ireland:galway",
       "target_name": "Profitable Commercial Nurseries Company for Sale in Galway, Ireland",
       "slug": "name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway",
@@ -419,6 +509,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-profitable-commercial-nurseries-for-sale-in-galway-ireland-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:refrigeration service and supply provider:northern ireland",
+      "target_name": "Refrigeration Service and Supply Provider",
+      "slug": "name-county-refrigeration-service-and-supply-provider-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 65.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-refrigeration-service-and-supply-provider-northern-ireland/ic_draft.tex"
       }
     },
     {
@@ -566,6 +674,24 @@
       }
     },
     {
+      "identity_key": "name_county:award winning beauty salon:ireland",
+      "target_name": "Award-Winning Beauty Salon",
+      "slug": "name-county-award-winning-beauty-salon-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-award-winning-beauty-salon-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-award-winning-beauty-salon-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-ireland/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:award winning beauty salon with prime location:dublin",
       "target_name": "Award Winning Beauty Salon With Prime Location",
       "slug": "name-county-award-winning-beauty-salon-with-prime-location-dublin",
@@ -581,6 +707,78 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-beauty-salon-with-prime-location-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:b2b food distribution:ireland",
+      "target_name": "B2B Food Distribution",
+      "slug": "name-county-b2b-food-distribution-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-b2b-food-distribution-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-b2b-food-distribution-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-b2b-food-distribution-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:building and construction solutions:ireland",
+      "target_name": "Building and Construction Solutions",
+      "slug": "name-county-building-and-construction-solutions-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-building-and-construction-solutions-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:concrete solutions and installation specialists:northern ireland",
+      "target_name": "Concrete Solutions and Installation Specialists",
+      "slug": "name-county-concrete-solutions-and-installation-specialists-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-concrete-solutions-and-installation-specialists-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:dental and aesthetic clinic:ireland",
+      "target_name": "Dental and Aesthetic Clinic",
+      "slug": "name-county-dental-and-aesthetic-clinic-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-dental-and-aesthetic-clinic-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-dental-and-aesthetic-clinic-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-dental-and-aesthetic-clinic-ireland/ic_draft.tex"
       }
     },
     {
@@ -602,6 +800,150 @@
       }
     },
     {
+      "identity_key": "name_county:healthcare services provider:ireland",
+      "target_name": "Healthcare Services Provider",
+      "slug": "name-county-healthcare-services-provider-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-healthcare-services-provider-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-healthcare-services-provider-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-healthcare-services-provider-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:high performance plastics engineering solutions:northern ireland",
+      "target_name": "High Performance Plastics Engineering Solutions",
+      "slug": "name-county-high-performance-plastics-engineering-solutions-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-high-performance-plastics-engineering-solutions-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:industrial engineering and technical solutions:ireland",
+      "target_name": "Industrial Engineering and Technical Solutions",
+      "slug": "name-county-industrial-engineering-and-technical-solutions-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-industrial-engineering-and-technical-solutions-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:mechanical and electrical engineering:ireland",
+      "target_name": "Mechanical and Electrical Engineering",
+      "slug": "name-county-mechanical-and-electrical-engineering-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-mechanical-and-electrical-engineering-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-mechanical-and-electrical-engineering-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-mechanical-and-electrical-engineering-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:shading solutions manufacturer:ireland",
+      "target_name": "Shading Solutions Manufacturer",
+      "slug": "name-county-shading-solutions-manufacturer-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-shading-solutions-manufacturer-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-shading-solutions-manufacturer-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-shading-solutions-manufacturer-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:specialist manufacturer of certified joinery:ireland",
+      "target_name": "Specialist Manufacturer of Certified Joinery",
+      "slug": "name-county-specialist-manufacturer-of-certified-joinery-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-certified-joinery-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:specialist manufacturer of high quality furniture shells:ireland",
+      "target_name": "Specialist Manufacturer of High-Quality Furniture Shells",
+      "slug": "name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-specialist-manufacturer-of-high-quality-furniture-shells-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:squat dental practice:northern ireland",
+      "target_name": "SQUAT Dental Practice",
+      "slug": "name-county-squat-dental-practice-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 64.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-squat-dental-practice-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-squat-dental-practice-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-squat-dental-practice-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:well established private gp practice with strong patient base in dublin:dublin",
       "target_name": "Well-established Private GP Practice With Strong Patient Base In Dublin",
       "slug": "name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin",
@@ -617,6 +959,60 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-well-established-private-gp-practice-with-strong-patient-base-in-dublin-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:building services engineering specialist:northern ireland",
+      "target_name": "Building Services Engineering Specialist",
+      "slug": "name-county-building-services-engineering-specialist-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 63.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-building-services-engineering-specialist-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-building-services-engineering-specialist-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-building-services-engineering-specialist-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:civil and structural engineering consultancy:ireland",
+      "target_name": "Civil and Structural Engineering Consultancy",
+      "slug": "name-county-civil-and-structural-engineering-consultancy-ireland",
+      "readiness": "research_memo_ready",
+      "score": 63.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-civil-and-structural-engineering-consultancy-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:financial advisory ar:northern ireland",
+      "target_name": "Financial Advisory AR",
+      "slug": "name-county-financial-advisory-ar-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 63.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-financial-advisory-ar-northern-ireland/ic_draft.tex"
       }
     },
     {
@@ -818,6 +1214,60 @@
       }
     },
     {
+      "identity_key": "name_county:lean digital interiors & e commerce:ireland",
+      "target_name": "Lean Digital Interiors & E-Commerce",
+      "slug": "name-county-lean-digital-interiors-e-commerce-ireland",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-lean-digital-interiors-e-commerce-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:legal services and solicitors firm:tyrone",
+      "target_name": "Legal Services and Solicitors' Firm",
+      "slug": "name-county-legal-services-and-solicitors-firm-tyrone",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-legal-services-and-solicitors-firm-tyrone/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:professional practice:northern ireland",
+      "target_name": "Professional Practice",
+      "slug": "name-county-professional-practice-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-professional-practice-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-professional-practice-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-professional-practice-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
       "identity_key": "name_county:turnkey dental practice with expansion potential in dublin:dublin",
       "target_name": "Turnkey Dental Practice With Expansion Potential In Dublin",
       "slug": "name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin",
@@ -833,6 +1283,24 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-turnkey-dental-practice-with-expansion-potential-in-dublin-dublin/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:two way communication technology distributor:northern ireland",
+      "target_name": "Two-Way Communication Technology Distributor",
+      "slug": "name-county-two-way-communication-technology-distributor-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 61.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-two-way-communication-technology-distributor-northern-ireland/ic_draft.tex"
       }
     },
     {
@@ -869,6 +1337,96 @@
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.html",
         "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-traditional-irish-pub-in-galway-city-galway/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:boat and vessel design and manufacturing:ireland",
+      "target_name": "Boat and Vessel Design and Manufacturing",
+      "slug": "name-county-boat-and-vessel-design-and-manufacturing-ireland",
+      "readiness": "research_memo_ready",
+      "score": 60.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-boat-and-vessel-design-and-manufacturing-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:fully private dentistry:northern ireland",
+      "target_name": "Fully Private Dentistry",
+      "slug": "name-county-fully-private-dentistry-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 60.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-fully-private-dentistry-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-fully-private-dentistry-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-fully-private-dentistry-northern-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:nationwide agricultural equipment:ireland",
+      "target_name": "Nationwide Agricultural Equipment",
+      "slug": "name-county-nationwide-agricultural-equipment-ireland",
+      "readiness": "research_memo_ready",
+      "score": 60.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-nationwide-agricultural-equipment-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-nationwide-agricultural-equipment-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-nationwide-agricultural-equipment-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:specialist signage and fabrication:ireland",
+      "target_name": "Specialist Signage and Fabrication Company",
+      "slug": "name-county-specialist-signage-and-fabrication-ireland",
+      "readiness": "research_memo_ready",
+      "score": 60.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-specialist-signage-and-fabrication-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-specialist-signage-and-fabrication-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-specialist-signage-and-fabrication-ireland/ic_draft.tex"
+      }
+    },
+    {
+      "identity_key": "name_county:wholesaler and distributor of consumer products:northern ireland",
+      "target_name": "Wholesaler and Distributor of Consumer Products",
+      "slug": "name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland",
+      "readiness": "research_memo_ready",
+      "score": 60.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/ic_draft.html",
+        "ic_draft_tex": "tmp/public-dashboard-build/ic_packs/name-county-wholesaler-and-distributor-of-consumer-products-northern-ireland/ic_draft.tex"
       }
     },
     {
@@ -958,6 +1516,125 @@
       }
     },
     {
+      "identity_key": "name_county:apprenticeship training provider:northern ireland",
+      "target_name": "Apprenticeship Training Provider",
+      "slug": "name-county-apprenticeship-training-provider-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 58.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-apprenticeship-training-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-apprenticeship-training-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-apprenticeship-training-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-apprenticeship-training-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-apprenticeship-training-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-apprenticeship-training-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-apprenticeship-training-provider-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:freight transport and logistics provider:northern ireland",
+      "target_name": "Freight Transport and Logistics Provider",
+      "slug": "name-county-freight-transport-and-logistics-provider-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 58.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-freight-transport-and-logistics-provider-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:printing and office equipment:antrim",
+      "target_name": "Printing and Office Equipment",
+      "slug": "name-county-printing-and-office-equipment-antrim",
+      "readiness": "watch_memo_only",
+      "score": 58.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-printing-and-office-equipment-antrim/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-printing-and-office-equipment-antrim/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-printing-and-office-equipment-antrim/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-printing-and-office-equipment-antrim/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-printing-and-office-equipment-antrim/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-printing-and-office-equipment-antrim/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-printing-and-office-equipment-antrim/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:road sweeping & maintenance provider:ireland",
+      "target_name": "Road Sweeping & Maintenance Provider",
+      "slug": "name-county-road-sweeping-maintenance-provider-ireland",
+      "readiness": "watch_memo_only",
+      "score": 58.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-road-sweeping-maintenance-provider-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-road-sweeping-maintenance-provider-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-road-sweeping-maintenance-provider-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-road-sweeping-maintenance-provider-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-road-sweeping-maintenance-provider-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-road-sweeping-maintenance-provider-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-road-sweeping-maintenance-provider-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:agricultural inputs and supplements provider:northern ireland",
+      "target_name": "Agricultural Inputs and Supplements Provider",
+      "slug": "name-county-agricultural-inputs-and-supplements-provider-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 57.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-inputs-and-supplements-provider-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:wholesale food business:ireland",
+      "target_name": "Wholesale Food Business",
+      "slug": "name-county-wholesale-food-business-ireland",
+      "readiness": "watch_memo_only",
+      "score": 57.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-wholesale-food-business-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-wholesale-food-business-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-business-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-business-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-business-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-business-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-business-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:wholesale food supply specialist:northern ireland",
+      "target_name": "Wholesale Food Supply Specialist",
+      "slug": "name-county-wholesale-food-supply-specialist-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 57.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-wholesale-food-supply-specialist-northern-ireland/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:chartered physiotherapy clinic in leinster:dublin",
       "target_name": "Chartered Physiotherapy Clinic In Leinster",
       "slug": "name-county-chartered-physiotherapy-clinic-in-leinster-dublin",
@@ -992,6 +1669,23 @@
       }
     },
     {
+      "identity_key": "name_county:independent electrical wholesaler:northern ireland",
+      "target_name": "Independent Electrical Wholesaler",
+      "slug": "name-county-independent-electrical-wholesaler-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 56.6,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-independent-electrical-wholesaler-northern-ireland/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "cro:59625",
       "target_name": "A. HARTMANN & SON LIMITED",
       "slug": "cro-59625",
@@ -1023,6 +1717,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-222180/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/cro-222180/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:lakefront hospitality operation:ireland",
+      "target_name": "Lakefront Hospitality Operation",
+      "slug": "name-county-lakefront-hospitality-operation-ireland",
+      "readiness": "watch_memo_only",
+      "score": 55.8,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-lakefront-hospitality-operation-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-lakefront-hospitality-operation-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-lakefront-hospitality-operation-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-lakefront-hospitality-operation-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-lakefront-hospitality-operation-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-lakefront-hospitality-operation-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-lakefront-hospitality-operation-ireland/ic_draft.html"
       }
     },
     {
@@ -1077,6 +1788,74 @@
       }
     },
     {
+      "identity_key": "name_county:builders supplies and hardware:ireland",
+      "target_name": "Builders Supplies and Hardware",
+      "slug": "name-county-builders-supplies-and-hardware-ireland",
+      "readiness": "watch_memo_only",
+      "score": 55.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-builders-supplies-and-hardware-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-builders-supplies-and-hardware-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-builders-supplies-and-hardware-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-builders-supplies-and-hardware-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-builders-supplies-and-hardware-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-builders-supplies-and-hardware-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-builders-supplies-and-hardware-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:supplier of outdoor recreational facilities:ireland",
+      "target_name": "Supplier of Outdoor Recreational Facilities",
+      "slug": "name-county-supplier-of-outdoor-recreational-facilities-ireland",
+      "readiness": "watch_memo_only",
+      "score": 54.1,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-supplier-of-outdoor-recreational-facilities-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:agricultural machinery manufacturer and supplier:ireland",
+      "target_name": "Agricultural Machinery Manufacturer and Supplier",
+      "slug": "name-county-agricultural-machinery-manufacturer-and-supplier-ireland",
+      "readiness": "watch_memo_only",
+      "score": 53.9,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-agricultural-machinery-manufacturer-and-supplier-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:shellfish processor wholesaler and retailer:northern ireland",
+      "target_name": "Shellfish Processor, Wholesaler and Retailer",
+      "slug": "name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 53.9,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-shellfish-processor-wholesaler-and-retailer-northern-ireland/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:luxury b&b business prestigious west of ireland:galway",
       "target_name": "Luxury B&B Business – Prestigious West Of Ireland",
       "slug": "name-county-luxury-b-b-business-prestigious-west-of-ireland-galway",
@@ -1108,6 +1887,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-speciality-bread-manufacturer-in-dublin-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:salad production enterprise:ireland",
+      "target_name": "Salad Production Enterprise",
+      "slug": "name-county-salad-production-enterprise-ireland",
+      "readiness": "watch_memo_only",
+      "score": 53.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-salad-production-enterprise-ireland/ic_draft.html"
       }
     },
     {
@@ -1145,6 +1941,23 @@
       }
     },
     {
+      "identity_key": "name_county:award winning restaurant group:northern ireland",
+      "target_name": "Award-Winning Restaurant Group",
+      "slug": "name-county-award-winning-restaurant-group-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 52.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-award-winning-restaurant-group-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-award-winning-restaurant-group-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-restaurant-group-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-restaurant-group-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-restaurant-group-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-restaurant-group-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-restaurant-group-northern-ireland/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:playschool for sale in galway ireland:galway",
       "target_name": "Playschool for Sale in Galway, Ireland",
       "slug": "name-county-playschool-for-sale-in-galway-ireland-galway",
@@ -1159,6 +1972,40 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-playschool-for-sale-in-galway-ireland-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:restaurant and coffee house:ireland",
+      "target_name": "Restaurant and Coffee House",
+      "slug": "name-county-restaurant-and-coffee-house-ireland",
+      "readiness": "watch_memo_only",
+      "score": 52.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-restaurant-and-coffee-house-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-restaurant-and-coffee-house-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-coffee-house-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-coffee-house-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-coffee-house-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-coffee-house-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-and-coffee-house-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:restaurant with apartment:galway",
+      "target_name": "Restaurant with Apartment",
+      "slug": "name-county-restaurant-with-apartment-galway",
+      "readiness": "watch_memo_only",
+      "score": 52.4,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-restaurant-with-apartment-galway/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-restaurant-with-apartment-galway/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-with-apartment-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-with-apartment-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-with-apartment-galway/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-with-apartment-galway/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-restaurant-with-apartment-galway/ic_draft.html"
       }
     },
     {
@@ -1213,6 +2060,74 @@
       }
     },
     {
+      "identity_key": "name_county:specialist chemical resistant flooring provider:northern ireland",
+      "target_name": "Specialist Chemical-Resistant Flooring Provider",
+      "slug": "name-county-specialist-chemical-resistant-flooring-provider-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 51.2,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-specialist-chemical-resistant-flooring-provider-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:temporary event flooring specialist:ireland",
+      "target_name": "Temporary Event Flooring Specialist",
+      "slug": "name-county-temporary-event-flooring-specialist-ireland",
+      "readiness": "watch_memo_only",
+      "score": 51.2,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-temporary-event-flooring-specialist-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:accounting firm for sale:down",
+      "target_name": "Accounting Firm for Sale",
+      "slug": "name-county-accounting-firm-for-sale-down",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-accounting-firm-for-sale-down/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-accounting-firm-for-sale-down/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-accounting-firm-for-sale-down/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-accounting-firm-for-sale-down/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-accounting-firm-for-sale-down/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-accounting-firm-for-sale-down/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-accounting-firm-for-sale-down/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:architectural firm:ireland",
+      "target_name": "Architectural Firm",
+      "slug": "name-county-architectural-firm-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-architectural-firm-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-architectural-firm-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-architectural-firm-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-architectural-firm-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-architectural-firm-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-architectural-firm-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-architectural-firm-ireland/ic_draft.html"
+      }
+    },
+    {
       "identity_key": "name_county:award winning luxury beauty salon absentee owner:dublin",
       "target_name": "Award-Winning Luxury Beauty Salon-Absentee Owner",
       "slug": "name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin",
@@ -1227,6 +2142,363 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-award-winning-luxury-beauty-salon-absentee-owner-dublin/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:bespoke travel management:ireland",
+      "target_name": "Bespoke Travel Management",
+      "slug": "name-county-bespoke-travel-management-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-bespoke-travel-management-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-bespoke-travel-management-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bespoke-travel-management-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bespoke-travel-management-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bespoke-travel-management-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-bespoke-travel-management-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-bespoke-travel-management-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:catering and foodservice equipment:ireland",
+      "target_name": "Catering and Foodservice Equipment",
+      "slug": "name-county-catering-and-foodservice-equipment-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-catering-and-foodservice-equipment-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-catering-and-foodservice-equipment-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-and-foodservice-equipment-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-and-foodservice-equipment-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-catering-and-foodservice-equipment-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-catering-and-foodservice-equipment-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-catering-and-foodservice-equipment-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:dining establishment:ireland",
+      "target_name": "Dining Establishment",
+      "slug": "name-county-dining-establishment-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-dining-establishment-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-dining-establishment-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-dining-establishment-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-dining-establishment-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-dining-establishment-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-dining-establishment-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-dining-establishment-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:electronic security solutions provider:northern ireland",
+      "target_name": "Electronic Security Solutions Provider",
+      "slug": "name-county-electronic-security-solutions-provider-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-electronic-security-solutions-provider-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:established vehicle sales:ireland",
+      "target_name": "Established Vehicle Sales",
+      "slug": "name-county-established-vehicle-sales-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-established-vehicle-sales-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-established-vehicle-sales-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-established-vehicle-sales-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-established-vehicle-sales-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-established-vehicle-sales-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-established-vehicle-sales-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-established-vehicle-sales-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:fibreboard packaging and print solutions:ireland",
+      "target_name": "Fibreboard Packaging and Print Solutions",
+      "slug": "name-county-fibreboard-packaging-and-print-solutions-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-fibreboard-packaging-and-print-solutions-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:frozen food and ice cream:ireland",
+      "target_name": "Frozen Food and Ice Cream",
+      "slug": "name-county-frozen-food-and-ice-cream-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-frozen-food-and-ice-cream-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-frozen-food-and-ice-cream-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-frozen-food-and-ice-cream-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-frozen-food-and-ice-cream-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-frozen-food-and-ice-cream-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-frozen-food-and-ice-cream-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-frozen-food-and-ice-cream-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:gas heating service provider:ireland",
+      "target_name": "Gas Heating Service Provider",
+      "slug": "name-county-gas-heating-service-provider-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-gas-heating-service-provider-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-gas-heating-service-provider-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-gas-heating-service-provider-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-gas-heating-service-provider-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-gas-heating-service-provider-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-gas-heating-service-provider-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-gas-heating-service-provider-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:hair restoration clinic:ireland",
+      "target_name": "Hair Restoration Clinic",
+      "slug": "name-county-hair-restoration-clinic-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-hair-restoration-clinic-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-hair-restoration-clinic-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-hair-restoration-clinic-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-hair-restoration-clinic-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-hair-restoration-clinic-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-hair-restoration-clinic-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-hair-restoration-clinic-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:heritage consultancy:ireland",
+      "target_name": "Heritage Consultancy",
+      "slug": "name-county-heritage-consultancy-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-heritage-consultancy-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-heritage-consultancy-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-heritage-consultancy-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-heritage-consultancy-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-heritage-consultancy-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-heritage-consultancy-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-heritage-consultancy-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:ifa business with significant fum:northern ireland",
+      "target_name": "IFA Business with Significant FUM",
+      "slug": "name-county-ifa-business-with-significant-fum-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-ifa-business-with-significant-fum-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:ifa with recurring revenue:northern ireland",
+      "target_name": "IFA with Recurring Revenue",
+      "slug": "name-county-ifa-with-recurring-revenue-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-ifa-with-recurring-revenue-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:multi location hair and trichology:ireland",
+      "target_name": "Multi-Location Hair and Trichology",
+      "slug": "name-county-multi-location-hair-and-trichology-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-multi-location-hair-and-trichology-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-multi-location-hair-and-trichology-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-location-hair-and-trichology-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-location-hair-and-trichology-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-location-hair-and-trichology-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-multi-location-hair-and-trichology-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-multi-location-hair-and-trichology-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:niche tour operator:ireland",
+      "target_name": "Niche Tour Operator",
+      "slug": "name-county-niche-tour-operator-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-niche-tour-operator-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-niche-tour-operator-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-niche-tour-operator-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-niche-tour-operator-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-niche-tour-operator-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-niche-tour-operator-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-niche-tour-operator-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:online apparel retailer:ireland",
+      "target_name": "Online Apparel Retailer",
+      "slug": "name-county-online-apparel-retailer-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-online-apparel-retailer-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-online-apparel-retailer-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-online-apparel-retailer-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-online-apparel-retailer-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-online-apparel-retailer-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-online-apparel-retailer-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-online-apparel-retailer-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:premier entertainment centre:ireland",
+      "target_name": "Premier Entertainment Centre",
+      "slug": "name-county-premier-entertainment-centre-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-premier-entertainment-centre-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:profitable turnkey newsagent:ireland",
+      "target_name": "Profitable Turnkey Newsagent",
+      "slug": "name-county-profitable-turnkey-newsagent-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-profitable-turnkey-newsagent-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-profitable-turnkey-newsagent-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-turnkey-newsagent-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-turnkey-newsagent-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-profitable-turnkey-newsagent-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-profitable-turnkey-newsagent-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-profitable-turnkey-newsagent-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:pub and restaurant for lease:ireland",
+      "target_name": "Pub and Restaurant for Lease",
+      "slug": "name-county-pub-and-restaurant-for-lease-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-pub-and-restaurant-for-lease-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-pub-and-restaurant-for-lease-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-and-restaurant-for-lease-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-and-restaurant-for-lease-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-pub-and-restaurant-for-lease-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-pub-and-restaurant-for-lease-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-pub-and-restaurant-for-lease-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:retailer and distributor of motorbikes:ireland",
+      "target_name": "Retailer and Distributor of Motorbikes",
+      "slug": "name-county-retailer-and-distributor-of-motorbikes-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-retailer-and-distributor-of-motorbikes-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:retiring accountant firm:down",
+      "target_name": "Retiring Accountant Firm",
+      "slug": "name-county-retiring-accountant-firm-down",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-retiring-accountant-firm-down/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-retiring-accountant-firm-down/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-retiring-accountant-firm-down/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-retiring-accountant-firm-down/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-retiring-accountant-firm-down/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-retiring-accountant-firm-down/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-retiring-accountant-firm-down/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:tyre service and automotive experts:ireland",
+      "target_name": "Tyre Service and Automotive Experts",
+      "slug": "name-county-tyre-service-and-automotive-experts-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.7,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-tyre-service-and-automotive-experts-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tyre-service-and-automotive-experts-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-service-and-automotive-experts-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-service-and-automotive-experts-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-service-and-automotive-experts-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tyre-service-and-automotive-experts-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tyre-service-and-automotive-experts-ireland/ic_draft.html"
       }
     },
     {
@@ -1278,6 +2550,23 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-galway-truck-and-van-testing-centre-galway/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:manufacturer and importer of school furniture:ireland",
+      "target_name": "Manufacturer and Importer of School Furniture",
+      "slug": "name-county-manufacturer-and-importer-of-school-furniture-ireland",
+      "readiness": "watch_memo_only",
+      "score": 50.0,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-manufacturer-and-importer-of-school-furniture-ireland/ic_draft.html"
       }
     },
     {
@@ -1720,6 +3009,261 @@
         "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/review_context.json",
         "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.md",
         "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tech-startup-in-cork-cork/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:business services:ireland",
+      "target_name": "Business Services",
+      "slug": "name-county-business-services-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-business-services-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-business-services-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-business-services-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-business-services-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-business-services-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-business-services-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-business-services-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:contemporary dining and café:ireland",
+      "target_name": "Contemporary Dining and Café",
+      "slug": "name-county-contemporary-dining-and-caf-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-contemporary-dining-and-caf-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-contemporary-dining-and-caf-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-contemporary-dining-and-caf-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-contemporary-dining-and-caf-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-contemporary-dining-and-caf-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-contemporary-dining-and-caf-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-contemporary-dining-and-caf-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:creative graphics technology:ireland",
+      "target_name": "Creative Graphics Technology",
+      "slug": "name-county-creative-graphics-technology-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-creative-graphics-technology-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-creative-graphics-technology-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-creative-graphics-technology-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-creative-graphics-technology-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-creative-graphics-technology-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-creative-graphics-technology-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-creative-graphics-technology-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:digital commerce advisory:ireland",
+      "target_name": "Digital Commerce Advisory",
+      "slug": "name-county-digital-commerce-advisory-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-digital-commerce-advisory-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-digital-commerce-advisory-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-commerce-advisory-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-commerce-advisory-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-digital-commerce-advisory-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-digital-commerce-advisory-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-digital-commerce-advisory-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:distributor of medical equipment and technology:northern ireland",
+      "target_name": "Distributor of Medical Equipment and Technology",
+      "slug": "name-county-distributor-of-medical-equipment-and-technology-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-distributor-of-medical-equipment-and-technology-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:formations and secretarial services:ireland",
+      "target_name": "Company Formations and Secretarial Services",
+      "slug": "name-county-formations-and-secretarial-services-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-formations-and-secretarial-services-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-formations-and-secretarial-services-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-formations-and-secretarial-services-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-formations-and-secretarial-services-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-formations-and-secretarial-services-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-formations-and-secretarial-services-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-formations-and-secretarial-services-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:luxury beauty spa and retail:ireland",
+      "target_name": "Luxury Beauty Spa and Retail",
+      "slug": "name-county-luxury-beauty-spa-and-retail-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-luxury-beauty-spa-and-retail-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:luxury coastal boutique hotel:cork",
+      "target_name": "Luxury Coastal Boutique Hotel",
+      "slug": "name-county-luxury-coastal-boutique-hotel-cork",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-luxury-coastal-boutique-hotel-cork/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-luxury-coastal-boutique-hotel-cork/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-coastal-boutique-hotel-cork/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-coastal-boutique-hotel-cork/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-coastal-boutique-hotel-cork/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-luxury-coastal-boutique-hotel-cork/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-luxury-coastal-boutique-hotel-cork/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:luxury hospitality opportunity:ireland",
+      "target_name": "Luxury Hospitality Opportunity",
+      "slug": "name-county-luxury-hospitality-opportunity-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-luxury-hospitality-opportunity-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-luxury-hospitality-opportunity-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-hospitality-opportunity-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-hospitality-opportunity-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-luxury-hospitality-opportunity-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-luxury-hospitality-opportunity-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-luxury-hospitality-opportunity-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:multi branch health retailer:ireland",
+      "target_name": "Multi-Branch Health Retailer",
+      "slug": "name-county-multi-branch-health-retailer-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-multi-branch-health-retailer-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-multi-branch-health-retailer-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-health-retailer-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-health-retailer-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-health-retailer-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-health-retailer-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-multi-branch-health-retailer-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:packaging and finishing solutions:ireland",
+      "target_name": "Packaging and Finishing Solutions",
+      "slug": "name-county-packaging-and-finishing-solutions-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-packaging-and-finishing-solutions-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-packaging-and-finishing-solutions-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-packaging-and-finishing-solutions-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-packaging-and-finishing-solutions-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-packaging-and-finishing-solutions-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-packaging-and-finishing-solutions-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-packaging-and-finishing-solutions-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:provider of specialist security services:northern ireland",
+      "target_name": "Provider of Specialist Security Services",
+      "slug": "name-county-provider-of-specialist-security-services-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-provider-of-specialist-security-services-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:retail & hospitality epos software:northern ireland",
+      "target_name": "Retail & Hospitality EPOS Software Company",
+      "slug": "name-county-retail-hospitality-epos-software-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-retail-hospitality-epos-software-northern-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:supplier and manufacturer specialist of joinery:ireland",
+      "target_name": "Supplier and Manufacturer Specialist of Joinery",
+      "slug": "name-county-supplier-and-manufacturer-specialist-of-joinery-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-supplier-and-manufacturer-specialist-of-joinery-ireland/ic_draft.html"
+      }
+    },
+    {
+      "identity_key": "name_county:tyre services and roadside assistance specialist:northern ireland",
+      "target_name": "Tyre Services and Roadside Assistance Specialist",
+      "slug": "name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland",
+      "readiness": "watch_memo_only",
+      "score": 47.3,
+      "evidence_gap_count": 4,
+      "relative_html": "ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/ic_draft.html",
+      "relative_markdown": "ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/ic_draft.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/review_context.json",
+        "ic_draft_md": "tmp/public-dashboard-build/ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/ic_draft.md",
+        "ic_draft_html": "tmp/public-dashboard-build/ic_packs/name-county-tyre-services-and-roadside-assistance-specialist-northern-ireland/ic_draft.html"
       }
     },
     {

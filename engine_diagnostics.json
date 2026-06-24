@@ -1,74 +1,126 @@
 {
-  "assessment_count": 197,
+  "assessment_count": 286,
   "component_stats": {
     "succession_fit": {
-      "count": 197,
-      "mean": 41.1,
+      "count": 286,
+      "mean": 40.7,
       "median": 35.8,
       "min": 0.0,
       "max": 98.2
     },
     "business_quality": {
-      "count": 197,
-      "mean": 45.1,
+      "count": 286,
+      "mean": 44.8,
       "median": 37.0,
       "min": 12.0,
       "max": 100.0
     },
     "deal_readiness": {
-      "count": 197,
-      "mean": 63.2,
-      "median": 63.0,
+      "count": 286,
+      "mean": 67.8,
+      "median": 78.0,
       "min": 38.0,
       "max": 98.0
     },
     "macro_policy": {
-      "count": 197,
-      "mean": 51.2,
+      "count": 286,
+      "mean": 58.3,
       "median": 52.0,
       "min": 37.0,
       "max": 97.0
     },
     "combined": {
-      "count": 197,
-      "mean": 48.8,
-      "median": 47.1,
+      "count": 286,
+      "mean": 50.9,
+      "median": 50.5,
       "min": 23.6,
       "max": 84.2
     }
   },
   "weakest_component_counts": {
-    "business_quality": 59,
+    "business_quality": 89,
     "deal_readiness": 32,
     "macro_policy": 13,
-    "succession_fit": 93
+    "succession_fit": 152
   },
   "by_county": [
     {
-      "county": "Cork",
-      "count": 2,
+      "county": "Antrim",
+      "count": 1,
       "combined": {
-        "count": 2,
-        "mean": 57.2,
-        "median": 57.2,
-        "min": 47.5,
+        "count": 1,
+        "mean": 58.0,
+        "median": 58.0,
+        "min": 58.0,
+        "max": 58.0
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 45.0,
+        "median": 45.0,
+        "min": 45.0,
+        "max": 45.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Printing and Office Equipment"
+    },
+    {
+      "county": "Cork",
+      "count": 3,
+      "combined": {
+        "count": 3,
+        "mean": 53.9,
+        "median": 47.5,
+        "min": 47.3,
         "max": 67.0
       },
       "succession_fit": {
-        "count": 2,
-        "mean": 46.0,
-        "median": 46.0,
-        "min": 31.0,
+        "count": 3,
+        "mean": 39.0,
+        "median": 31.0,
+        "min": 25.0,
         "max": 61.0
       },
       "macro_policy": {
-        "count": 2,
+        "count": 3,
         "mean": 67.0,
         "median": 67.0,
         "min": 52.0,
         "max": 82.0
       },
       "top_target": "Food Production Company in Cork"
+    },
+    {
+      "county": "Down",
+      "count": 2,
+      "combined": {
+        "count": 2,
+        "mean": 50.7,
+        "median": 50.7,
+        "min": 50.7,
+        "max": 50.7
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 35.0,
+        "median": 35.0,
+        "min": 35.0,
+        "max": 35.0
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Accounting Firm for Sale"
     },
     {
       "county": "Dublin",
@@ -98,29 +150,55 @@
     },
     {
       "county": "Galway",
-      "count": 112,
+      "count": 113,
       "combined": {
-        "count": 112,
+        "count": 113,
         "mean": 52.2,
         "median": 49.8,
         "min": 23.6,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 112,
-        "mean": 50.1,
-        "median": 47.9,
+        "count": 113,
+        "mean": 50.0,
+        "median": 47.5,
         "min": 0.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 112,
-        "mean": 50.9,
+        "count": 113,
+        "mean": 51.1,
         "median": 52.0,
         "min": 37.0,
         "max": 97.0
       },
       "top_target": "Airflow Air Refrigeration (Galway) Limited"
+    },
+    {
+      "county": "Ireland",
+      "count": 58,
+      "combined": {
+        "count": 58,
+        "mean": 55.4,
+        "median": 51.0,
+        "min": 47.3,
+        "max": 68.5
+      },
+      "succession_fit": {
+        "count": 58,
+        "mean": 39.8,
+        "median": 35.0,
+        "min": 25.0,
+        "max": 60.0
+      },
+      "macro_policy": {
+        "count": 58,
+        "mean": 74.8,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 97.0
+      },
+      "top_target": "Logistics and Warehousing Solutions Provider"
     },
     {
       "county": "Kerry",
@@ -173,55 +251,107 @@
         "max": 67.0
       },
       "top_target": "Food Distribution Company in Limerick"
+    },
+    {
+      "county": "Northern Ireland",
+      "count": 25,
+      "combined": {
+        "count": 25,
+        "mean": 56.6,
+        "median": 57.3,
+        "min": 47.3,
+        "max": 65.8
+      },
+      "succession_fit": {
+        "count": 25,
+        "mean": 40.4,
+        "median": 40.0,
+        "min": 25.0,
+        "max": 60.0
+      },
+      "macro_policy": {
+        "count": 25,
+        "mean": 74.8,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 97.0
+      },
+      "top_target": "Refrigeration Service and Supply Provider"
+    },
+    {
+      "county": "Tyrone",
+      "count": 1,
+      "combined": {
+        "count": 1,
+        "mean": 61.4,
+        "median": 61.4,
+        "min": 61.4,
+        "max": 61.4
+      },
+      "succession_fit": {
+        "count": 1,
+        "mean": 55.0,
+        "median": 55.0,
+        "min": 55.0,
+        "max": 55.0
+      },
+      "macro_policy": {
+        "count": 1,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Legal Services and Solicitors' Firm"
     }
   ],
   "by_sector": [
     {
       "sector": "Automotive",
-      "count": 6,
+      "count": 10,
       "combined": {
-        "count": 6,
-        "mean": 54.6,
-        "median": 50.5,
+        "count": 10,
+        "mean": 53.8,
+        "median": 50.6,
         "min": 39.3,
         "max": 72.3
       },
       "succession_fit": {
-        "count": 6,
-        "mean": 52.4,
-        "median": 46.8,
-        "min": 27.0,
+        "count": 10,
+        "mean": 46.5,
+        "median": 40.9,
+        "min": 25.0,
         "max": 81.2
       },
       "macro_policy": {
-        "count": 6,
-        "mean": 49.5,
+        "count": 10,
+        "mean": 56.5,
         "median": 52.0,
         "min": 37.0,
-        "max": 52.0
+        "max": 67.0
       },
       "top_target": "Galway Truck Centre Limited"
     },
     {
       "sector": "Business Services",
-      "count": 63,
+      "count": 98,
       "combined": {
-        "count": 63,
-        "mean": 44.7,
-        "median": 45.3,
+        "count": 98,
+        "mean": 47.0,
+        "median": 47.4,
         "min": 23.6,
         "max": 73.0
       },
       "succession_fit": {
-        "count": 63,
-        "mean": 32.0,
-        "median": 32.0,
+        "count": 98,
+        "mean": 32.8,
+        "median": 35.0,
         "min": 0.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 63,
-        "mean": 51.3,
+        "count": 98,
+        "mean": 57.2,
         "median": 52.0,
         "min": 37.0,
         "max": 82.0
@@ -282,27 +412,27 @@
     },
     {
       "sector": "Construction & Built Environment",
-      "count": 10,
+      "count": 12,
       "combined": {
-        "count": 10,
-        "mean": 66.3,
+        "count": 12,
+        "mean": 66.0,
         "median": 62.2,
         "min": 55.4,
         "max": 84.0
       },
       "succession_fit": {
-        "count": 10,
-        "mean": 68.1,
+        "count": 12,
+        "mean": 65.9,
         "median": 61.8,
         "min": 47.0,
         "max": 97.5
       },
       "macro_policy": {
-        "count": 10,
-        "mean": 67.0,
+        "count": 12,
+        "mean": 69.5,
         "median": 67.0,
         "min": 67.0,
-        "max": 67.0
+        "max": 82.0
       },
       "top_target": "Pat Kelly Plumbing and Heating Contractors (Galway) Limited"
     },
@@ -411,28 +541,54 @@
       "top_target": "A.E.D. SECURITY INSTALLATIONS LIMITED"
     },
     {
-      "sector": "Food & Agribusiness",
-      "count": 9,
+      "sector": "Financial & Professional Services",
+      "count": 2,
       "combined": {
-        "count": 9,
-        "mean": 60.7,
-        "median": 59.2,
+        "count": 2,
+        "mean": 62.2,
+        "median": 62.2,
+        "min": 61.4,
+        "max": 63.1
+      },
+      "succession_fit": {
+        "count": 2,
+        "mean": 57.5,
+        "median": 57.5,
+        "min": 55.0,
+        "max": 60.0
+      },
+      "macro_policy": {
+        "count": 2,
+        "mean": 67.0,
+        "median": 67.0,
+        "min": 67.0,
+        "max": 67.0
+      },
+      "top_target": "Financial Advisory AR"
+    },
+    {
+      "sector": "Food & Agribusiness",
+      "count": 19,
+      "combined": {
+        "count": 19,
+        "mean": 59.8,
+        "median": 58.7,
         "min": 51.9,
         "max": 79.1
       },
       "succession_fit": {
-        "count": 9,
-        "mean": 53.2,
-        "median": 52.5,
-        "min": 35.0,
+        "count": 19,
+        "mean": 45.5,
+        "median": 45.0,
+        "min": 25.0,
         "max": 83.2
       },
       "macro_policy": {
-        "count": 9,
-        "mean": 60.3,
-        "median": 67.0,
+        "count": 19,
+        "mean": 73.3,
+        "median": 82.0,
         "min": 52.0,
-        "max": 67.0
+        "max": 97.0
       },
       "top_target": "Galway Stationery Supplies Limited"
     },
@@ -464,25 +620,25 @@
     },
     {
       "sector": "Healthcare & Life Sciences",
-      "count": 5,
+      "count": 8,
       "combined": {
-        "count": 5,
-        "mean": 63.6,
+        "count": 8,
+        "mean": 63.4,
         "median": 64.1,
         "min": 57.1,
         "max": 71.4
       },
       "succession_fit": {
-        "count": 5,
-        "mean": 59.8,
+        "count": 8,
+        "mean": 56.7,
         "median": 55.0,
-        "min": 52.0,
+        "min": 45.0,
         "max": 81.8
       },
       "macro_policy": {
-        "count": 5,
-        "mean": 73.0,
-        "median": 67.0,
+        "count": 8,
+        "mean": 76.4,
+        "median": 82.0,
         "min": 67.0,
         "max": 82.0
       },
@@ -490,24 +646,24 @@
     },
     {
       "sector": "Hospitality & Tourism",
-      "count": 22,
+      "count": 31,
       "combined": {
-        "count": 22,
-        "mean": 44.3,
-        "median": 45.5,
+        "count": 31,
+        "mean": 46.1,
+        "median": 47.3,
         "min": 28.7,
         "max": 59.5
       },
       "succession_fit": {
-        "count": 22,
-        "mean": 30.6,
-        "median": 33.0,
+        "count": 31,
+        "mean": 31.4,
+        "median": 35.0,
         "min": 0.0,
         "max": 66.2
       },
       "macro_policy": {
-        "count": 22,
-        "mean": 46.5,
+        "count": 31,
+        "mean": 52.5,
         "median": 52.0,
         "min": 37.0,
         "max": 67.0
@@ -516,27 +672,27 @@
     },
     {
       "sector": "Industrials & Engineering",
-      "count": 9,
+      "count": 23,
       "combined": {
-        "count": 9,
-        "mean": 72.2,
-        "median": 78.7,
+        "count": 23,
+        "mean": 67.4,
+        "median": 64.1,
         "min": 57.0,
         "max": 84.2
       },
       "succession_fit": {
-        "count": 9,
-        "mean": 76.2,
-        "median": 89.2,
-        "min": 50.0,
+        "count": 23,
+        "mean": 61.8,
+        "median": 55.0,
+        "min": 45.0,
         "max": 98.2
       },
       "macro_policy": {
-        "count": 9,
-        "mean": 68.7,
-        "median": 67.0,
+        "count": 23,
+        "mean": 80.7,
+        "median": 82.0,
         "min": 52.0,
-        "max": 82.0
+        "max": 97.0
       },
       "top_target": "Airflow Air Refrigeration (Galway) Limited"
     },
@@ -672,24 +828,24 @@
     },
     {
       "sector": "Retail & Consumer",
-      "count": 16,
+      "count": 23,
       "combined": {
-        "count": 16,
-        "mean": 46.2,
-        "median": 47.5,
+        "count": 23,
+        "mean": 49.2,
+        "median": 48.0,
         "min": 23.6,
         "max": 74.2
       },
       "succession_fit": {
-        "count": 16,
-        "mean": 33.3,
+        "count": 23,
+        "mean": 35.8,
         "median": 35.0,
         "min": 0.0,
         "max": 80.0
       },
       "macro_policy": {
-        "count": 16,
-        "mean": 49.2,
+        "count": 23,
+        "mean": 57.2,
         "median": 52.0,
         "min": 37.0,
         "max": 82.0
@@ -698,49 +854,49 @@
     },
     {
       "sector": "Technology & IT Services",
-      "count": 1,
+      "count": 2,
       "combined": {
-        "count": 1,
-        "mean": 35.5,
-        "median": 35.5,
+        "count": 2,
+        "mean": 41.4,
+        "median": 41.4,
         "min": 35.5,
-        "max": 35.5
+        "max": 47.3
       },
       "succession_fit": {
-        "count": 1,
-        "mean": 11.0,
-        "median": 11.0,
+        "count": 2,
+        "mean": 18.0,
+        "median": 18.0,
         "min": 11.0,
-        "max": 11.0
+        "max": 25.0
       },
       "macro_policy": {
-        "count": 1,
-        "mean": 52.0,
-        "median": 52.0,
+        "count": 2,
+        "mean": 59.5,
+        "median": 59.5,
         "min": 52.0,
-        "max": 52.0
+        "max": 67.0
       },
-      "top_target": "FinTech Company Equity Stake For Sale in Galway"
+      "top_target": "Retail & Hospitality EPOS Software Company"
     },
     {
       "sector": "Transport & Logistics",
-      "count": 1,
+      "count": 3,
       "combined": {
-        "count": 1,
-        "mean": 62.2,
-        "median": 62.2,
-        "min": 62.2,
+        "count": 3,
+        "mean": 59.4,
+        "median": 58.0,
+        "min": 58.0,
         "max": 62.2
       },
       "succession_fit": {
-        "count": 1,
-        "mean": 61.8,
-        "median": 61.8,
-        "min": 61.8,
+        "count": 3,
+        "mean": 50.6,
+        "median": 45.0,
+        "min": 45.0,
         "max": 61.8
       },
       "macro_policy": {
-        "count": 1,
+        "count": 3,
         "mean": 67.0,
         "median": 67.0,
         "min": 67.0,

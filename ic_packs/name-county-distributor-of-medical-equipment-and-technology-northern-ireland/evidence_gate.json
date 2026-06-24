@@ -1,0 +1,16 @@
+{
+  "identity_key": "name_county:distributor of medical equipment and technology:northern ireland",
+  "target_name": "Distributor of Medical Equipment and Technology",
+  "readiness": "watch_memo_only",
+  "score": 47.3,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html"
+  ]
+}

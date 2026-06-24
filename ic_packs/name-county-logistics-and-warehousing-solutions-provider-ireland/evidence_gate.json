@@ -1,0 +1,17 @@
+{
+  "identity_key": "name_county:logistics and warehousing solutions provider:ireland",
+  "target_name": "Logistics and Warehousing Solutions Provider",
+  "readiness": "research_memo_ready",
+  "score": 68.5,
+  "evidence_gap_count": 4,
+  "blockers": [],
+  "required_before_ic": [
+    "confirm legal entity/CRO number",
+    "verify phone, email, advisor, or owner route"
+  ],
+  "allowed_exports": [
+    "markdown",
+    "html",
+    "latex"
+  ]
+}

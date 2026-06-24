@@ -2,36 +2,41 @@
 
 ## Run Summary
 
-- Ranked assessments: 197
+- Ranked assessments: 286
 
 ## Component Scores
 
 | Component | Count | Mean | Median | Min | Max |
 | --- | --- | --- | --- | --- | --- |
-| Succession fit | 197 | 41.1 | 35.8 | 0.0 | 98.2 |
-| Business quality | 197 | 45.1 | 37.0 | 12.0 | 100.0 |
-| Deal readiness | 197 | 63.2 | 63.0 | 38.0 | 98.0 |
-| Macro policy | 197 | 51.2 | 52.0 | 37.0 | 97.0 |
-| Combined | 197 | 48.8 | 47.1 | 23.6 | 84.2 |
+| Succession fit | 286 | 40.7 | 35.8 | 0.0 | 98.2 |
+| Business quality | 286 | 44.8 | 37.0 | 12.0 | 100.0 |
+| Deal readiness | 286 | 67.8 | 78.0 | 38.0 | 98.0 |
+| Macro policy | 286 | 58.3 | 52.0 | 37.0 | 97.0 |
+| Combined | 286 | 50.9 | 50.5 | 23.6 | 84.2 |
 
 ## County Comparison
 
 | County | Count | Combined mean | Succession mean | Macro mean | Top target |
 | --- | --- | --- | --- | --- | --- |
-| Cork | 2 | 57.2 | 46.0 | 67.0 | Food Production Company in Cork |
+| Antrim | 1 | 58.0 | 45.0 | 67.0 | Printing and Office Equipment |
+| Cork | 3 | 53.9 | 39.0 | 67.0 | Food Production Company in Cork |
+| Down | 2 | 50.7 | 35.0 | 67.0 | Accounting Firm for Sale |
 | Dublin | 81 | 43.7 | 28.4 | 50.9 | Award Winning Beauty Salon With Prime Location |
-| Galway | 112 | 52.2 | 50.1 | 50.9 | Airflow Air Refrigeration (Galway) Limited |
+| Galway | 113 | 52.2 | 50.0 | 51.1 | Airflow Air Refrigeration (Galway) Limited |
+| Ireland | 58 | 55.4 | 39.8 | 74.8 | Logistics and Warehousing Solutions Provider |
 | Kerry | 1 | 47.5 | 31.0 | 52.0 | Boutique Hotel in Killarney |
 | Limerick | 1 | 64.3 | 61.0 | 67.0 | Food Distribution Company in Limerick |
+| Northern Ireland | 25 | 56.6 | 40.4 | 74.8 | Refrigeration Service and Supply Provider |
+| Tyrone | 1 | 61.4 | 55.0 | 67.0 | Legal Services and Solicitors' Firm |
 
 ## Weakest Component Counts
 
 | Component | Count |
 | --- | --- |
-| business_quality | 59 |
+| business_quality | 89 |
 | deal_readiness | 32 |
 | macro_policy | 13 |
-| succession_fit | 93 |
+| succession_fit | 152 |
 
 ## Top Targets
 
