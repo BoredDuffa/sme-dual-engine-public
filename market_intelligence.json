@@ -779,5 +779,20 @@
         "placeholder_rows": 0
       }
     ]
+  },
+  "sale_listing_refresh": {
+    "status": "ok",
+    "observed_at": "2026-06-24",
+    "row_count": 27,
+    "refreshed_row_count": 23,
+    "kept_existing_rows": 27,
+    "sources": [
+      {
+        "source": "businessesforsale_ie",
+        "url": "https://www.businessesforsale.ie/irish/search/businesses-for-sale-in-galway",
+        "status": "ok",
+        "rows": 23
+      }
+    ]
   }
 }

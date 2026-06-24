@@ -28,6 +28,8 @@
   "cro_company_count_evidence_report": "cro_company_evidence/cro-company-count-evidence.md",
   "collection_progress": "collection_progress.json",
   "collection_progress_report": "collection_progress.md",
+  "sale_listing_refresh": "sale_listing_refresh.json",
+  "sale_listing_refresh_report": "sale_listing_refresh.md",
   "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
   "cso_business_demography_benchmark_json": "benchmarks/cso-business-demography-benchmark-2023.json",
   "public_repo": ".",
@@ -47,5 +49,8 @@
     }
   },
   "collection_progress_status": "collection_in_progress",
-  "collection_progress_pct": 22.5
+  "collection_progress_pct": 22.5,
+  "sale_listing_refresh_status": "ok",
+  "sale_listing_refresh_rows": 27,
+  "sale_listing_refreshed_rows": 23
 }
