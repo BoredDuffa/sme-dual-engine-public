@@ -62,4 +62,14 @@ The public site can show observed market breadth today, but the approved company
 1. Obtain a director-level CRO/CORE/bulk export keyed by company number for the 108 request rows.
 2. Join the director-level export to the existing CRO company-count evidence by company number and active appointment status.
 3. Aggregate active companies by county, local area, and sector into director_50_plus through director_70_plus threshold counts.
-4. Merge only rows with complete threshold counts and approval metadata into the approved company-universe CSV.
+4. Validate the completed import with `scripts/validate_director_age_import.py --strict` before merging.
+5. Merge only rows with complete threshold counts and approval metadata into the approved company-universe CSV.
+
+## Validation Command
+
+```bash
+python3 scripts/validate_director_age_import.py \
+  --input path/to/completed-director-age-import.csv \
+  --output-company tmp/director-age-import/approved-company-universe-update.csv \
+  --strict
+```

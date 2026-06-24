@@ -81,6 +81,7 @@
     "Obtain a director-level CRO/CORE/bulk export keyed by company number for the 108 request rows.",
     "Join the director-level export to the existing CRO company-count evidence by company number and active appointment status.",
     "Aggregate active companies by county, local area, and sector into director_50_plus through director_70_plus threshold counts.",
+    "Validate the completed import with `scripts/validate_director_age_import.py --strict` before merging.",
     "Merge only rows with complete threshold counts and approval metadata into the approved company-universe CSV."
   ],
   "public_note": "The public site can show observed market breadth today, but the approved company-universe gate remains open until director-age threshold counts are supplied by an approved director-level source."
