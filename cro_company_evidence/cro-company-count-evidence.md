@@ -2,9 +2,18 @@
 
 - Status: `ready`
 - Source: [CRO Company Records](https://opendata.cro.ie/dataset/companies)
-- Source date: 2026-06-24
+- Source date: 2026-06-25
 - Output rows: 15
 - Total company count: 471
+
+## Fetch Status
+
+- Mode: `fetch_all_galway_dublin`
+- Page size: 1000
+- Max records: 20000
+- Partial: `False`
+- Pages fetched: 1
+- Fetch errors: 0
 
 ## Approval Blockers
 

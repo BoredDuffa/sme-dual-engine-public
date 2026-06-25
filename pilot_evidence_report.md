@@ -4,7 +4,7 @@
 
 - Input: `samples/galway-sme-dashboard-expanded-public.json`
 - Market data: `docs/approved-data/cso-allocated-market-data-2022.csv`
-- Company universe data: `docs/evidence/cro-company-count-evidence-2026-06-24/cro-company-count-evidence.csv`
+- Company universe data: `docs/evidence/cro-company-count-evidence-2026-06-25/cro-company-count-evidence.csv`
 - Target rows loaded: 326
 - Deduplicated entities: 310
 - Ranked assessments: 310
@@ -35,7 +35,7 @@
 
 ## Company-Universe Sources
 
-- CRO Company Records open-data daily snapshot; company counts only, no director-age bands. | https://opendata.cro.ie/dataset/companies | 2026-06-24 | approved by Benjamin Falkenburg | 15 row(s)
+- CRO Company Records open-data daily snapshot; company counts only, no director-age bands. | https://opendata.cro.ie/dataset/companies | 2026-06-25 | approved by Benjamin Falkenburg | 15 row(s)
 
 ## Next Actions
 
