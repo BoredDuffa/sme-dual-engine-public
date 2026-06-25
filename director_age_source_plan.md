@@ -65,6 +65,25 @@ The public site can show observed market breadth today, but the approved company
 4. Validate the completed import with `scripts/validate_director_age_import.py --strict` before merging.
 5. Merge only rows with complete threshold counts and approval metadata into the approved company-universe CSV.
 
+## Build Import From Director Export
+
+Use this after obtaining an approved director-level export that includes company number, active appointment status, Galway/Dublin geography, sector evidence, and a director-age field.
+
+```bash
+python3 scripts/build_director_age_import_from_export.py \
+  --director-export path/to/approved-director-export.csv \
+  --company-request company_universe_request/company-universe-export-request.csv \
+  --source-note "Approved director export joined by company number." \
+  --source-url https://cro.ie/services-and-help/access-to-cro-data/ \
+  --source-date YYYY-MM-DD \
+  --approved-by "Name" \
+  --director-export-source-id cro-bulk-YYYY-MM-DD \
+  --output-csv tmp/director-age-import/director-age-import.csv \
+  --report-json tmp/director-age-import/director-age-import-report.json \
+  --review-csv tmp/director-age-import/director-age-import-review.csv \
+  --strict
+```
+
 ## Validation Command
 
 ```bash
