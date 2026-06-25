@@ -516,24 +516,24 @@
     },
     {
       "sector": "Construction & Built Environment",
-      "count": 17,
+      "count": 16,
       "combined": {
-        "count": 17,
-        "mean": 65.6,
+        "count": 16,
+        "mean": 65.8,
         "median": 64.1,
         "min": 55.4,
         "max": 84.0
       },
       "succession_fit": {
-        "count": 17,
-        "mean": 62.7,
+        "count": 16,
+        "mean": 63.2,
         "median": 55.0,
         "min": 47.0,
         "max": 97.5
       },
       "macro_policy": {
-        "count": 17,
-        "mean": 74.1,
+        "count": 16,
+        "mean": 74.5,
         "median": 67.0,
         "min": 67.0,
         "max": 97.0
@@ -698,24 +698,24 @@
     },
     {
       "sector": "Healthcare & Life Sciences",
-      "count": 9,
+      "count": 10,
       "combined": {
-        "count": 9,
-        "mean": 63.5,
+        "count": 10,
+        "mean": 63.2,
         "median": 64.1,
         "min": 57.1,
         "max": 71.4
       },
       "succession_fit": {
-        "count": 9,
-        "mean": 56.5,
+        "count": 10,
+        "mean": 56.4,
         "median": 55.0,
         "min": 45.0,
         "max": 81.8
       },
       "macro_policy": {
-        "count": 9,
-        "mean": 77.0,
+        "count": 10,
+        "mean": 76.0,
         "median": 82.0,
         "min": 67.0,
         "max": 82.0

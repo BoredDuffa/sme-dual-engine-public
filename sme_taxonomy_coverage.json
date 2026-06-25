@@ -2,8 +2,8 @@
   "status": "ready",
   "taxonomy_sector_count": 15,
   "taxonomy_subsector_count": 104,
-  "observed_subsector_count": 33,
-  "multi_source_subsector_count": 15,
+  "observed_subsector_count": 35,
+  "multi_source_subsector_count": 14,
   "ranked_target_count": 95,
   "sale_listing_count": 215,
   "company_count_evidence_total": 471,
@@ -57,9 +57,9 @@
       "sector": "Construction & Built Environment",
       "subsector": "Landscaping & grounds maintenance",
       "ranked_targets": 3,
-      "sale_listings": 2,
+      "sale_listings": 1,
       "company_count_evidence": 0,
-      "observed_rows": 5,
+      "observed_rows": 4,
       "coverage_status": "multi_source_observed"
     },
     {
@@ -126,15 +126,6 @@
       "coverage_status": "multi_source_observed"
     },
     {
-      "sector": "Industrials & Engineering",
-      "subsector": "Fire protection & safety systems",
-      "ranked_targets": 1,
-      "sale_listings": 2,
-      "company_count_evidence": 0,
-      "observed_rows": 3,
-      "coverage_status": "multi_source_observed"
-    },
-    {
       "sector": "Food & Agribusiness",
       "subsector": "Butchers & artisan food producers",
       "ranked_targets": 1,
@@ -171,6 +162,15 @@
       "coverage_status": "observed"
     },
     {
+      "sector": "Healthcare & Life Sciences",
+      "subsector": "Homecare & nursing agencies",
+      "ranked_targets": 1,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 1,
+      "coverage_status": "observed"
+    },
+    {
       "sector": "Technology & IT Services",
       "subsector": "Software development",
       "ranked_targets": 1,
@@ -189,17 +189,17 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Construction & Built Environment",
-      "subsector": "Fit-out & refurbishment",
+      "sector": "Healthcare & Life Sciences",
+      "subsector": "Dental practices",
       "ranked_targets": 0,
-      "sale_listings": 4,
+      "sale_listings": 5,
       "company_count_evidence": 0,
-      "observed_rows": 4,
+      "observed_rows": 5,
       "coverage_status": "observed"
     },
     {
-      "sector": "Healthcare & Life Sciences",
-      "subsector": "Dental practices",
+      "sector": "Construction & Built Environment",
+      "subsector": "Fit-out & refurbishment",
       "ranked_targets": 0,
       "sale_listings": 4,
       "company_count_evidence": 0,
@@ -217,11 +217,20 @@
     },
     {
       "sector": "Industrials & Engineering",
+      "subsector": "Fire protection & safety systems",
+      "ranked_targets": 0,
+      "sale_listings": 2,
+      "company_count_evidence": 0,
+      "observed_rows": 2,
+      "coverage_status": "observed"
+    },
+    {
+      "sector": "Industrials & Engineering",
       "subsector": "Plant & equipment maintenance",
       "ranked_targets": 0,
-      "sale_listings": 3,
+      "sale_listings": 2,
       "company_count_evidence": 0,
-      "observed_rows": 3,
+      "observed_rows": 2,
       "coverage_status": "observed"
     },
     {
@@ -272,6 +281,15 @@
     {
       "sector": "Food & Agribusiness",
       "subsector": "Bakeries & food service suppliers",
+      "ranked_targets": 0,
+      "sale_listings": 1,
+      "company_count_evidence": 0,
+      "observed_rows": 1,
+      "coverage_status": "observed"
+    },
+    {
+      "sector": "Healthcare & Life Sciences",
+      "subsector": "Pharmacy & dispensary",
       "ranked_targets": 0,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -541,25 +559,7 @@
     },
     {
       "sector": "Healthcare & Life Sciences",
-      "subsector": "Homecare & nursing agencies",
-      "ranked_targets": 0,
-      "sale_listings": 0,
-      "company_count_evidence": 0,
-      "observed_rows": 0,
-      "coverage_status": "not_observed"
-    },
-    {
-      "sector": "Healthcare & Life Sciences",
       "subsector": "Medical device distribution",
-      "ranked_targets": 0,
-      "sale_listings": 0,
-      "company_count_evidence": 0,
-      "observed_rows": 0,
-      "coverage_status": "not_observed"
-    },
-    {
-      "sector": "Healthcare & Life Sciences",
-      "subsector": "Pharmacy & dispensary",
       "ranked_targets": 0,
       "sale_listings": 0,
       "company_count_evidence": 0,

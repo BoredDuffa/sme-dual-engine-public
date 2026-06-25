@@ -21,7 +21,7 @@
 
 ## Financial Snapshot
 
-- Asking price: EUR 150000
+- Asking price: EUR 100000
 - Known financials: not yet available
 - Required financials:
 - three years revenue and EBITDA
@@ -61,18 +61,18 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 150000 BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 100000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_property_only` from businessesforsale_ie (observed, confidence 1.0): False
 - `name` from businessesforsale_ie (observed, confidence 1.0): Established Café And Restaurant With Catering
 - `normalized_name` from businessesforsale_ie (observed, confidence 1.0): established café and restaurant with catering
-- `price_text` from businessesforsale_ie (observed, confidence 1.0): EUR 150000
-- `price_value` from businessesforsale_ie (observed, confidence 1.0): 150000.0
+- `price_text` from businessesforsale_ie (observed, confidence 1.0): EUR 100000
+- `price_value` from businessesforsale_ie (observed, confidence 1.0): 100000.0
 - `sector` from local_enrichment (inferred, confidence 0.55): Hospitality & Tourism
 - `source` from businessesforsale_ie (observed, confidence 1.0): businessesforsale_ie
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 57a2441f29df59f5
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/established-cafe-and-restaurant-with-catering.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): This established café and restaurant offers a full-service dining experience, serving breakfast, lunch, brunch, and dinner. The business provides a diverse menu including hot meals, light bites... BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): This established café and restaurant offers a full-service dining experience, serving breakfast, lunch, brunch, and dinner. The business provides a diverse menu including hot meals, light bites... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.

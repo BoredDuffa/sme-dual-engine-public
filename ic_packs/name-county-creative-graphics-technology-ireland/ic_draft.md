@@ -59,7 +59,7 @@
 ## Source Evidence
 
 - `county` from business_sale_report (observed, confidence 1.0): Ireland
-- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-24.
+- `evidence_text` from business_sale_report (observed, confidence 1.0): public advertised-for-sale listing Offers Invited Business Sale Report public listing observed 2026-06-25.
 - `fit_decision` from business_sale_report (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from business_sale_report (observed, confidence 1.0): False
 - `is_franchise` from business_sale_report (observed, confidence 1.0): False
@@ -72,5 +72,5 @@
 - `source_key` from business_sale_report (observed, confidence 1.0): 880c8eb40c30df6c
 - `source_section` from business_sale_report (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from business_sale_report (observed, confidence 1.0): https://www.business-sale.com/companies-for-sale/creative-graphics-technology-technology-ireland-680147
-- `summary` from business_sale_report (observed, confidence 1.0): Invest in a unique digitally creative graphics platform with a proven proprietary cloud-based design to production workflow, allowing the creation of precision-fit graphics for vehicles directly from a web browser. Business Sale Report public listing observed 2026-06-24.
+- `summary` from business_sale_report (observed, confidence 1.0): Invest in a unique digitally creative graphics platform with a proven proprietary cloud-based design to production workflow, allowing the creation of precision-fit graphics for vehicles directly from a web browser. Business Sale Report public listing observed 2026-06-25.
 - `town` from business_sale_report (observed, confidence 1.0): Ireland, IR

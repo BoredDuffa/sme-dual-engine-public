@@ -62,7 +62,7 @@
 ## Source Evidence
 
 - `county` from businessesforsale_ie (observed, confidence 1.0): Dublin
-- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 270000 BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
+- `evidence_text` from businessesforsale_ie (observed, confidence 1.0): public advertised-for-sale listing EUR 270000 BusinessesForSale.ie JSON-LD listing observed 2026-06-25.
 - `fit_decision` from businessesforsale_ie (inferred, confidence 0.7): needs_review
 - `is_business_opportunity` from businessesforsale_ie (observed, confidence 1.0): False
 - `is_franchise` from businessesforsale_ie (observed, confidence 1.0): False
@@ -76,4 +76,4 @@
 - `source_key` from businessesforsale_ie (observed, confidence 1.0): 2f5d6203952b7293
 - `source_section` from businessesforsale_ie (observed, confidence 1.0): advertised_sale_listings
 - `source_url` from businessesforsale_ie (observed, confidence 1.0): https://www.businessesforsale.ie/irish/town-centre-pub-with-full-kitchen-and-seating-in-dublin.aspx
-- `summary` from businessesforsale_ie (observed, confidence 1.0): Overview: This well-established pub has been part of the local community for over 80 years and is located in a high-traffic town centre location. With a fully equipped kitchen and a 40-seat dining... BusinessesForSale.ie JSON-LD listing observed 2026-06-24.
+- `summary` from businessesforsale_ie (observed, confidence 1.0): Overview: This well-established pub has been part of the local community for over 80 years and is located in a high-traffic town centre location. With a fully equipped kitchen and a 40-seat dining... BusinessesForSale.ie JSON-LD listing observed 2026-06-25.

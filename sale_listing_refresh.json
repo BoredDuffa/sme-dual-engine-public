@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "observed_at": "2026-06-24",
+  "observed_at": "2026-06-25",
   "output": "galway-live-sale-listings-public.csv",
   "row_count": 225,
   "refreshed_row_count": 228,
-  "kept_existing_rows": 200,
+  "kept_existing_rows": 225,
   "sources": [
     {
       "source": "businessesforsale_ie",

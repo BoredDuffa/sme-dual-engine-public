@@ -1,10 +1,10 @@
 # Public Sale Listing Feed Refresh
 
 - Status: `ok`
-- Observed at: `2026-06-24`
+- Observed at: `2026-06-25`
 - Published rows: `225`
 - Refreshed rows: `228`
-- Existing rows considered: `200`
+- Existing rows considered: `225`
 - Public output: `galway-live-sale-listings-public.csv`
 
 ## Sources
