@@ -1,0 +1,86 @@
+{
+  "status": "data_room_required",
+  "approved_rows": 27,
+  "expected_rows": 120,
+  "gap_count": 108,
+  "company_universe_request_rows": 108,
+  "wave_count": 6,
+  "sale_listing_rows": 225,
+  "summary": "The dashboard is interactive and public-safe, but 108 source rows still need approved director/company evidence before investment-grade use.",
+  "downloads": [
+    {
+      "label": "Director export template",
+      "path": "director_export_template.csv"
+    },
+    {
+      "label": "Director data runbook",
+      "path": "director_data_runbook.md"
+    },
+    {
+      "label": "Company collection plan",
+      "path": "company_universe_request/company-universe-collection-plan.md"
+    },
+    {
+      "label": "Company export request",
+      "path": "company_universe_request/company-universe-export-request.csv"
+    }
+  ],
+  "checklist": [
+    {
+      "priority": 1,
+      "item": "Approved director/officer export",
+      "owner": "CRO account holder or approved private company-data provider",
+      "required_for": "Director-age thresholds: 50+, 55+, 60+, 65+, and 70+ by company-universe row.",
+      "accepted_format": "CSV matching director_export_template.csv with company_number and director_age fields.",
+      "approval_gate": "validate_director_export.py passes with zero invalid active-director rows.",
+      "public_policy": "Do not publish the filled export; publish only aggregate validated company-universe rows.",
+      "status": "required"
+    },
+    {
+      "priority": 2,
+      "item": "Completed company-universe waves",
+      "owner": "Research operator using the six published wave CSVs",
+      "required_for": "108 company-universe rows that need approved counts or metadata.",
+      "accepted_format": "Completed company-universe-wave-N.csv rows with source_note, source_url, source_date, and approved_by filled.",
+      "approval_gate": "Each completed wave reconciles to the director-age import and has no count_mismatch rows.",
+      "public_policy": "Wave CSVs may stay public only while they contain request rows, not private director data.",
+      "status": "required"
+    },
+    {
+      "priority": 3,
+      "item": "CRO/company-number reconciliation",
+      "owner": "CRO Open Services user or company registry data owner",
+      "required_for": "Company-number join keys and company-count baseline checks before aggregation.",
+      "accepted_format": "CRO company evidence CSV plus completed company-number join keys.",
+      "approval_gate": "Unique active-company counts reconcile to the company universe before approved rows are merged.",
+      "public_policy": "Publish aggregate company-count evidence only.",
+      "status": "required"
+    },
+    {
+      "priority": 4,
+      "item": "Sale-listing feed review",
+      "owner": "Origination analyst",
+      "required_for": "Keeping advertised-for-sale targets fresh and removing duplicates or irrelevant listings.",
+      "accepted_format": "Published sale listing CSV or refreshed source audit with URL, source, observed date, and listing metadata.",
+      "approval_gate": "Public sale refresh audit returns status ok and stale/duplicate rows are reviewed.",
+      "public_policy": "Public listing metadata and source URLs are publishable; private broker notes are not.",
+      "status": "ready"
+    },
+    {
+      "priority": 5,
+      "item": "Approval metadata",
+      "owner": "Investment or data-quality reviewer",
+      "required_for": "Moving rows from sample/incomplete to approved in the dashboard readiness gate.",
+      "accepted_format": "source_note, source_url, source_date, approved_by, and validation report references.",
+      "approval_gate": "Approved source collection reaches 120 of 120 rows with no placeholder or missing approval fields.",
+      "public_policy": "Approval metadata can be published when it identifies source class and reviewer without private personal data.",
+      "status": "required"
+    }
+  ],
+  "success_definition": [
+    "All 120 expected public-source rows are approved.",
+    "All director-age threshold counts come from an approved private director/company export.",
+    "No filled director-level export or private personal data is committed or published.",
+    "Live dashboard verifier passes with collection_progress_status approved_collection_complete."
+  ]
+}
