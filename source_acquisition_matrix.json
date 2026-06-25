@@ -205,7 +205,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -222,7 +221,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -239,7 +237,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -256,7 +253,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -273,7 +269,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -290,7 +285,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -307,7 +301,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -324,7 +317,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -341,7 +333,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -358,7 +349,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -375,7 +365,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -392,7 +381,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -409,7 +397,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -426,7 +413,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -443,7 +429,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -460,7 +445,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -477,7 +461,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -494,7 +477,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Oranmore%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Oranmore%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -511,7 +493,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -528,7 +509,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -545,7 +525,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -562,7 +541,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -579,7 +557,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -596,7 +573,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Athenry%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Athenry%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -613,7 +589,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -630,7 +605,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -647,7 +621,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -664,7 +637,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -681,7 +653,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -698,7 +669,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -715,7 +685,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -732,7 +701,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -749,7 +717,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -766,7 +733,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -783,7 +749,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -800,7 +765,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -817,7 +781,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -834,7 +797,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -851,7 +813,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -868,7 +829,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -885,7 +845,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -902,7 +861,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Ballinasloe%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -919,7 +877,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -936,7 +893,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -953,7 +909,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -970,7 +925,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -987,7 +941,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1004,7 +957,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Gort%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Gort%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1021,7 +973,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1038,7 +989,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1055,7 +1005,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1072,7 +1021,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1089,7 +1037,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1106,7 +1053,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Clifden%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Clifden%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1123,7 +1069,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1140,7 +1085,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1157,7 +1101,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1174,7 +1117,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1191,7 +1133,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1208,7 +1149,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+City+Centre&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+City+Centre&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1225,7 +1165,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1242,7 +1181,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1259,7 +1197,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1276,7 +1213,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1293,7 +1229,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1310,7 +1245,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+2&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+2&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1327,7 +1261,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1344,7 +1277,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1361,7 +1293,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1378,7 +1309,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1395,7 +1325,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1412,7 +1341,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+4&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+4&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1429,7 +1357,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1446,7 +1373,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1463,7 +1389,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1480,7 +1405,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1497,7 +1421,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1514,7 +1437,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+6&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+6&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1531,7 +1453,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1548,7 +1469,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1565,7 +1485,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1582,7 +1501,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1599,7 +1517,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1616,7 +1533,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dublin+8&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dublin+8&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1633,7 +1549,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1650,7 +1565,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1667,7 +1581,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1684,7 +1597,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1701,7 +1613,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1718,7 +1629,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Swords%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Swords%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1735,7 +1645,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1752,7 +1661,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1769,7 +1677,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1786,7 +1693,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1803,7 +1709,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1820,7 +1725,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Blanchardstown%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1837,7 +1741,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1854,7 +1757,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1871,7 +1773,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1888,7 +1789,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1905,7 +1805,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1922,7 +1821,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tallaght%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1939,7 +1837,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1956,7 +1853,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1973,7 +1869,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -1990,7 +1885,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -2007,7 +1901,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     },
@@ -2024,7 +1917,6 @@
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Dun+Laoghaire%2C+Dublin&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "director_age_source_note": "",
       "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
       "target_output": "approved-company-universe-template.csv"
     }

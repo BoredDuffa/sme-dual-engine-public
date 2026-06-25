@@ -76,5 +76,5 @@
 
 - Add richer local macro/policy mappings for sectors with weak Macro policy scores.
 - Prioritise contact, website, price, and transaction-intent enrichment for weak Deal readiness rows.
-- Improve director-age, founder, family, retirement, and succession-language evidence capture.
-- Fill company status, age, trading proof, and operating-sector evidence before outreach.
+- Improve founder, family, retirement, and succession-language evidence capture.
+- Fill company status, trading proof, and operating-sector evidence before outreach.
