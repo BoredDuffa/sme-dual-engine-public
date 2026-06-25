@@ -6,6 +6,7 @@
 - Waves: 6
 - Galway rows: 54
 - Dublin rows: 54
+- Wave CSVs: all wave CSV files are linked in the Waves table below.
 
 ## Operator Steps
 
@@ -19,14 +20,14 @@
 
 ## Waves
 
-| Wave | Priorities | Rows | County split | Gap split | Top local areas |
-| ---: | --- | ---: | --- | --- | --- |
-| 1 | 1-20 | 20 | Galway: 20 | missing_row: 20 | Galway / Athenry: 5, Galway / Galway City: 5, Galway / Oranmore: 5, Galway / Salthill: 5 |
-| 2 | 21-40 | 20 | Galway: 20 | missing_row: 20 | Galway / Ballinasloe: 6, Galway / Loughrea: 5, Galway / Tuam: 5, Galway / Gort: 3, Galway / Athenry: 1 |
-| 3 | 41-60 | 20 | Dublin: 12, Galway: 8 | missing_row: 20 | Galway / Clifden / Connemara: 6, Dublin / Dublin 2 / Docklands: 5, Dublin / Dublin City Centre: 5, Dublin / Dublin 4 / Ballsbridge: 2, Galway / Gort: 2 |
-| 4 | 61-80 | 20 | Dublin: 20 | missing_row: 20 | Dublin / Dublin 6 / Rathmines: 5, Dublin / Dublin 8 / Liberties: 5, Dublin / Swords / North County: 5, Dublin / Dublin 4 / Ballsbridge: 3, Dublin / Blanchardstown / West Dublin: 2 |
-| 5 | 81-100 | 20 | Dublin: 14, Galway: 6 | incomplete_row: 7, missing_row: 13 | Dublin / Dun Laoghaire / South County: 5, Dublin / Tallaght / South West: 5, Dublin / Blanchardstown / West Dublin: 3, Dublin / Dublin City Centre: 1, Galway / Galway City: 1 |
-| 6 | 101-108 | 8 | Dublin: 8 | incomplete_row: 8 | Dublin / Blanchardstown / West Dublin: 1, Dublin / Dublin 2 / Docklands: 1, Dublin / Dublin 4 / Ballsbridge: 1, Dublin / Dublin 6 / Rathmines: 1, Dublin / Dublin 8 / Liberties: 1 |
+| Wave | CSV | Priorities | Rows | County split | Gap split | Top local areas |
+| ---: | --- | --- | ---: | --- | --- | --- |
+| 1 | [CSV](company-universe-wave-1.csv) | 1-20 | 20 | Galway: 20 | missing_row: 20 | Galway / Athenry: 5, Galway / Galway City: 5, Galway / Oranmore: 5, Galway / Salthill: 5 |
+| 2 | [CSV](company-universe-wave-2.csv) | 21-40 | 20 | Galway: 20 | missing_row: 20 | Galway / Ballinasloe: 6, Galway / Loughrea: 5, Galway / Tuam: 5, Galway / Gort: 3, Galway / Athenry: 1 |
+| 3 | [CSV](company-universe-wave-3.csv) | 41-60 | 20 | Dublin: 12, Galway: 8 | missing_row: 20 | Galway / Clifden / Connemara: 6, Dublin / Dublin 2 / Docklands: 5, Dublin / Dublin City Centre: 5, Dublin / Dublin 4 / Ballsbridge: 2, Galway / Gort: 2 |
+| 4 | [CSV](company-universe-wave-4.csv) | 61-80 | 20 | Dublin: 20 | missing_row: 20 | Dublin / Dublin 6 / Rathmines: 5, Dublin / Dublin 8 / Liberties: 5, Dublin / Swords / North County: 5, Dublin / Dublin 4 / Ballsbridge: 3, Dublin / Blanchardstown / West Dublin: 2 |
+| 5 | [CSV](company-universe-wave-5.csv) | 81-100 | 20 | Dublin: 14, Galway: 6 | incomplete_row: 7, missing_row: 13 | Dublin / Dun Laoghaire / South County: 5, Dublin / Tallaght / South West: 5, Dublin / Blanchardstown / West Dublin: 3, Dublin / Dublin City Centre: 1, Galway / Galway City: 1 |
+| 6 | [CSV](company-universe-wave-6.csv) | 101-108 | 8 | Dublin: 8 | incomplete_row: 8 | Dublin / Blanchardstown / West Dublin: 1, Dublin / Dublin 2 / Docklands: 1, Dublin / Dublin 4 / Ballsbridge: 1, Dublin / Dublin 6 / Rathmines: 1, Dublin / Dublin 8 / Liberties: 1 |
 
 ## Active Wave Rows
 
