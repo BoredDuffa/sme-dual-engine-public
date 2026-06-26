@@ -1,13 +1,12 @@
 # Watch Note: A B P MANUFACTURING MACHINERY LIMITED
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 37.0
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

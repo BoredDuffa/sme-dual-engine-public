@@ -1,13 +1,12 @@
 # Watch Note: A.M.T. GALWAY LIMITED
 
-Readiness: blocked
+Readiness: discard
 Score: 23.1
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- sector subsector
 
 ## Blockers
 
-- combined score below review threshold
+- none

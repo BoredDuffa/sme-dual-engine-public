@@ -48,6 +48,9 @@
   "sale_listing_refresh": "sale_listing_refresh.json",
   "sale_listing_refresh_report": "sale_listing_refresh.md",
   "sme_taxonomy_coverage": "sme_taxonomy_coverage.json",
+  "evidence_gate_summary": "evidence_gate_summary.json",
+  "weekly_review_report": "weekly_review_report.md",
+  "weekly_review_report_json": "weekly_review_report.json",
   "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
   "cso_business_demography_benchmark_json": "benchmarks/cso-business-demography-benchmark-2023.json",
   "public_repo": ".",
@@ -82,6 +85,17 @@
   "investment_readiness_scorecard_investment_ready": false,
   "collection_progress_status": "collection_in_progress",
   "collection_progress_pct": 22.5,
+  "evidence_gate_counts": {
+    "investment_ready": 1,
+    "origination_ready": 89,
+    "research_needed": 148,
+    "discard": 29,
+    "watchlist_only": 43
+  },
+  "target_universe_counts": {
+    "advertised_sale_listing": 234,
+    "operating_sme": 76
+  },
   "sale_listing_refresh_status": "ok",
   "sale_listing_refresh_rows": 226,
   "sale_listing_refreshed_rows": 226

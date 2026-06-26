@@ -1,12 +1,12 @@
 # Watch Note: (NEW AGE OFFICE FURNITURE LIMITED) TROSCAN OIFIGE NA H'AOISE NUA TEORANTA
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 28.4
 
 ## Required Before IC
 
-- add valuation anchor before investment discussion
+- sector subsector
 
 ## Blockers
 
-- combined score below review threshold
+- none

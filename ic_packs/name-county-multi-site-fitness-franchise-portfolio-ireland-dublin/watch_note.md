@@ -1,14 +1,12 @@
 # Watch Note: Multi-Site Fitness Franchise Portfolio – Ireland
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 27.0
 
 ## Required Before IC
 
-- confirm legal entity/CRO number
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

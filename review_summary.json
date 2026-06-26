@@ -7,14 +7,15 @@
   },
   "decision_counts": {
     "contact": 1,
-    "research_more": 71,
-    "watch": 142,
-    "unreviewed": 96
+    "research_more": 46,
+    "watch": 92,
+    "unreviewed": 142,
+    "decline": 29
   },
   "priority_counts": {
-    "high": 3,
-    "medium": 102,
-    "low": 205
+    "high": 1,
+    "medium": 79,
+    "low": 230
   },
-  "high_priority_count": 3
+  "high_priority_count": 1
 }

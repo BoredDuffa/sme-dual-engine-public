@@ -1,13 +1,12 @@
 # Watch Note: Surveillance Device Sales Partner Opportunity
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 33.6
 
 ## Required Before IC
 
-- confirm legal entity/CRO number
-- verify phone, email, advisor, or owner route
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

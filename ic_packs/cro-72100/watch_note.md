@@ -1,13 +1,12 @@
 # Watch Note: A. O'TOOLE (CONFECTIONERS) LIMITED
 
-Readiness: blocked
+Readiness: discard
 Score: 24.4
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- sector subsector
 
 ## Blockers
 
-- combined score below review threshold
+- none

@@ -1,0 +1,23 @@
+{
+  "target_count": 310,
+  "gate_counts": {
+    "investment_ready": 1,
+    "origination_ready": 89,
+    "research_needed": 148,
+    "discard": 29,
+    "watchlist_only": 43
+  },
+  "target_universe_counts": {
+    "advertised_sale_listing": 234,
+    "operating_sme": 76
+  },
+  "source_quality_counts": {
+    "live_listing": 234,
+    "public_profile": 35,
+    "verified_profile": 41
+  },
+  "ready_count": 90,
+  "research_needed_count": 148,
+  "watchlist_only_count": 43,
+  "discard_count": 29
+}

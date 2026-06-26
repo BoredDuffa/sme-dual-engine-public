@@ -1,13 +1,12 @@
 # Watch Note: A.P. MCCARTHY PLANNING CONSULTANTS LIMITED
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 35.7
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

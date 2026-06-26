@@ -1,13 +1,12 @@
 # Watch Note: GARDEN GREEN ENERGY LIMITED
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 25.8
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- sector subsector
 
 ## Blockers
 
-- combined score below review threshold
+- none

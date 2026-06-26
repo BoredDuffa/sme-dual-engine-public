@@ -1,17 +1,39 @@
 {
   "identity_key": "cro:385921",
   "target_name": "GROUNDSOURCE LIMITED",
-  "readiness": "blocked",
+  "readiness": "watchlist_only",
   "score": 32.1,
-  "evidence_gap_count": 3,
-  "blockers": [
-    "combined score below review threshold"
-  ],
+  "evidence_gap_count": 0,
+  "blockers": [],
   "required_before_ic": [
-    "verify phone, email, advisor, or owner route",
-    "add valuation anchor before investment discussion"
+    "material new evidence"
   ],
   "allowed_exports": [
     "watch_note"
-  ]
+  ],
+  "status": "watchlist_only",
+  "source_quality": "verified_profile",
+  "target_universe_type": "operating_sme",
+  "evidence_checks": {
+    "legal_identity": true,
+    "sector_subsector": true,
+    "trading_proof": true,
+    "contact_route": true,
+    "founder_succession_signal": true,
+    "transaction_or_succession_angle": true,
+    "source_confidence": true
+  },
+  "missing_evidence": [
+    "material new evidence"
+  ],
+  "source_confidence": 74.0,
+  "gate_reasons": [
+    "legal or public identity evidence exists",
+    "trading proof is available for manual review",
+    "a public contact or source route is available",
+    "founder/succession-style signal is present",
+    "transaction or succession angle is visible"
+  ],
+  "score_penalty": 22.0,
+  "gate_adjusted_score": 10.1
 }

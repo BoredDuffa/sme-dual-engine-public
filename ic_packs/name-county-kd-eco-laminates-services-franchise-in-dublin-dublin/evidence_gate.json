@@ -1,18 +1,40 @@
 {
   "identity_key": "name_county:kd eco laminates services franchise in dublin:dublin",
   "target_name": "KD ECO+ Laminates - Services Franchise in Dublin",
-  "readiness": "blocked",
+  "readiness": "watchlist_only",
   "score": 31.7,
-  "evidence_gap_count": 5,
-  "blockers": [
-    "combined score below review threshold"
-  ],
+  "evidence_gap_count": 0,
+  "blockers": [],
   "required_before_ic": [
-    "confirm legal entity/CRO number",
-    "verify phone, email, advisor, or owner route",
-    "add valuation anchor before investment discussion"
+    "material new evidence"
   ],
   "allowed_exports": [
     "watch_note"
-  ]
+  ],
+  "status": "watchlist_only",
+  "source_quality": "live_listing",
+  "target_universe_type": "advertised_sale_listing",
+  "evidence_checks": {
+    "legal_identity": true,
+    "sector_subsector": true,
+    "trading_proof": true,
+    "contact_route": true,
+    "founder_succession_signal": true,
+    "transaction_or_succession_angle": true,
+    "source_confidence": true
+  },
+  "missing_evidence": [
+    "material new evidence"
+  ],
+  "source_confidence": 86.0,
+  "gate_reasons": [
+    "franchise/opportunity flag keeps this below investment-ready treatment",
+    "legal or public identity evidence exists",
+    "trading proof is available for manual review",
+    "a public contact or source route is available",
+    "founder/succession-style signal is present",
+    "transaction or succession angle is visible"
+  ],
+  "score_penalty": 22.0,
+  "gate_adjusted_score": 9.7
 }

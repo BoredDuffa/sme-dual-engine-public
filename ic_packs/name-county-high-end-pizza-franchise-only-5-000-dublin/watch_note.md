@@ -1,13 +1,12 @@
 # Watch Note: High End Pizza Franchise - Only €5,000
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 29.6
 
 ## Required Before IC
 
-- confirm legal entity/CRO number
-- verify phone, email, advisor, or owner route
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

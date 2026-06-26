@@ -1,13 +1,12 @@
 # Watch Note: Successful Pizza Business In North Dublin
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 41.9
 
 ## Required Before IC
 
-- confirm legal entity/CRO number
-- verify phone, email, advisor, or owner route
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

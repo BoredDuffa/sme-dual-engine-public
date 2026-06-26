@@ -1,14 +1,12 @@
 # Watch Note: KD ECO+ Laminates - Services Franchise in Dublin
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 31.7
 
 ## Required Before IC
 
-- confirm legal entity/CRO number
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- material new evidence
 
 ## Blockers
 
-- combined score below review threshold
+- none

@@ -1,13 +1,12 @@
 # Watch Note: 9TH IMPACT LIMITED
 
-Readiness: blocked
+Readiness: watchlist_only
 Score: 40.4
 
 ## Required Before IC
 
-- verify phone, email, advisor, or owner route
-- add valuation anchor before investment discussion
+- sector subsector
 
 ## Blockers
 
-- combined score below review threshold
+- none
