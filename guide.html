@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<link rel='icon' href='data:,'>
+<title>SME Dual Engine Guide</title>
+<style>
+:root{color-scheme:light;--ink:#16202b;--muted:#657282;--line:#dbe2ea;--soft:#f3f6f9;--blue:#1d5f95;--navy:#071b33}
+*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;margin:0;background:#eef2f5;color:var(--ink)}
+header{background:#fff;border-bottom:1px solid var(--line);padding:24px 28px;display:flex;justify-content:space-between;gap:16px;align-items:flex-end;flex-wrap:wrap}
+h1{margin:0 0 6px;font-size:28px;letter-spacing:0}p{margin:0;color:var(--muted);line-height:1.48}.nav{display:flex;gap:8px;flex-wrap:wrap}.nav a{border:1px solid var(--line);border-radius:4px;background:#f8fafc;color:var(--blue);font-weight:700;text-decoration:none;padding:8px 10px;font-size:13px}.nav a.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+main{padding:18px 24px 34px;max-width:1180px;margin:0 auto}.hero{background:var(--navy);color:#eef6ff;border-radius:6px;padding:18px;margin-bottom:14px}.hero p{color:#b7c8d8;max-width:820px}.guide-section{background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px;margin-bottom:14px}.guide-section h2{font-size:18px;margin:0 0 10px}.guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}.guide-grid article{border:1px solid var(--line);border-radius:4px;background:#f8fafc;padding:12px}.guide-grid h3{font-size:14px;margin:0 0 5px}.guide-grid p{font-size:13px}.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px}.flow div{border:1px solid #9fc4df;background:#edf5fb;border-radius:4px;padding:10px;font-size:13px;color:var(--ink)}.flow b{display:block;margin-bottom:4px;color:var(--ink)}@media(max-width:720px){header,main{padding-left:14px;padding-right:14px}}
+</style>
+</head>
+<body>
+<header><div><h1>SME Dual Engine Guide</h1><p>Plain-English guide to what the dashboard means and what each part does.</p></div><nav class='nav'><a class='primary' href='index.html'>Open dashboard</a><a href='priority_research_queue.md'>Priority queue</a><a href='weekly_review_report.md'>Weekly review</a></nav></header>
+<main>
+<section class='hero'><h2>Use the dashboard in this order</h2><div class='flow'><div><b>1. Start with priority research</b>Review operating SMEs before sale listings.</div><div><b>2. Click a company row</b>Read the score, source proof, and missing evidence.</div><div><b>3. Set a decision</b>Choose research, contact, watch, diligence, or decline.</div><div><b>4. Export</b>Download the visible list or selected target brief.</div></div><p>The scores are explainable triage signals. A high score should still be checked against the evidence gate before anyone treats the target seriously.</p></section>
+<section class='guide-section'><h2>What This Tool Is</h2><div class='guide-grid'>
+<article><h3>Purpose</h3><p>A public-safe demo of an Irish SME succession origination workflow.</p></article>
+<article><h3>Main job</h3><p>Help a reviewer decide which businesses deserve research, a call, a watchlist note, or no further time.</p></article>
+<article><h3>Private vs public</h3><p>The public site is sanitized. Private notes, credentials, and confidential contact history should stay outside it.</p></article>
+</div></section>
+<section class='guide-section'><h2>What To Test First</h2><div class='guide-grid'>
+<article><h3>Priority Research</h3><p>Open the first 40 operating SME targets ranked ahead of ordinary sale listings.</p></article>
+<article><h3>Evidence Gate</h3><p>Check whether a target is investment ready, origination ready, research needed, watchlist only, or discard.</p></article>
+<article><h3>Dual Engine Playground</h3><p>Move the Micro/Macro sliders and confirm the ranking changes in a way that makes business sense.</p></article>
+<article><h3>Selected Target Evidence</h3><p>Click a row and read why it scored, what proof exists, and what is still missing.</p></article>
+</div></section>
+<section class='guide-section'><h2>Key Terms</h2><div class='guide-grid'>
+<article><h3>Micro Engine</h3><p>Scores company-level fit: founder/succession angle, business quality, deal readiness, and contactability.</p></article>
+<article><h3>Macro Engine</h3><p>Scores outside context: sector demand, policy exposure, public spending, rates, labour, energy, and regulation.</p></article>
+<article><h3>Evidence Gate</h3><p>The control layer that stops weak evidence from looking like an investment-ready opportunity.</p></article>
+<article><h3>Gate-adjusted score</h3><p>The original score after evidence penalties. Weak sources lower the usable score.</p></article>
+<article><h3>Source confidence</h3><p>How strong the public source trail is for the target.</p></article>
+<article><h3>Target universe type</h3><p>Whether the row is an advertised sale listing, operating SME, public-profile target, or weak record.</p></article>
+<article><h3>Entity cluster</h3><p>Rows that appear to describe the same business grouped together.</p></article>
+</div></section>
+<section class='guide-section'><h2>Evidence Gate Statuses</h2><div class='guide-grid'>
+<article><h3>investment_ready</h3><p>Strong enough for serious IC-style treatment, subject to normal diligence.</p></article>
+<article><h3>origination_ready</h3><p>Strong enough for research or a first-call decision.</p></article>
+<article><h3>research_needed</h3><p>Interesting, but legal identity, source confidence, or trading proof still needs work.</p></article>
+<article><h3>watchlist_only</h3><p>Keep an eye on it, but do not spend major time yet.</p></article>
+<article><h3>discard</h3><p>Not suitable because evidence is too weak or the target is outside scope.</p></article>
+</div></section>
+<section class='guide-section'><h2>Important Downloads</h2><div class='guide-grid'>
+<article><h3>Priority research queue</h3><p>Best first worklist for Dylan or the boss.</p></article>
+<article><h3>Weekly review</h3><p>A summary of new, ready, research-needed, and discarded targets.</p></article>
+<article><h3>Readiness scorecard</h3><p>Whether the site is demo-ready or investment-grade.</p></article>
+<article><h3>Company work queue</h3><p>Rows still needed to close company-universe evidence gaps.</p></article>
+<article><h3>CRO company evidence</h3><p>Approved aggregate public company-count evidence currently used by the gate.</p></article>
+</div></section>
+<section class='guide-section'><h2>Known Limitations</h2><div class='guide-grid'>
+<article><h3>Not investment advice</h3><p>The site is a decision-support demo, not an automatic investment approval tool.</p></article>
+<article><h3>Public-source limits</h3><p>Some company-universe rows still need approved source metadata before investment-grade use.</p></article>
+<article><h3>No outreach automation</h3><p>The tool suggests research and contact decisions but does not contact businesses.</p></article>
+<article><h3>No private CRM</h3><p>Local review edits are browser-local unless exported; this is not yet a full CRM.</p></article>
+</div></section>
+</main>
+</body></html>
