@@ -49,6 +49,9 @@
   "sale_listing_refresh_report": "sale_listing_refresh.md",
   "sme_taxonomy_coverage": "sme_taxonomy_coverage.json",
   "evidence_gate_summary": "evidence_gate_summary.json",
+  "priority_research_queue": "priority_research_queue.json",
+  "priority_research_queue_report": "priority_research_queue.md",
+  "priority_research_queue_csv": "priority_research_queue.csv",
   "weekly_review_report": "weekly_review_report.md",
   "weekly_review_report_json": "weekly_review_report.json",
   "cso_business_demography_benchmark_csv": "benchmarks/cso-business-demography-benchmark-2023.csv",
@@ -95,6 +98,21 @@
   "target_universe_counts": {
     "advertised_sale_listing": 234,
     "operating_sme": 76
+  },
+  "priority_research_queue_status": "ready",
+  "priority_research_queue_rows": 40,
+  "priority_research_queue_counts": {
+    "by_priority_bucket": {
+      "1_operating_sme_priority_sector": 34,
+      "2_operating_sme_other_sector": 6
+    },
+    "by_target_universe_type": {
+      "operating_sme": 40
+    },
+    "by_evidence_gate_status": {
+      "origination_ready": 20,
+      "research_needed": 20
+    }
   },
   "sale_listing_refresh_status": "ok",
   "sale_listing_refresh_rows": 226,
