@@ -13,8 +13,8 @@
       "target_count": 113,
       "review_queue_count": 113,
       "sector_spend_rows": 6,
-      "company_universe_rows": 6,
-      "company_universe_total_companies": 46,
+      "company_universe_rows": 12,
+      "company_universe_total_companies": 55,
       "director_age_known_count": 0,
       "director_age_thresholds": {
         "50_plus": 0,

@@ -2,15 +2,15 @@
 
 - Status: `ready`
 - Market rows: 0
-- Company-universe rows: 93
-- Total rows: 93
+- Company-universe rows: 87
+- Total rows: 87
 
 ## Files
 
 | County | Kind | Rows | CSV | Notes |
 | --- | --- | ---: | --- | --- |
 | Galway | market | 0 | `galway-market.csv` | `galway-market.md` |
-| Galway | company | 48 | `galway-company.csv` | `galway-company.md` |
+| Galway | company | 42 | `galway-company.csv` | `galway-company.md` |
 | Dublin | market | 0 | `dublin-market.csv` | `dublin-market.md` |
 | Dublin | company | 45 | `dublin-company.csv` | `dublin-company.md` |
 

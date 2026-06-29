@@ -1,12 +1,12 @@
 {
   "status": "data_room_required",
-  "approved_rows": 27,
+  "approved_rows": 33,
   "expected_rows": 120,
-  "gap_count": 93,
-  "company_universe_request_rows": 93,
+  "gap_count": 87,
+  "company_universe_request_rows": 87,
   "wave_count": 5,
   "sale_listing_rows": 226,
-  "summary": "The dashboard is interactive and public-safe, but 93 source rows still need approved company-count evidence and source metadata before investment-grade use.",
+  "summary": "The dashboard is interactive and public-safe, but 87 source rows still need approved company-count evidence and source metadata before investment-grade use.",
   "downloads": [
     {
       "label": "Company collection plan",
@@ -21,7 +21,7 @@
       "path": "company_universe_request/company-universe-work-queue.csv"
     },
     {
-      "label": "CRO company evidence",
+      "label": "Company-count evidence",
       "path": "cro_company_evidence/cro-company-count-evidence.csv"
     }
   ],
@@ -30,7 +30,7 @@
       "priority": 1,
       "item": "Approved company-count evidence",
       "owner": "Research operator using approved public/company-registry sources",
-      "required_for": "93 company-universe rows that need approved counts or metadata.",
+      "required_for": "87 company-universe rows that need approved counts or metadata.",
       "accepted_format": "Completed company-universe-wave-N.csv rows with company_count, source_note, source_url, source_date, and approved_by filled.",
       "approval_gate": "Strict company-universe preflight passes with no missing company_count or approval metadata.",
       "public_policy": "Publish aggregate company-count evidence only; do not publish private enrichment exports.",

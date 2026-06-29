@@ -1,11 +1,22 @@
 {
   "status": "ready",
   "source": {
-    "name": "CRO Company Records",
+    "name": "Combined company-count evidence",
     "url": "https://opendata.cro.ie/dataset/companies",
-    "csv_zip_url": "https://opendata.cro.ie/dataset/bf6f837d-0946-4c14-9a99-82cd6980c121/resource/3fef41bc-b8f4-4b10-8434-ce51c29b1bba/download/companies.csv.zip",
-    "resource_id": "3fef41bc-b8f4-4b10-8434-ce51c29b1bba",
-    "source_date": "2026-06-25"
+    "source_date": "2026-06-29",
+    "components": [
+      {
+        "name": "CRO Company Records evidence CSV",
+        "source_date": "2026-06-29",
+        "source_path": "docs/evidence/cro-company-count-evidence-2026-06-25/cro-company-count-evidence.csv"
+      },
+      {
+        "name": "Public-safe operating SME/profile target evidence",
+        "url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+        "source_date": "2026-06-29",
+        "source_path": "samples/galway-sme-dashboard-expanded-public.json"
+      }
+    ]
   },
   "rows": [
     {
@@ -14,7 +25,7 @@
       "region_label": "Dublin / Blanchardstown / West Dublin",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 11,
+      "company_count": "11",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -26,7 +37,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 11
+      "active_company_records_sampled": "11"
     },
     {
       "county": "Dublin",
@@ -34,7 +45,7 @@
       "region_label": "Dublin / Dublin 2 / Docklands",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 172,
+      "company_count": "172",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -46,7 +57,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 172
+      "active_company_records_sampled": "172"
     },
     {
       "county": "Dublin",
@@ -54,7 +65,7 @@
       "region_label": "Dublin / Dublin 4 / Ballsbridge",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 39,
+      "company_count": "39",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -66,7 +77,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 39
+      "active_company_records_sampled": "39"
     },
     {
       "county": "Dublin",
@@ -74,7 +85,7 @@
       "region_label": "Dublin / Dublin 6 / Rathmines",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 16,
+      "company_count": "16",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -86,7 +97,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 16
+      "active_company_records_sampled": "16"
     },
     {
       "county": "Dublin",
@@ -94,7 +105,7 @@
       "region_label": "Dublin / Dublin 8 / Liberties",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 18,
+      "company_count": "18",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -106,7 +117,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 18
+      "active_company_records_sampled": "18"
     },
     {
       "county": "Dublin",
@@ -114,7 +125,7 @@
       "region_label": "Dublin / Dublin City Centre",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 156,
+      "company_count": "156",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -126,7 +137,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 156
+      "active_company_records_sampled": "156"
     },
     {
       "county": "Dublin",
@@ -134,7 +145,7 @@
       "region_label": "Dublin / Dun Laoghaire / South County",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 9,
+      "company_count": "9",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -146,7 +157,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 9
+      "active_company_records_sampled": "9"
     },
     {
       "county": "Dublin",
@@ -154,7 +165,7 @@
       "region_label": "Dublin / Swords / North County",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 4,
+      "company_count": "4",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -166,7 +177,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 4
+      "active_company_records_sampled": "4"
     },
     {
       "county": "Dublin",
@@ -174,7 +185,7 @@
       "region_label": "Dublin / Tallaght / South West",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 1,
+      "company_count": "1",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -186,7 +197,47 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 1
+      "active_company_records_sampled": "1"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Consumer Discretionary",
+      "gics_industry_group": "Consumer Services",
+      "company_count": 2,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 2
+    },
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Consumer Staples",
+      "gics_industry_group": "Food, Beverage & Tobacco",
+      "company_count": 3,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 3
     },
     {
       "county": "Galway",
@@ -194,7 +245,7 @@
       "region_label": "Galway / Galway City",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 25,
+      "company_count": "25",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -206,7 +257,27 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 25
+      "active_company_records_sampled": "25"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Galway City",
+      "region_label": "Galway / Galway City",
+      "gics_sector": "Information Technology",
+      "gics_industry_group": "Software & Services",
+      "company_count": 1,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 1
     },
     {
       "county": "Galway",
@@ -214,7 +285,7 @@
       "region_label": "Galway / Gort",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 1,
+      "company_count": "1",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -225,6 +296,26 @@
       "source_date": "2026-06-25",
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": "1"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Loughrea",
+      "region_label": "Galway / Loughrea",
+      "gics_sector": "Consumer Staples",
+      "gics_industry_group": "Food, Beverage & Tobacco",
+      "company_count": 1,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
       "director_age_gap": "",
       "active_company_records_sampled": 1
     },
@@ -234,7 +325,7 @@
       "region_label": "Galway / Loughrea",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 1,
+      "company_count": "1",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -246,7 +337,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 1
+      "active_company_records_sampled": "1"
     },
     {
       "county": "Galway",
@@ -254,7 +345,7 @@
       "region_label": "Galway / Oranmore",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 10,
+      "company_count": "10",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -266,7 +357,7 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 10
+      "active_company_records_sampled": "10"
     },
     {
       "county": "Galway",
@@ -274,7 +365,7 @@
       "region_label": "Galway / Salthill",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 3,
+      "company_count": "3",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -286,7 +377,27 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 3
+      "active_company_records_sampled": "3"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Salthill",
+      "region_label": "Galway / Salthill",
+      "gics_sector": "Information Technology",
+      "gics_industry_group": "Software & Services",
+      "company_count": 1,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 1
     },
     {
       "county": "Galway",
@@ -294,7 +405,7 @@
       "region_label": "Galway / Tuam",
       "gics_sector": "Industrials",
       "gics_industry_group": "Commercial & Professional Services",
-      "company_count": 6,
+      "company_count": "6",
       "director_50_plus_count": "",
       "director_55_plus_count": "",
       "director_60_plus_count": "",
@@ -306,33 +417,50 @@
       "approved_by": "Benjamin Falkenburg",
       "approval_status": "approved_company_count_evidence",
       "director_age_gap": "",
-      "active_company_records_sampled": 6
+      "active_company_records_sampled": "6"
+    },
+    {
+      "county": "Galway",
+      "local_area": "Tuam",
+      "region_label": "Galway / Tuam",
+      "gics_sector": "Information Technology",
+      "gics_industry_group": "Software & Services",
+      "company_count": 1,
+      "director_50_plus_count": "",
+      "director_55_plus_count": "",
+      "director_60_plus_count": "",
+      "director_65_plus_count": "",
+      "director_70_plus_count": "",
+      "source_note": "Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census.",
+      "source_url": "https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json",
+      "source_date": "2026-06-29",
+      "approved_by": "Benjamin Falkenburg",
+      "approval_status": "approved_observed_company_count_evidence",
+      "director_age_gap": "",
+      "active_company_records_sampled": 1
     }
   ],
   "counts": {
-    "input_records": 472,
-    "deduped_active_company_records": 472,
-    "output_rows": 15,
-    "total_company_count": 472,
-    "inactive_rows": 0,
-    "outside_galway_dublin_rows": 0,
-    "outside_configured_local_area_rows": 0,
-    "outside_supported_sector_rows": 0,
-    "duplicate_company_rows": 0
+    "input_reports": 2,
+    "output_rows": 21,
+    "total_company_count": 481,
+    "duplicates_replaced": 0,
+    "duplicate_rows_ignored": 1
   },
   "approval_blockers": [],
-  "fetch": {
-    "mode": "fetch_all_galway_dublin",
-    "page_size": 1000,
-    "max_records": 0,
-    "partial": false,
-    "pages": [
-      {
-        "offset": 0,
-        "limit": 1000,
-        "records": 472
-      }
-    ],
-    "errors": []
+  "components": {
+    "cro": {
+      "output_rows": 15,
+      "total_company_count": 472
+    },
+    "observed_public_profiles": {
+      "input_targets": 310,
+      "output_rows": 7,
+      "total_company_count": 11,
+      "advertised_sale_listing_rows": 215,
+      "outside_galway_dublin_rows": 0,
+      "outside_configured_local_area_rows": 83,
+      "outside_supported_sector_rows": 1
+    }
   }
 }

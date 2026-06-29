@@ -2,7 +2,7 @@
   "status": "sample_or_incomplete",
   "score": 84,
   "issues": [
-    "Approved source collection is 27 of 120 rows."
+    "Approved source collection is 33 of 120 rows."
   ],
   "warnings": [],
   "coverage": {
@@ -19,7 +19,7 @@
       "Galway"
     ],
     "sector_spend_rows": 12,
-    "company_universe_rows": 15,
-    "company_universe_total_companies": 472
+    "company_universe_rows": 21,
+    "company_universe_total_companies": 481
   }
 }

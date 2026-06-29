@@ -1,19 +1,10 @@
 # CRO Company Count Evidence
 
 - Status: `ready`
-- Source: [CRO Company Records](https://opendata.cro.ie/dataset/companies)
-- Source date: 2026-06-25
-- Output rows: 15
-- Total company count: 472
-
-## Fetch Status
-
-- Mode: `fetch_all_galway_dublin`
-- Page size: 1000
-- Max records: uncapped
-- Partial: `False`
-- Pages fetched: 1
-- Fetch errors: 0
+- Source: [Combined company-count evidence](https://opendata.cro.ie/dataset/companies)
+- Source date: 2026-06-29
+- Output rows: 21
+- Total company count: 481
 
 ## Approval Status
 
@@ -22,4 +13,5 @@
 ## Use
 
 - Use this artifact to validate company-count coverage by county, local area, and GICS sector.
+- Rows labelled as observed lower-bound public-profile evidence are directional coverage, not a full company census.
 - Merge rows only after source approval metadata is complete.

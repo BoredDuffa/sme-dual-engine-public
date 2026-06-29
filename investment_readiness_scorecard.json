@@ -3,22 +3,22 @@
   "headline": "Interactive public demo is live; investment-grade approval still needs company-universe evidence.",
   "readiness_score": 84,
   "readiness_status": "sample_or_incomplete",
-  "approved_rows": 27,
+  "approved_rows": 33,
   "expected_rows": 120,
-  "approved_pct": 22.5,
-  "gap_count": 93,
+  "approved_pct": 27.5,
+  "gap_count": 87,
   "ranked_targets": 310,
   "advertised_sale_listings": 226,
   "refreshed_sale_listings": 226,
   "collection_waves": 5,
-  "company_universe_request_rows": 93,
+  "company_universe_request_rows": 87,
   "taxonomy_sector_count": 15,
   "taxonomy_subsector_count": 104,
   "observed_subsector_count": 35,
   "decision": {
     "can_share_with_boss": true,
     "can_use_for_investment_decisions": false,
-    "why_not_investment_ready": "93 company-universe rows still need approved company-count evidence and source metadata."
+    "why_not_investment_ready": "87 company-universe rows still need approved company-count evidence and source metadata."
   },
   "scorecard": [
     {
@@ -39,7 +39,7 @@
     {
       "area": "Approved source rows",
       "status": "blocked",
-      "evidence": "27 of 120 approved source rows are complete (22.5%)."
+      "evidence": "33 of 120 approved source rows are complete (27.5%)."
     },
     {
       "area": "Company evidence gate",

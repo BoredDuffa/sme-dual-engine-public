@@ -1,12 +1,12 @@
 {
   "status": "source_rows_needed",
   "market_data_path": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data_path": "docs/evidence/cro-company-count-evidence-2026-06-25/cro-company-count-evidence.csv",
+  "company_data_path": "docs/evidence/company-count-evidence-2026-06-29/cro-company-count-evidence.csv",
   "summary": {
     "total_rows": 120,
     "by_status": {
-      "approved": 27,
-      "missing_row": 93
+      "approved": 33,
+      "missing_row": 87
     },
     "by_county": {
       "Dublin": {
@@ -17,9 +17,9 @@
       },
       "Galway": {
         "total": 60,
-        "approved": 12,
+        "approved": 18,
         "needs_approved_source": 0,
-        "missing_row": 48
+        "missing_row": 42
       }
     }
   },
@@ -213,15 +213,15 @@
       "county": "Galway",
       "local_area": "Galway City",
       "gics_sector": "Consumer Discretionary",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {
@@ -229,15 +229,15 @@
       "county": "Galway",
       "local_area": "Galway City",
       "gics_sector": "Consumer Staples",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {
@@ -261,15 +261,15 @@
       "county": "Galway",
       "local_area": "Galway City",
       "gics_sector": "Information Technology",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Galway+City&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Galway+City&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {
@@ -357,15 +357,15 @@
       "county": "Galway",
       "local_area": "Salthill",
       "gics_sector": "Information Technology",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Salthill%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Salthill%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {
@@ -645,15 +645,15 @@
       "county": "Galway",
       "local_area": "Tuam",
       "gics_sector": "Information Technology",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Tuam%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Tuam%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {
@@ -709,15 +709,15 @@
       "county": "Galway",
       "local_area": "Loughrea",
       "gics_sector": "Consumer Staples",
-      "row_status": "missing_row",
-      "missing_fields": "gics_industry_group, company_count, source_note, source_url, source_date, approved_by",
+      "row_status": "approved",
+      "missing_fields": "",
       "primary_source": "CRO Open Services",
       "primary_source_url": "https://services.cro.ie/",
       "backup_source": "CRO Access to Data / Open Data Portal",
       "backup_source_url": "https://cro.ie/services-and-help/access-to-cro-data/",
       "cro_address_count_url": "https://services.cro.ie/cws/companycount?company_bus_ind=C&address=Loughrea%2C+Galway&format=json",
       "cro_address_search_url": "https://services.cro.ie/cws/companies?company_bus_ind=C&address=Loughrea%2C+Galway&format=json&skip=0&max=250&sortBy=company_name&sortDir=asc",
-      "collection_action": "Generate or collect active company counts plus source approval metadata for this local area and sector.",
+      "collection_action": "No action needed unless the source is refreshed.",
       "target_output": "approved-company-universe-template.csv"
     },
     {

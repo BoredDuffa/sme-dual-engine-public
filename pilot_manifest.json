@@ -3,7 +3,7 @@
   "mode": "public_galway_dublin_dashboard",
   "input": "samples/galway-sme-dashboard-expanded-public.json",
   "market_data": "docs/approved-data/cso-allocated-market-data-2022.csv",
-  "company_data": "docs/evidence/cro-company-count-evidence-2026-06-25/cro-company-count-evidence.csv",
+  "company_data": "docs/evidence/company-count-evidence-2026-06-29/cro-company-count-evidence.csv",
   "target_count": 326,
   "entity_count": 310,
   "assessment_count": 310,
@@ -11,7 +11,7 @@
   "readiness_status": "sample_or_incomplete",
   "readiness_score": 84,
   "readiness_issues": [
-    "Approved source collection is 27 of 120 rows."
+    "Approved source collection is 33 of 120 rows."
   ],
   "dashboard": "index.html",
   "guide": "guide.html",
@@ -62,33 +62,33 @@
   "collection_pack_status": "ready",
   "collection_pack_counts": {
     "market_rows": 0,
-    "company_rows": 93,
-    "total_rows": 93
+    "company_rows": 87,
+    "total_rows": 87
   },
   "company_universe_export_request_status": "ready",
   "company_universe_export_request_counts": {
-    "request_rows": 93,
+    "request_rows": 87,
     "by_county": {
       "Dublin": 45,
-      "Galway": 48
+      "Galway": 42
     },
     "by_gap_type": {
-      "missing_row": 93
+      "missing_row": 87
     }
   },
   "company_universe_collection_plan_status": "ready",
   "company_universe_collection_plan_waves": 5,
   "company_universe_collection_plan_active_wave_rows": 20,
   "company_universe_work_queue_status": "open",
-  "company_universe_work_queue_open_items": 93,
+  "company_universe_work_queue_open_items": 87,
   "company_universe_wave_1_rows": 20,
   "company_universe_wave_csv_count": 5,
   "data_room_checklist_status": "data_room_required",
-  "data_room_checklist_gap_count": 93,
+  "data_room_checklist_gap_count": 87,
   "investment_readiness_scorecard_status": "demo_ready_data_room_required",
   "investment_readiness_scorecard_investment_ready": false,
   "collection_progress_status": "collection_in_progress",
-  "collection_progress_pct": 22.5,
+  "collection_progress_pct": 27.5,
   "evidence_gate_counts": {
     "investment_ready": 1,
     "origination_ready": 89,

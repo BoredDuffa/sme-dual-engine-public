@@ -4,8 +4,8 @@ Interactive public demo is live; investment-grade approval still needs company-u
 
 - Status: demo_ready_data_room_required
 - Data readiness: 84 / sample_or_incomplete
-- Approved source rows: 27 / 120 (22.5%)
-- Company-universe gaps: 93
+- Approved source rows: 33 / 120 (27.5%)
+- Company-universe gaps: 87
 - Ranked targets: 310
 - Advertised sale listings: 226
 - Collection waves: 5
@@ -14,7 +14,7 @@ Interactive public demo is live; investment-grade approval still needs company-u
 
 - Shareable with boss: True
 - Investment-grade use: False
-- Why: 93 company-universe rows still need approved company-count evidence and source metadata.
+- Why: 87 company-universe rows still need approved company-count evidence and source metadata.
 
 ## Scorecard
 
@@ -23,7 +23,7 @@ Interactive public demo is live; investment-grade approval still needs company-u
 | Interactive site | ready | 310 ranked public targets are available in the dashboard. |
 | Live sale feed | ready | 226 advertised sale listings are published; 226 came from the latest public refresh. |
 | Sector taxonomy | ready | 15 sectors and 104 subsectors are configured; 35 subsectors currently have observed targets/listings/evidence. |
-| Approved source rows | blocked | 27 of 120 approved source rows are complete (22.5%). |
+| Approved source rows | blocked | 33 of 120 approved source rows are complete (27.5%). |
 | Company evidence gate | blocked | Approved company-count evidence and source metadata are required before investment decisions. |
 
 ## Next Gate

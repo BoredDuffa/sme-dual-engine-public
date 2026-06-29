@@ -7,29 +7,25 @@
 
 | Status | Rows |
 | --- | --- |
-| approved | 27 |
-| missing_row | 93 |
+| approved | 33 |
+| missing_row | 87 |
 
 ## By County
 
 | County | Total | Approved | Needs approved source | Missing row |
 | --- | --- | --- | --- | --- |
 | Dublin | 60 | 15 | 0 | 45 |
-| Galway | 60 | 12 | 0 | 48 |
+| Galway | 60 | 18 | 0 | 42 |
 
 ## Next Rows To Source
 
 | Kind | County | Area | Sector | Status | Missing fields | Primary source |
 | --- | --- | --- | --- | --- | --- | --- |
-| company_universe | Galway | Galway City | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
-| company_universe | Galway | Galway City | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Galway City | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
-| company_universe | Galway | Galway City | Information Technology | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Galway City | Financials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Salthill | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Salthill | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Salthill | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
-| company_universe | Galway | Salthill | Information Technology | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Salthill | Financials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Oranmore | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Oranmore | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
@@ -45,10 +41,8 @@
 | company_universe | Galway | Tuam | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Tuam | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Tuam | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
-| company_universe | Galway | Tuam | Information Technology | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Tuam | Financials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Loughrea | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
-| company_universe | Galway | Loughrea | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Loughrea | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Loughrea | Information Technology | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Loughrea | Financials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
@@ -61,6 +55,12 @@
 | company_universe | Galway | Gort | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Gort | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 | company_universe | Galway | Gort | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Gort | Information Technology | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Gort | Financials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Clifden / Connemara | Industrials | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Clifden / Connemara | Consumer Discretionary | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Clifden / Connemara | Consumer Staples | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
+| company_universe | Galway | Clifden / Connemara | Health Care | missing_row | gics_industry_group, company_count, source_note, source_url, source_date, approved_by | CRO Open Services |
 
 ## Operator Notes
 

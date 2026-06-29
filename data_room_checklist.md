@@ -1,22 +1,22 @@
 # Investment-Grade Data Room Checklist
 
 - Status: `data_room_required`
-- Approved rows: 27 / 120
-- Remaining row gaps: 93
-- Company-universe request rows: 93
+- Approved rows: 33 / 120
+- Remaining row gaps: 87
+- Company-universe request rows: 87
 - Collection waves: 5
 - Advertised sale listings: 226
 
 ## Summary
 
-The dashboard is interactive and public-safe, but 93 source rows still need approved company-count evidence and source metadata before investment-grade use.
+The dashboard is interactive and public-safe, but 87 source rows still need approved company-count evidence and source metadata before investment-grade use.
 
 ## Downloads
 
 - [Company collection plan](company_universe_request/company-universe-collection-plan.md)
 - [Company export request](company_universe_request/company-universe-export-request.csv)
 - [Company work queue](company_universe_request/company-universe-work-queue.csv)
-- [CRO company evidence](cro_company_evidence/cro-company-count-evidence.csv)
+- [Company-count evidence](cro_company_evidence/cro-company-count-evidence.csv)
 
 ## Required Data
 
@@ -24,7 +24,7 @@ The dashboard is interactive and public-safe, but 93 source rows still need appr
 
 - Status: `required`
 - Owner: Research operator using approved public/company-registry sources
-- Required for: 93 company-universe rows that need approved counts or metadata.
+- Required for: 87 company-universe rows that need approved counts or metadata.
 - Accepted format: Completed company-universe-wave-N.csv rows with company_count, source_note, source_url, source_date, and approved_by filled.
 - Approval gate: Strict company-universe preflight passes with no missing company_count or approval metadata.
 - Public/private rule: Publish aggregate company-count evidence only; do not publish private enrichment exports.

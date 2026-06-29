@@ -2,22 +2,22 @@
 
 - Status: `collection_in_progress`
 - Expected rows: 120
-- Approved rows: 27
-- Approved progress: 22.5%
-- Remaining gap count: 93
+- Approved rows: 33
+- Approved progress: 27.5%
+- Remaining gap count: 87
 
 ## By Source Type
 
 | Type | Expected | Loaded | Approved | Loaded % | Approved % | Placeholders | Missing approval |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | market | 12 | 12 | 12 | 100.0 | 100.0 | 0 | 0 |
-| company_universe | 108 | 15 | 15 | 13.9 | 13.9 | 0 | 0 |
+| company_universe | 108 | 21 | 21 | 19.4 | 19.4 | 0 | 0 |
 
 ## By County
 
 | County | Market approved | Market % | Company approved | Company % |
 | --- | --- | --- | --- | --- |
-| Galway | 6 | 100.0 | 6 | 11.1 |
+| Galway | 6 | 100.0 | 12 | 22.2 |
 | Dublin | 6 | 100.0 | 9 | 16.7 |
 
 ## By Source Note
@@ -26,3 +26,4 @@
 | --- | --- | --- | --- | --- |
 | CRO Company Records open-data daily snapshot; company-count evidence by local area and sector. | 0 | 15 | 15 | 0 |
 | CSO allocated market estimate: 2022 national turnover from AIA30/ANA13/BAA14 allocated to Galway/Dublin by 2023 BRA34 active-enterprise share and mapped to SME Dual Engine starter sectors. | 12 | 0 | 12 | 0 |
+| Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census. | 0 | 6 | 6 | 0 |

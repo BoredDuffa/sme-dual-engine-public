@@ -6,7 +6,7 @@
   "multi_source_subsector_count": 14,
   "ranked_target_count": 95,
   "sale_listing_count": 215,
-  "company_count_evidence_total": 472,
+  "company_count_evidence_total": 481,
   "rows": [
     {
       "sector": "Business Services",
@@ -22,8 +22,8 @@
       "subsector": "Bars & pubs",
       "ranked_targets": 25,
       "sale_listings": 75,
-      "company_count_evidence": 0,
-      "observed_rows": 100,
+      "company_count_evidence": 9,
+      "observed_rows": 106,
       "coverage_status": "multi_source_observed"
     },
     {

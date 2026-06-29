@@ -2,8 +2,8 @@
   "status": "ready",
   "counts": {
     "market_rows": 0,
-    "company_rows": 93,
-    "total_rows": 93
+    "company_rows": 87,
+    "total_rows": 87
   },
   "files": [
     {
@@ -16,7 +16,7 @@
     {
       "county": "Galway",
       "kind": "company",
-      "rows": 48,
+      "rows": 42,
       "csv": "tmp/public-dashboard-build/collection_packs/galway-company.csv",
       "markdown": "tmp/public-dashboard-build/collection_packs/galway-company.md"
     },
