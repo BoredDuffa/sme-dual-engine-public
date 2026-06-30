@@ -4145,470 +4145,6 @@
       }
     },
     {
-      "identity_key": "cro:72100",
-      "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
-      "slug": "cro-72100",
-      "readiness": "discard",
-      "score": 24.4,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-72100/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-72100/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-72100/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-72100/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-72100/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:bonordic in dublin:dublin",
-      "target_name": "Bonordic in Dublin",
-      "slug": "name-county-bonordic-in-dublin-dublin",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in galway:galway",
-      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
-      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in swords:dublin",
-      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
-      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:energie fitness in dublin:dublin",
-      "target_name": "Energie fitness in Dublin",
-      "slug": "name-county-energie-fitness-in-dublin-dublin",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:energie fitness in swords:dublin",
-      "target_name": "Energie fitness in Swords",
-      "slug": "name-county-energie-fitness-in-swords-dublin",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "name_county:young engineers franchise in dublin:dublin",
-      "target_name": "Young Engineers Franchise in Dublin",
-      "slug": "name-county-young-engineers-franchise-in-dublin-dublin",
-      "readiness": "discard",
-      "score": 23.6,
-      "evidence_gap_count": 0,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:462330",
-      "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
-      "slug": "cro-462330",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-462330/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-462330/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-462330/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-462330/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-462330/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:360393",
-      "target_name": "36 O'CONNELL STREET MANAGEMENT LIMITED",
-      "slug": "cro-360393",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-360393/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-360393/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-360393/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-360393/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-360393/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:470032",
-      "target_name": "3D VENTURES LIMITED",
-      "slug": "cro-470032",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-470032/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-470032/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-470032/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-470032/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-470032/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:226593",
-      "target_name": "A & M. DISTRIBUTORS LIMITED",
-      "slug": "cro-226593",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-226593/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-226593/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-226593/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-226593/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-226593/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:189250",
-      "target_name": "A & P AVIATION LIMITED",
-      "slug": "cro-189250",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-189250/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-189250/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-189250/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-189250/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-189250/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:346214",
-      "target_name": "A.1. DEV CHIMNEY CO. LIMITED",
-      "slug": "cro-346214",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-346214/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-346214/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-346214/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-346214/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-346214/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:58944",
-      "target_name": "A. B. C. CUISINES LIMITED",
-      "slug": "cro-58944",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-58944/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-58944/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-58944/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-58944/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-58944/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:465159",
-      "target_name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
-      "slug": "cro-465159",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-465159/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-465159/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-465159/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-465159/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-465159/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:240545",
-      "target_name": "A.E.R. LIMITED",
-      "slug": "cro-240545",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-240545/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-240545/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-240545/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-240545/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-240545/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:347425",
-      "target_name": "A. G. FEED LIMITED",
-      "slug": "cro-347425",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-347425/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-347425/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-347425/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-347425/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-347425/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:75533",
-      "target_name": "A. K. D. LIMITED",
-      "slug": "cro-75533",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-75533/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-75533/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-75533/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-75533/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-75533/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:322344",
-      "target_name": "A. LOOK LIMITED",
-      "slug": "cro-322344",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-322344/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-322344/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-322344/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-322344/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-322344/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:214417",
-      "target_name": "A.M. & D. LIMITED",
-      "slug": "cro-214417",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-214417/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-214417/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-214417/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-214417/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-214417/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:162537",
-      "target_name": "A.M.T. GALWAY LIMITED",
-      "slug": "cro-162537",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-162537/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-162537/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-162537/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-162537/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-162537/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:157217",
-      "target_name": "GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA",
-      "slug": "cro-157217",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-157217/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-157217/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-157217/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-157217/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-157217/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:369982",
-      "target_name": "GARDEN PRIDE TOOL HIRE LIMITED",
-      "slug": "cro-369982",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-369982/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-369982/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-369982/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-369982/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-369982/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:345282",
-      "target_name": "LAWN RANGER LIMITED",
-      "slug": "cro-345282",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-345282/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-345282/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-345282/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-345282/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-345282/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:106973",
-      "target_name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
-      "slug": "cro-106973",
-      "readiness": "discard",
-      "score": 23.1,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-106973/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-106973/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-106973/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-106973/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-106973/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:270945",
-      "target_name": "40 DEGREES LIMITED",
-      "slug": "cro-270945",
-      "readiness": "discard",
-      "score": 21.0,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-270945/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-270945/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-270945/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-270945/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-270945/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:406809",
-      "target_name": "4D SOFTWARE LIMITED",
-      "slug": "cro-406809",
-      "readiness": "discard",
-      "score": 21.0,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-406809/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-406809/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-406809/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-406809/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-406809/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:328171",
-      "target_name": "A J D DEVELOPMENTS LIMITED",
-      "slug": "cro-328171",
-      "readiness": "discard",
-      "score": 21.0,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-328171/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328171/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328171/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328171/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-328171/watch_note.md"
-      }
-    },
-    {
-      "identity_key": "cro:217915",
-      "target_name": "A.M. & D. HOLDINGS LIMITED",
-      "slug": "cro-217915",
-      "readiness": "discard",
-      "score": 21.0,
-      "evidence_gap_count": 1,
-      "relative_html": null,
-      "relative_markdown": "ic_packs/cro-217915/watch_note.md",
-      "written": {
-        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-217915/evidence_gate.json",
-        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-217915/diligence_plan.json",
-        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-217915/review_context.json",
-        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-217915/watch_note.md"
-      }
-    },
-    {
       "identity_key": "name_county:cappuccino bar:dublin",
       "target_name": "The Cappuccino Bar",
       "slug": "name-county-cappuccino-bar-dublin",
@@ -5294,6 +4830,470 @@
         "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-463334/diligence_plan.json",
         "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-463334/review_context.json",
         "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-463334/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:462330",
+      "target_name": "2TYPE3 SUSTAINABILITY PARTNERS LIMITED",
+      "slug": "cro-462330",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-462330/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-462330/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-462330/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-462330/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-462330/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:360393",
+      "target_name": "36 O'CONNELL STREET MANAGEMENT LIMITED",
+      "slug": "cro-360393",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-360393/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-360393/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-360393/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-360393/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-360393/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:470032",
+      "target_name": "3D VENTURES LIMITED",
+      "slug": "cro-470032",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-470032/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-470032/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-470032/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-470032/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-470032/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:270945",
+      "target_name": "40 DEGREES LIMITED",
+      "slug": "cro-270945",
+      "readiness": "discard",
+      "score": 21.0,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-270945/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-270945/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-270945/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-270945/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-270945/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:406809",
+      "target_name": "4D SOFTWARE LIMITED",
+      "slug": "cro-406809",
+      "readiness": "discard",
+      "score": 21.0,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-406809/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-406809/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-406809/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-406809/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-406809/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:226593",
+      "target_name": "A & M. DISTRIBUTORS LIMITED",
+      "slug": "cro-226593",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-226593/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-226593/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-226593/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-226593/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-226593/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:189250",
+      "target_name": "A & P AVIATION LIMITED",
+      "slug": "cro-189250",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-189250/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-189250/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-189250/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-189250/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-189250/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:346214",
+      "target_name": "A.1. DEV CHIMNEY CO. LIMITED",
+      "slug": "cro-346214",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-346214/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-346214/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-346214/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-346214/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-346214/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:58944",
+      "target_name": "A. B. C. CUISINES LIMITED",
+      "slug": "cro-58944",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-58944/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-58944/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-58944/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-58944/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-58944/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:465159",
+      "target_name": "A.B.V.G. (A BRIGHTER VISION GENERALLY) LIMITED",
+      "slug": "cro-465159",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-465159/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-465159/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-465159/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-465159/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-465159/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:240545",
+      "target_name": "A.E.R. LIMITED",
+      "slug": "cro-240545",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-240545/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-240545/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-240545/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-240545/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-240545/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:347425",
+      "target_name": "A. G. FEED LIMITED",
+      "slug": "cro-347425",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-347425/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-347425/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-347425/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-347425/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-347425/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:328171",
+      "target_name": "A J D DEVELOPMENTS LIMITED",
+      "slug": "cro-328171",
+      "readiness": "discard",
+      "score": 21.0,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-328171/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-328171/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-328171/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-328171/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-328171/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:75533",
+      "target_name": "A. K. D. LIMITED",
+      "slug": "cro-75533",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-75533/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-75533/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-75533/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-75533/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-75533/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:322344",
+      "target_name": "A. LOOK LIMITED",
+      "slug": "cro-322344",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-322344/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-322344/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-322344/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-322344/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-322344/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:214417",
+      "target_name": "A.M. & D. LIMITED",
+      "slug": "cro-214417",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-214417/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-214417/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-214417/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-214417/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-214417/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:217915",
+      "target_name": "A.M. & D. HOLDINGS LIMITED",
+      "slug": "cro-217915",
+      "readiness": "discard",
+      "score": 21.0,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-217915/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-217915/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-217915/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-217915/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-217915/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:162537",
+      "target_name": "A.M.T. GALWAY LIMITED",
+      "slug": "cro-162537",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-162537/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-162537/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-162537/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-162537/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-162537/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:72100",
+      "target_name": "A. O'TOOLE (CONFECTIONERS) LIMITED",
+      "slug": "cro-72100",
+      "readiness": "discard",
+      "score": 24.4,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-72100/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-72100/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-72100/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-72100/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-72100/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:bonordic in dublin:dublin",
+      "target_name": "Bonordic in Dublin",
+      "slug": "name-county-bonordic-in-dublin-dublin",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-bonordic-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in galway:galway",
+      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Galway",
+      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-galway-galway/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:brian tracy solutions leadership & sales training consultancy in swords:dublin",
+      "target_name": "Brian Tracy Solutions Leadership & Sales Training Consultancy in Swords",
+      "slug": "name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-brian-tracy-solutions-leadership-sales-training-consultancy-in-swords-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:energie fitness in dublin:dublin",
+      "target_name": "Energie fitness in Dublin",
+      "slug": "name-county-energie-fitness-in-dublin-dublin",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-dublin-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:energie fitness in swords:dublin",
+      "target_name": "Energie fitness in Swords",
+      "slug": "name-county-energie-fitness-in-swords-dublin",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-energie-fitness-in-swords-dublin/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:157217",
+      "target_name": "GARDEN LEISURE PRODUCTS LIMITED/TROSCAN GHAIRDINI TEORANTA",
+      "slug": "cro-157217",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-157217/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-157217/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-157217/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-157217/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-157217/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:369982",
+      "target_name": "GARDEN PRIDE TOOL HIRE LIMITED",
+      "slug": "cro-369982",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-369982/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-369982/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-369982/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-369982/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-369982/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:345282",
+      "target_name": "LAWN RANGER LIMITED",
+      "slug": "cro-345282",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-345282/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-345282/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-345282/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-345282/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-345282/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "cro:106973",
+      "target_name": "(POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA",
+      "slug": "cro-106973",
+      "readiness": "discard",
+      "score": 23.1,
+      "evidence_gap_count": 1,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/cro-106973/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/cro-106973/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/cro-106973/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/cro-106973/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/cro-106973/watch_note.md"
+      }
+    },
+    {
+      "identity_key": "name_county:young engineers franchise in dublin:dublin",
+      "target_name": "Young Engineers Franchise in Dublin",
+      "slug": "name-county-young-engineers-franchise-in-dublin-dublin",
+      "readiness": "discard",
+      "score": 23.6,
+      "evidence_gap_count": 0,
+      "relative_html": null,
+      "relative_markdown": "ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/watch_note.md",
+      "written": {
+        "evidence_gate_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/evidence_gate.json",
+        "diligence_plan_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/diligence_plan.json",
+        "review_context_json": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/review_context.json",
+        "watch_note_md": "tmp/public-dashboard-build/ic_packs/name-county-young-engineers-franchise-in-dublin-dublin/watch_note.md"
       }
     }
   ]

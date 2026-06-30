@@ -59,16 +59,16 @@
 
 ## Discarded Targets
 
-- (POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA | discard | score 23.1 | next: defer_until_new_evidence
-- 2TYPE3 SUSTAINABILITY PARTNERS LIMITED | discard | score 23.1 | next: defer_until_new_evidence
-- 36 O'CONNELL STREET MANAGEMENT LIMITED | discard | score 23.1 | next: defer_until_new_evidence
-- 3D VENTURES LIMITED | discard | score 23.1 | next: defer_until_new_evidence
-- 40 DEGREES LIMITED | discard | score 21.0 | next: defer_until_new_evidence
-- 4D SOFTWARE LIMITED | discard | score 21.0 | next: defer_until_new_evidence
-- A & M. DISTRIBUTORS LIMITED | discard | score 23.1 | next: defer_until_new_evidence
-- A & P AVIATION LIMITED | discard | score 23.1 | next: defer_until_new_evidence
-- A J D DEVELOPMENTS LIMITED | discard | score 21.0 | next: defer_until_new_evidence
-- A. B. C. CUISINES LIMITED | discard | score 23.1 | next: defer_until_new_evidence
+- (POLYCRAFTS IRELAND LIMITED) OLL CHEARD EIRE TEORANTA | discard | score 0.0 | next: defer_until_new_evidence
+- 2TYPE3 SUSTAINABILITY PARTNERS LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- 36 O'CONNELL STREET MANAGEMENT LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- 3D VENTURES LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- 40 DEGREES LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- 4D SOFTWARE LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- A & M. DISTRIBUTORS LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- A & P AVIATION LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- A J D DEVELOPMENTS LIMITED | discard | score 0.0 | next: defer_until_new_evidence
+- A. B. C. CUISINES LIMITED | discard | score 0.0 | next: defer_until_new_evidence
 
 ## Calibration Capture
 

@@ -4,8 +4,8 @@
     "investment_ready": 1,
     "origination_ready": 89,
     "research_needed": 148,
-    "discard": 29,
-    "watchlist_only": 43
+    "watchlist_only": 43,
+    "discard": 29
   },
   "target_universe_counts": {
     "advertised_sale_listing": 234,

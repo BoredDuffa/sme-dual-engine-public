@@ -36,7 +36,7 @@
 ## Company-Universe Sources
 
 - CRO Company Records open-data daily snapshot; company-count evidence by local area and sector. | https://opendata.cro.ie/dataset/companies | 2026-06-25 | approved by Benjamin Falkenburg | 15 row(s)
-- Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census. | https://github.com/RnDprincipiacapital/SME-Dual_Engine/blob/main/samples/galway-sme-dashboard-expanded-public.json | 2026-06-29 | approved by Benjamin Falkenburg | 6 row(s)
+- Observed lower-bound count from public-safe operating SME/profile target evidence; not a full company census. | https://rndprincipiacapital.github.io/sme-dual-engine-public/targets.json | 2026-06-29 | approved by Benjamin Falkenburg | 6 row(s)
 
 ## Next Actions
 

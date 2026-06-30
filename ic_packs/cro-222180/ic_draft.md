@@ -69,7 +69,7 @@
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 222180
 - `source_section` from cro_open_services (observed, confidence 1.0): cro_targets
-- `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/222180/C?format=json
+- `source_url` from cro_open_services (observed, confidence 1.0): 
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Normal, Registered: 1994-09-15, Last annual return: 2025-07-31
 - `town` from cro_open_services (observed, confidence 1.0): UNIT 8
-- `website` from local_enrichment (inferred, confidence 0.55): https://services.cro.ie/cws/company/222180/C?format=json
+- `website` from local_enrichment (inferred, confidence 0.55): 

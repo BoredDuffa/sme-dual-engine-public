@@ -14,7 +14,7 @@
   "company_universe_request_rows": 87,
   "taxonomy_sector_count": 15,
   "taxonomy_subsector_count": 104,
-  "observed_subsector_count": 35,
+  "observed_subsector_count": 25,
   "decision": {
     "can_share_with_boss": true,
     "can_use_for_investment_decisions": false,
@@ -34,7 +34,7 @@
     {
       "area": "Sector taxonomy",
       "status": "ready",
-      "evidence": "15 sectors and 104 subsectors are configured; 35 subsectors currently have observed targets/listings/evidence."
+      "evidence": "15 sectors and 104 subsectors are configured; 25 subsectors currently have observed targets/listings/evidence."
     },
     {
       "area": "Approved source rows",

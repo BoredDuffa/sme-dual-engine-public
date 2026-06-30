@@ -2,8 +2,8 @@
   "status": "ready",
   "taxonomy_sector_count": 15,
   "taxonomy_subsector_count": 104,
-  "observed_subsector_count": 35,
-  "multi_source_subsector_count": 14,
+  "observed_subsector_count": 25,
+  "multi_source_subsector_count": 10,
   "ranked_target_count": 95,
   "sale_listing_count": 215,
   "company_count_evidence_total": 481,
@@ -11,51 +11,42 @@
     {
       "sector": "Business Services",
       "subsector": "Cleaning & facilities management",
-      "ranked_targets": 34,
-      "sale_listings": 44,
+      "ranked_targets": 44,
+      "sale_listings": 97,
       "company_count_evidence": 472,
-      "observed_rows": 93,
+      "observed_rows": 156,
       "coverage_status": "multi_source_observed"
     },
     {
       "sector": "Hospitality & Tourism",
       "subsector": "Bars & pubs",
-      "ranked_targets": 25,
-      "sale_listings": 75,
+      "ranked_targets": 20,
+      "sale_listings": 66,
       "company_count_evidence": 9,
-      "observed_rows": 106,
+      "observed_rows": 92,
       "coverage_status": "multi_source_observed"
     },
     {
       "sector": "Industrials & Engineering",
       "subsector": "Precision engineering & manufacturing",
       "ranked_targets": 5,
-      "sale_listings": 19,
+      "sale_listings": 14,
       "company_count_evidence": 0,
-      "observed_rows": 24,
+      "observed_rows": 19,
       "coverage_status": "multi_source_observed"
     },
     {
       "sector": "Construction & Built Environment",
       "subsector": "Civil & groundworks",
       "ranked_targets": 4,
-      "sale_listings": 5,
+      "sale_listings": 4,
       "company_count_evidence": 0,
-      "observed_rows": 9,
+      "observed_rows": 8,
       "coverage_status": "multi_source_observed"
     },
     {
-      "sector": "Food & Agribusiness",
-      "subsector": "Wholesale distribution",
-      "ranked_targets": 3,
-      "sale_listings": 12,
-      "company_count_evidence": 0,
-      "observed_rows": 15,
-      "coverage_status": "multi_source_observed"
-    },
-    {
-      "sector": "Construction & Built Environment",
-      "subsector": "Landscaping & grounds maintenance",
+      "sector": "Hospitality & Tourism",
+      "subsector": "Restaurants & cafes",
       "ranked_targets": 3,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -81,30 +72,12 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Hospitality & Tourism",
-      "subsector": "Restaurants & cafes",
-      "ranked_targets": 2,
-      "sale_listings": 9,
-      "company_count_evidence": 0,
-      "observed_rows": 11,
-      "coverage_status": "multi_source_observed"
-    },
-    {
-      "sector": "Hospitality & Tourism",
-      "subsector": "Hotels & guesthouses",
-      "ranked_targets": 2,
-      "sale_listings": 4,
-      "company_count_evidence": 0,
-      "observed_rows": 6,
-      "coverage_status": "multi_source_observed"
-    },
-    {
       "sector": "Food & Agribusiness",
-      "subsector": "Farm machinery & agri services",
+      "subsector": "Wholesale distribution",
       "ranked_targets": 2,
-      "sale_listings": 2,
+      "sale_listings": 10,
       "company_count_evidence": 0,
-      "observed_rows": 4,
+      "observed_rows": 12,
       "coverage_status": "multi_source_observed"
     },
     {
@@ -117,17 +90,17 @@
       "coverage_status": "multi_source_observed"
     },
     {
-      "sector": "Healthcare & Life Sciences",
-      "subsector": "GP & primary care practices",
-      "ranked_targets": 1,
-      "sale_listings": 3,
+      "sector": "Construction & Built Environment",
+      "subsector": "Landscaping & grounds maintenance",
+      "ranked_targets": 2,
+      "sale_listings": 0,
       "company_count_evidence": 0,
-      "observed_rows": 4,
-      "coverage_status": "multi_source_observed"
+      "observed_rows": 2,
+      "coverage_status": "observed"
     },
     {
-      "sector": "Food & Agribusiness",
-      "subsector": "Butchers & artisan food producers",
+      "sector": "Healthcare & Life Sciences",
+      "subsector": "GP & primary care practices",
       "ranked_targets": 1,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -136,7 +109,7 @@
     },
     {
       "sector": "Retail & Consumer",
-      "subsector": "Furniture & interiors",
+      "subsector": "Garden centres & nurseries",
       "ranked_targets": 1,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -153,8 +126,8 @@
       "coverage_status": "multi_source_observed"
     },
     {
-      "sector": "Business Services",
-      "subsector": "Security & guarding services",
+      "sector": "Food & Agribusiness",
+      "subsector": "Agricultural supply & co-ops",
       "ranked_targets": 1,
       "sale_listings": 0,
       "company_count_evidence": 0,
@@ -171,6 +144,15 @@
       "coverage_status": "observed"
     },
     {
+      "sector": "Retail & Consumer",
+      "subsector": "Furniture & interiors",
+      "ranked_targets": 1,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 1,
+      "coverage_status": "observed"
+    },
+    {
       "sector": "Technology & IT Services",
       "subsector": "Software development",
       "ranked_targets": 1,
@@ -180,26 +162,8 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Retail & Consumer",
-      "subsector": "Specialist retail (sports, outdoors, music)",
-      "ranked_targets": 0,
-      "sale_listings": 9,
-      "company_count_evidence": 0,
-      "observed_rows": 9,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Healthcare & Life Sciences",
-      "subsector": "Dental practices",
-      "ranked_targets": 0,
-      "sale_listings": 5,
-      "company_count_evidence": 0,
-      "observed_rows": 5,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Construction & Built Environment",
-      "subsector": "Fit-out & refurbishment",
+      "sector": "Hospitality & Tourism",
+      "subsector": "Hotels & guesthouses",
       "ranked_targets": 0,
       "sale_listings": 4,
       "company_count_evidence": 0,
@@ -216,8 +180,17 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Industrials & Engineering",
-      "subsector": "Fire protection & safety systems",
+      "sector": "Healthcare & Life Sciences",
+      "subsector": "Dental practices",
+      "ranked_targets": 0,
+      "sale_listings": 3,
+      "company_count_evidence": 0,
+      "observed_rows": 3,
+      "coverage_status": "observed"
+    },
+    {
+      "sector": "Food & Agribusiness",
+      "subsector": "Farm machinery & agri services",
       "ranked_targets": 0,
       "sale_listings": 2,
       "company_count_evidence": 0,
@@ -234,53 +207,8 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Automotive",
-      "subsector": "Motor repair & servicing garages",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Automotive",
-      "subsector": "Tyre & exhaust centres",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Business Services",
-      "subsector": "Printing & signage",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Business Services",
-      "subsector": "Recruitment & staffing agencies",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Food & Agribusiness",
-      "subsector": "Agricultural supply & co-ops",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Food & Agribusiness",
-      "subsector": "Bakeries & food service suppliers",
+      "sector": "Construction & Built Environment",
+      "subsector": "Fit-out & refurbishment",
       "ranked_targets": 0,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -297,26 +225,8 @@
       "coverage_status": "observed"
     },
     {
-      "sector": "Retail & Consumer",
-      "subsector": "Convenience & forecourt retail",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Retail & Consumer",
-      "subsector": "Garden centres & nurseries",
-      "ranked_targets": 0,
-      "sale_listings": 1,
-      "company_count_evidence": 0,
-      "observed_rows": 1,
-      "coverage_status": "observed"
-    },
-    {
-      "sector": "Retail & Consumer",
-      "subsector": "Motor parts & accessories",
+      "sector": "Industrials & Engineering",
+      "subsector": "Fire protection & safety systems",
       "ranked_targets": 0,
       "sale_listings": 1,
       "company_count_evidence": 0,
@@ -352,6 +262,15 @@
     },
     {
       "sector": "Automotive",
+      "subsector": "Motor repair & servicing garages",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Automotive",
       "subsector": "NCT & commercial vehicle testing",
       "ranked_targets": 0,
       "sale_listings": 0,
@@ -362,6 +281,15 @@
     {
       "sector": "Automotive",
       "subsector": "Truck & commercial vehicle repair",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Automotive",
+      "subsector": "Tyre & exhaust centres",
       "ranked_targets": 0,
       "sale_listings": 0,
       "company_count_evidence": 0,
@@ -389,6 +317,33 @@
     {
       "sector": "Business Services",
       "subsector": "Pest control & hygiene services",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Business Services",
+      "subsector": "Printing & signage",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Business Services",
+      "subsector": "Recruitment & staffing agencies",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Business Services",
+      "subsector": "Security & guarding services",
       "ranked_targets": 0,
       "sale_listings": 0,
       "company_count_evidence": 0,
@@ -533,6 +488,24 @@
     {
       "sector": "Financial & Professional Services",
       "subsector": "Wealth management",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Food & Agribusiness",
+      "subsector": "Bakeries & food service suppliers",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Food & Agribusiness",
+      "subsector": "Butchers & artisan food producers",
       "ranked_targets": 0,
       "sale_listings": 0,
       "company_count_evidence": 0,
@@ -766,6 +739,15 @@
     },
     {
       "sector": "Retail & Consumer",
+      "subsector": "Convenience & forecourt retail",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Retail & Consumer",
       "subsector": "Hardware & DIY",
       "ranked_targets": 0,
       "sale_listings": 0,
@@ -775,7 +757,25 @@
     },
     {
       "sector": "Retail & Consumer",
+      "subsector": "Motor parts & accessories",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Retail & Consumer",
       "subsector": "Off-licence & drinks retail",
+      "ranked_targets": 0,
+      "sale_listings": 0,
+      "company_count_evidence": 0,
+      "observed_rows": 0,
+      "coverage_status": "not_observed"
+    },
+    {
+      "sector": "Retail & Consumer",
+      "subsector": "Specialist retail (sports, outdoors, music)",
       "ranked_targets": 0,
       "sale_listings": 0,
       "company_count_evidence": 0,

@@ -892,7 +892,7 @@
       "missing_evidence": "confidence/source check required",
       "next_action": "keep_on_watchlist",
       "review_owner": "Dylan / analyst",
-      "source_url": "https://services.cro.ie/cws/company/711992/C?format=json",
+      "source_url": "",
       "report_href": "ic_packs/cro-711992/ic_draft.html"
     },
     {
@@ -916,7 +916,7 @@
       "missing_evidence": "sector subsector",
       "next_action": "defer_until_new_evidence",
       "review_owner": "Dylan / analyst",
-      "source_url": "https://services.cro.ie/cws/company/786116/C?format=json",
+      "source_url": "",
       "report_href": "ic_packs/cro-786116/ic_draft.html"
     },
     {
@@ -940,7 +940,7 @@
       "missing_evidence": "sector subsector",
       "next_action": "defer_until_new_evidence",
       "review_owner": "Dylan / analyst",
-      "source_url": "https://services.cro.ie/cws/company/59625/C?format=json",
+      "source_url": "",
       "report_href": "ic_packs/cro-59625/ic_draft.html"
     },
     {
@@ -964,7 +964,7 @@
       "missing_evidence": "sector subsector",
       "next_action": "defer_until_new_evidence",
       "review_owner": "Dylan / analyst",
-      "source_url": "https://services.cro.ie/cws/company/222180/C?format=json",
+      "source_url": "",
       "report_href": "ic_packs/cro-222180/ic_draft.html"
     },
     {
@@ -988,7 +988,7 @@
       "missing_evidence": "sector subsector",
       "next_action": "defer_until_new_evidence",
       "review_owner": "Dylan / analyst",
-      "source_url": "https://services.cro.ie/cws/company/698394/C?format=json",
+      "source_url": "",
       "report_href": "ic_packs/cro-698394/ic_draft.html"
     }
   ]

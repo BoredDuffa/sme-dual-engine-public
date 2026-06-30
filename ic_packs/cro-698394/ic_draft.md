@@ -68,7 +68,7 @@
 - `source` from cro_open_services (observed, confidence 1.0): cro_open_services
 - `source_key` from cro_open_services (observed, confidence 1.0): 698394
 - `source_section` from cro_open_services (observed, confidence 1.0): cro_targets
-- `source_url` from cro_open_services (observed, confidence 1.0): https://services.cro.ie/cws/company/698394/C?format=json
+- `source_url` from cro_open_services (observed, confidence 1.0): 
 - `summary` from cro_open_services (observed, confidence 1.0): CRO company record, Status: Normal, Registered: 2021-06-18, Last annual return: 2025-06-18
 - `town` from cro_open_services (observed, confidence 1.0): 15 ST BRIDGET'S PLACE
-- `website` from local_enrichment (inferred, confidence 0.55): https://services.cro.ie/cws/company/698394/C?format=json
+- `website` from local_enrichment (inferred, confidence 0.55): 
