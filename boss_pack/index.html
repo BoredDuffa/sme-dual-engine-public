@@ -13,17 +13,18 @@ h1{margin:0 0 6px;font-size:28px}h2{font-size:18px;margin:22px 0 8px}p{color:var
 .panel{background:#fff;border:1px solid var(--line);border-radius:6px;padding:14px;margin:12px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}.card{border:1px solid var(--line);border-radius:4px;background:var(--soft);padding:10px}.card b{display:block;font-size:22px}.card span{display:block;color:var(--muted);font-size:12px;margin-top:3px}
 table{border-collapse:collapse;width:100%;background:#fff;border:1px solid var(--line);font-size:13px}th,td{border-bottom:1px solid var(--line);padding:8px;text-align:left;vertical-align:top}th{background:var(--soft);font-size:11px;text-transform:uppercase;color:#435061}td{overflow-wrap:anywhere}
 .downloads{display:flex;gap:8px;flex-wrap:wrap}.small{font-size:12px;color:var(--muted)}
-@media print{body{background:#fff}header,main{max-width:none}.nav,.downloads .json{display:none}.panel,table{break-inside:avoid}}
+@media print{body{background:#fff}header,main{max-width:none}.nav{display:none}.panel,table{break-inside:avoid}}
 </style>
 </head>
 <body>
 <header>
 <h1>SME Dual Engine Boss Pack</h1>
-<p>Microsoft-friendly public view. Use CSV links for Excel, or print this page to PDF.</p>
+<p>Microsoft-friendly public view. Use the Excel workbook links for review, or print this page to PDF.</p>
 <nav class='nav'><a class='primary' href='../index.html'>Dashboard</a><a href='index.html'>Boss pack</a><a href='../guide.html'>Guide</a></nav>
 </header>
 <main>
 <section class='panel'><h2>Open First</h2><div class='downloads'>
+<a class='button primary' href='sme_dual_engine_boss_pack.xlsx' download>Download Excel pack</a>
 <a class='button primary' href='executive_summary.html'>Executive summary</a>
 <a class='button primary' href='priority_research.html'>Priority research</a>
 <a class='button' href='weekly_review.html'>Weekly review</a>
@@ -32,11 +33,20 @@ table{border-collapse:collapse;width:100%;background:#fff;border:1px solid var(-
 </div></section>
 <section class='panel'><h2>Current Snapshot</h2><div class='grid'><article class='card'><b>33 / 120</b><span>Approved source rows</span></article><article class='card'><b>310</b><span>Ranked targets</span></article><article class='card'><b>40</b><span>Priority research rows</span></article><article class='card'><b>84 / 100</b><span>Readiness score</span></article><article class='card'><b>226</b><span>Advertised sale listings</span></article><article class='card'><b>21</b><span>Company evidence rows</span></article></div></section>
 <section class='panel'><h2>Excel Downloads</h2><div class='downloads'>
-<a class='button primary' href='priority_research_queue.csv' download>Priority research CSV</a>
-<a class='button primary' href='target_table.csv' download>Target table CSV</a>
+<a class='button primary' href='sme_dual_engine_boss_pack.xlsx' download>Full Excel pack</a>
+<a class='button' href='priority_research_queue.xlsx' download>Priority research workbook</a>
+<a class='button' href='target_table.xlsx' download>Target table workbook</a>
+<a class='button' href='weekly_review.xlsx' download>Weekly review workbook</a>
+<a class='button' href='readiness_scorecard.xlsx' download>Readiness workbook</a>
+<a class='button' href='data_room_checklist.xlsx' download>Data room workbook</a>
+<a class='button' href='company_count_evidence.xlsx' download>Company evidence workbook</a>
+</div><p class='small'>CSV files remain available as Excel-compatible fallbacks, but the workbooks above are the intended review outputs.</p></section>
+<section class='panel'><h2>CSV Fallbacks</h2><div class='downloads'>
+<a class='button' href='priority_research_queue.csv' download>Priority research CSV</a>
+<a class='button' href='target_table.csv' download>Target table CSV</a>
 <a class='button' href='weekly_ready_targets.csv' download>Ready targets CSV</a>
 <a class='button' href='weekly_research_targets.csv' download>Research targets CSV</a>
 <a class='button' href='company_count_evidence.csv' download>Company evidence CSV</a>
-</div><p class='small'>JSON remains available from the dashboard for technical use, but these files are the intended Microsoft-friendly outputs.</p></section>
+</div></section>
 </main>
 </body></html>

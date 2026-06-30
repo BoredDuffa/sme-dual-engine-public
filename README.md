@@ -14,7 +14,7 @@ Source engine repo:
 
 This is a sanitized public demo of the SME Dual Engine. It lets a reviewer interact with the current Dual Engine dashboard, inspect public-safe target rankings, view evidence-gate status, read the guide page, and download public artifacts.
 
-The boss-facing workflow is Microsoft-friendly by default: open the Boss Pack HTML pages in a browser, download CSV files for Excel, or print any Boss Pack page to PDF. JSON remains published for technical review and automation, but it is no longer the primary reviewer path.
+The boss-facing workflow is Microsoft-friendly by default: download the formatted Excel pack, open the Boss Pack HTML pages in a browser, or print any Boss Pack page to PDF. CSV files remain available as compatibility fallbacks. JSON remains published for technical review and automation, but it is no longer the primary reviewer path.
 
 It is designed for demonstration and review. The private internal tool remains the source of truth for confidential research, analyst notes, outreach workflow, and non-public company evidence.
 
@@ -25,10 +25,17 @@ The public site includes:
 - `index.html`: interactive Dual Engine dashboard.
 - `guide.html`: plain-English guide to the dashboard.
 - `boss_pack/index.html`: Microsoft-friendly reviewer landing page.
+- `boss_pack/sme_dual_engine_boss_pack.xlsx`: full formatted Excel workbook with all boss-facing tabs.
 - `boss_pack/executive_summary.html`: readable executive summary.
 - `boss_pack/priority_research.html`: browser table for the priority research queue.
-- `boss_pack/priority_research_queue.csv`: Excel-ready priority research queue.
-- `boss_pack/target_table.csv`: Excel-ready full public target table.
+- `boss_pack/priority_research_queue.xlsx`: formatted Excel priority research workbook.
+- `boss_pack/target_table.xlsx`: formatted Excel full public target workbook.
+- `boss_pack/weekly_review.xlsx`: formatted Excel weekly review workbook.
+- `boss_pack/readiness_scorecard.xlsx`: formatted Excel readiness workbook.
+- `boss_pack/data_room_checklist.xlsx`: formatted Excel data-room workbook.
+- `boss_pack/company_count_evidence.xlsx`: formatted Excel company-evidence workbook.
+- `boss_pack/priority_research_queue.csv`: CSV fallback for the priority research queue.
+- `boss_pack/target_table.csv`: CSV fallback for the full public target table.
 - `boss_pack/weekly_review.html`: readable weekly review page.
 - `boss_pack/readiness_scorecard.html`: readable readiness scorecard.
 - `boss_pack/data_room_checklist.html`: readable data-room checklist.
@@ -92,7 +99,8 @@ The public dashboard currently includes:
 - sale-listing feed section;
 - guide page;
 - Boss Pack HTML pages;
-- Excel-ready CSV downloads;
+- formatted Excel workbook downloads;
+- Excel-compatible CSV fallbacks;
 - technical JSON artifacts for audit and automation.
 
 Company-count evidence combines approved CRO rows with observed public-profile operating SME rows. Observed public-profile evidence is lower-bound evidence, not a full company census.
